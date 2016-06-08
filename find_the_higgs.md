@@ -2,19 +2,22 @@
 
 Follow the steps of a real ATLAS analysis. 
 
-The Higgs decays into 2 Z bosons which subsequently decay into 2 leptons and 2 quarks (**H->ZZ->llqq**).
+**H->ZZ->llqq**.
+
+We are looking for a Higgs which decays into 2 Z bosons which subsequently decay into 2 leptons and 2 quarks. 
 
 Use the cursor to implement the following cuts, one by one.
 As you apply the cuts, you should see the distributions and number of events changing.  Check your number of events remaining with the numbers in the table below.
 
-Cuts:
 
-* OppositeSign:  The product of the charges of the two selected muons (lep charge product)
+## Cuts:
+
+* Opposite Sign:  The product of the charges of the two selected muons (lep charge product)
 should be equal to -1.  (Not to be applied to Electron channel)
 
-* TwoJets:  The number of jets (njets) should be at least 2
+* Two Jets:  The number of jets (njets) should be at least 2
 
-* DileptonMass:  The invariant mass of the two leptons (lepZm) must be between 83 GeV and 99 GeV
+* Dilepton Mass:  The invariant mass of the two leptons (lepZm) must be between 83 GeV and 99 GeV
 
 * MET: The value of the Missing Transverse Energy (MET) should be less than 60 GeV
 
