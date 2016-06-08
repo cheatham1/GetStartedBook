@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Find the Higgs
-* Analysis
+* [Analysis](analysis.md)
 
