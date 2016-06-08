@@ -3,7 +3,7 @@
 **A web based tool allowing  fast cut-based pre-analysis on data and Monte-Carlo simulated data.  Online visualisation!
 **
 
-The webpage displays nine histogram-like plots, the variables that are the most often used in analysis cut flows.  
+The webpage displays nine histogram-like plots, variables that are often used in cut-flow analysis.  
 
 Cuts can be performed with the cursor on one variable and the behaviour of the other variables is seen immediately.  **Have a go!**
 
