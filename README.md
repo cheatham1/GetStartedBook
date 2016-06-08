@@ -9,14 +9,3 @@ Cuts can be performed with the cursor on one variable and the behaviour of the o
 
 The App Analyser can simplify and speed-up the selection of cuts, before the usual coding procedure.
 
-
-
-
-|Cut          | Number of Events     |
-| -- | -- |
-|No cut         |      |
-|Opposite sign  | 8056 |
-|Two jets       | 7282 |
-|DilpetonMass   | 6088 |
-|MET            | 5758 |
-
