@@ -2,7 +2,7 @@
 
 Follow the steps of a real ATLAS analysis. 
 
-**H->ZZ->llqq**.
+**H->ZZ->llqq**
 
 We are looking for a Higgs which decays into 2 Z bosons which subsequently decay into 2 leptons and 2 quarks. 
 
