@@ -22,6 +22,18 @@ Select:
 
 
 
+## Analysis 2:
+Select: 
+* **0 jets**
+
+* **MET < 20GeV**
+
+* **No B-tag**
+
+* **Only electron-muon (em) channel**
+
+* **SumLepPt < 20**
+
 
 
 
