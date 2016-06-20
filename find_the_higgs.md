@@ -2,9 +2,9 @@
 
 Follow the steps of a real ATLAS analysis. 
 
-**H->ZZ->llqq**
+**H->WW**
 
-We are looking for a Higgs which decays into 2 Z bosons which subsequently decay into 2 leptons and 2 quarks. 
+We are looking for a Higgs which decays into 2 W bosons which subsequently decay into leptons. 
 
 Use the cursor to implement the following cuts, one by one.
 As you apply the cuts, you should see the distributions and number of events changing.  Check your number of events remaining with the numbers in the table below.
