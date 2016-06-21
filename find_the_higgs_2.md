@@ -1,4 +1,4 @@
-# Find the Higgs 2
+# Find the Higgs
 
 Now let's try to separate the signal:
 
@@ -14,13 +14,12 @@ Events which contain two leptons, high MET and no jets.
 ![](pictures/HWW0jets.png)
 
 The dominant background after all cuts in the
-H + 0 jet channel comes from continuum WW
+H + 0 jet channel comes from WW
 production, with a smaller contribution from top events.
-
 
 ## H + 1 jet
 
-Events which contain two leptons, high MET and 1 b-tagged jet.
+Events which contain two leptons, high MET and 1 non b-tagged jet.
 
 * Njet = 1
 * Btag = no
