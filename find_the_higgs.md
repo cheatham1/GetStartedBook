@@ -11,7 +11,7 @@ As you apply the cuts, you should see the distributions changing.
 
 ## Analysis 1:
 
-If a W-boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
+If we consider both W-boson decay leptonically, the final state is characterised by the presence of two highly energetic leptons, large MET and 2 jets from the 2 b-quarks.
 
 Select: 
 * **4 jets**
