@@ -32,6 +32,12 @@ The number and type of jets, amount of MET and lepton decay channel are therefor
 
 Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.
 
+## Raw number of events
+
+When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; HWW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
+
+This is the bottom right histogram.
+
 ## NJets
 
 
@@ -118,6 +124,4 @@ Select only the em channel, then the number of Z bosons decreases substantially.
 
 Selecting 2 jets and the em channel, then we have mostly ttbar events.
 
-## Raw number of events
 
-When you are making cuts it is interesting to watch the relative number of events for the 4 processes.  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
