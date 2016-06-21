@@ -1,4 +1,5 @@
-****# Find the Higgs
+
+# Find the Higgs
 
 Follow the steps of a real ATLAS analysis. 
 
