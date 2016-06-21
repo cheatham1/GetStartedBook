@@ -23,6 +23,7 @@ Select:
 ![](pictures/ttbarSelection.png)
 
 ## Analysis 2:
+Clear your previous selection by clicking on App Analyser under Get Started in the main top menu.
 
 Select: 
 * **0 jets**
@@ -39,7 +40,7 @@ We also see that we have about 100 HWW events and 800 WW events left after the c
 Look at the ZWindow.
 There are 2 peaks.  One at 10-25 GeV and the other at 35-40 GeV.
 
-**Why do we see no Z in the N events histo, but we do see Z in the fiducial **
+**Why do we see no Z in the N events histo, but we do see Z in the fiducial cross section? **
 
 Now add a cut requiring Zwindow > 60GeV
 
