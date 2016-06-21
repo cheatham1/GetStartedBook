@@ -17,7 +17,7 @@ The dominant background after all cuts in the
 H + 0 jet channel comes from WW
 production, with a smaller contribution from top events.
 
-## H + 1 jet
+## Higgs boson + 1 jet
 
 Events which contain two leptons, high MET and 1 non b-tagged jet.
 
@@ -33,5 +33,7 @@ Events which contain two leptons, high MET and 1 non b-tagged jet.
 
 ## Have a go yourself !
 
-Try the H + 1 jet, but perhaps separate into leptonic channels with dfferent cuts.
+Perhaps try the Higgs boson + 1 jet, but separate into leptonic channels and tune the cuts to maximise the number and purity of HWW events.  
+
+Or try something completely different...
 
