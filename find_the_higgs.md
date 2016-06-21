@@ -36,7 +36,6 @@ This is the top-quark background.
 
 Select: 
 * **0 jets**
-* **No B-tag**
 * **MET < 20GeV**
 * **Only electron-muon (em) channel**
 * **DeltaPhiLL > 160**
