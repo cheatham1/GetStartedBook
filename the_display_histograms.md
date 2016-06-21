@@ -35,15 +35,15 @@ Understanding a physics process can help motivate cuts on variables to select or
 ## NJets
 
 
-<img style="width: 300px; height: 220px;" src="pictures/NjetsNoSelection.png">
-<img style="width: 250px; height: 180px;" src="pictures/NeventsNoSelection.png">
+<img style="width: 300px; height: 200px;" src="pictures/NjetsNoSelection.png">
+<img style="width: 250px; height: 150px;" src="pictures/NeventsNoSelection.png">
 
 Number of jets found in the event.
 With no selection, Z boson events are dominant.
 **But other process not negigible, so why is Njets histogram predominantly red ?**
 
-<img style="width: 300px; height: 220px;" src="pictures/Njets2plus.png">
-<img style="width: 250px; height: 180px;" src="pictures/Nevents2jetsplus.png">
+<img style="width: 300px; height: 200px;" src="pictures/Njets2plus.png">
+<img style="width: 250px; height: 150px;" src="pictures/Nevents2jetsplus.png">
 
 Selecting 2 or more jets, reduces the number of Z boson events and increases the proportion of ttbar events.
 **But why does the Njet histogram remain red? (ie Z)**
@@ -60,8 +60,8 @@ However, the initial energy of particles travelling transverse to the beam axis 
 Missing energy is commonly used to infer the presence of non-detectable particles such as the standard model neutrino and is expected to be a signature of many predicted physics events that contain particles that do not interact with the detector, for example the lightest [supersymmetric](http://home.cern/scientists/updates/2013/10/supersymmetry-searches-atlas) particle.
 
 
-<img style="width: 300px; height: 220px;" src="pictures/METselection40.png">
-<img style="width: 250px; height: 180px;" src="pictures/Nevents_MET40.png">
+<img style="width: 300px; height: 200px;" src="pictures/METselection40.png">
+<img style="width: 250px; height: 150px;" src="pictures/Nevents_MET40.png">
 
 Requiring MET removes Z boson events as it is does not have any neutrinos in the final state while the other processes do.
 
@@ -108,13 +108,13 @@ Z boson production is quite pure since it has a large cross section.
 
 <img style="width: 300px; height: 200px;" src="pictures/em.png">
 
+<img style="width: 600px; height: 150px;" src="pictures/Nevents_em.png">
 
-![](pictures/Nevents_em.png)
 Select only the em channel, then the number of Z bosons decreases substantially. 
 
+<img style="width: 600px; height: 200px;" src="pictures/2jets_em.png">
 
-![](pictures/2jets_em.png)
-![](pictures/Events_2jets_em.png)
+<img style="width: 600px; height: 150px;" src="pictures/Events_2jets_em.png">
 
 Selecting 2 jets and the em channel, then we have mostly ttbar events.
 
