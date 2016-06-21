@@ -1,6 +1,6 @@
 # App Analyser
 
-**A web based tool allowing  fast cut-based pre-analysis on data and Monte-Carlo simulated data.  Online visualisation!
+**A web based tool allowing fast cut-based pre-analysis on data and Monte-Carlo simulated data.  Online visualisation!
 **
 
 The webpage displays nine histogram-like plots, variables that are often used in cut-flow analysis.  
