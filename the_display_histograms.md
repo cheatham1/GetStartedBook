@@ -6,7 +6,7 @@ The description of each follows.
 Let us consider two physics processes to understand which variables are important and why.
 
 
-## top pair production
+## top quark pair production
 
 In the SM, the top-quark decays into a W-boson and a
 b-quark with a branching ratio close to 100%.
@@ -19,9 +19,12 @@ If a W-boson decays leptonically, the final state is characterised by the presen
 
 If a W-boson decays hadronically, the final state is characterised by the presence of two jets due to the two quarks.
 
-The two b-quarks from the top-quark decays will be seen as jets in the final state.   
+The two b-quarks from the top-quark decays will be seen as two jets in the final state.   
 
-In the App Analyser we have chosen datasets where both W-bosons decay leptonically.  So top pair production is accompanied by multiple jets.
+So if both W-bosons decay hadronically, 4 jets are seen.
+If both W-bosons decay leptonically 2 jets are seen.
+If the deacy is semi-leptonic, 1 W-boson decays letonically and the other hadronically, 3 jets are seen.
+
 
 ## NJets
 
@@ -30,13 +33,9 @@ In the App Analyser we have chosen datasets where both W-bosons decay leptonical
 
 Number of jets found in the event.
 
-ttbar is accompanied by 2 or more jets. 
-HWW is most prominent with 0 or 1 jet.  
-
-
 ## Channel
 
-If both W-bosons decay leptonically we have either a di-electron (ee) , electron-muon (em) or muon-muon (mm) channel. Decays to taus or hadrons are not considered in this case.
+Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) or muon-muon (mm) channel. Decays to taus or hadrons are not considered in this case.
 
 ## MET
 
@@ -50,33 +49,40 @@ Requiring MET removes Z+jets as it is does not have any neutrinos in the final s
 
 ## BTag
 
-This is a boolean whether there have been b-tagged jets or not in the event. This is actually something for the 1 jet bin and to get rid of ttbar as it is the one background where we expect to see btags
+This is the identification or "tagging" of jets originating from bottom quarks.
+
+Btagged jets are expected in top quark decay, but not in leptonic W boson decay.
 
 
 ## ZWindow
 
-This gives the deviation of the dilepton mass from the Z peak. For Z events this is obviously peaks at 0 but for HWW it peaks away from 0.
+This gives the deviation of the dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) (91 GeV). For Z events this obviously peaks at 0 but for HWW it peaks away from 0.
 
 
 ## SumLepPt
 
-This is the vectorial sum of the transverse momenta of the charged leptons observed. For Z it peaks at 0 as the two leptons from the Z decay are relatively balanced against each other. For HWW you see that this distribution peaks at around 50.
+This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the charged leptons observed. For the Z boson it peaks at 0 as the two leptons from the Z decay are relatively balanced against each other. For HWW you see that this distribution peaks at around 50.
 
 
 ## DeltaPhiLL
 
-This is the opening angle in phi between the two leptons. Due to the Higgs being a scalar the distribution seen here peaks at rather low values in contrast to all other backgrounds.
+This is the opening angle in phi between the two leptons.
 
+If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  Selecting DeltaPhiLL = 180 you will see that the majority of events contain Z bosons.  
+
+Selecting DeltaPhiLL < 20 you will see the majority of events contain Higgs bosons.  Leptons from Higgs bosons tend to be close in phi.
 
 
 ## Fiducial cross section
 
+This is an indicator of the purity of the selection. 
 
-One can use it as an indicator of the purity of the selection. In the beginning we have all processes as they were preselected. Because of its large cross section Z is quite pure.
-If we select four jets, MET > 40 GeV, require a b-tag and only take the em channel we have a very pure sample of ttbar
-If we select zero jets, MET < 20 GeV, no btag, ZWindow > 60, only the em channel and SumLepPt < 20 GeV we get a quite clean sample of WW
-Getting a clean HWW sample is not possible but you can get around a qarter of HWW and three quarters of WW in your selection
+To start, we see mostly Z. 
+Z production is quite pure since it has a large cross section.
+
+Select only the em channel, then the number of Z bosons decreases substantially. 
+Selecting 2 jets and the em channel, then we have mostly ttbar events.
 
 ## Raw number of events
 
-
+When you are making cuts it is interesting to watch the relative number of events for the 4 processes.  You want to make selections that preferentially remove the unwanted processes (background) but leaves the signal process.
