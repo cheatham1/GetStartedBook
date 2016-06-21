@@ -15,30 +15,35 @@ If we consider both W-boson decay leptonically, the final state is characterised
 
 Select: 
 * **2 jets**
-
-* **MET > 40GeV**
-
 * **B-tag**
-
+* **MET > 40GeV**
 * **Only electron-muon (em) channel**
 
 
-
+![](pictures/ttbarSelection.png)
 
 ## Analysis 2:
 
-
 Select: 
 * **0 jets**
-
-* **MET < 20GeV**
-
 * **No B-tag**
-
+* **MET < 20GeV**
 * **Only electron-muon (em) channel**
-
-* **SumLepPt < 20**
-
+* **DeltaPhiLL > 160**
 
 
+![](pictures/WWselection2.png)
 
+We also see that we have about 100 HWW events and 800 WW events left after the cuts.
+
+Look at the ZWindow.
+There are 2 peaks.  One at 10-25 GeV and the other at 35-40 GeV.
+
+**Why do we see no Z in the N events histo, but we do see Z in the fiducial **
+
+Now add a cut requiring Zwindow > 60GeV
+
+
+![](pictures/WWpureSelection2.png)
+
+The total number of WW events has reduced to around 100 but the sample is now very pure.
