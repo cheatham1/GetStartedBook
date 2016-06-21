@@ -1,8 +1,27 @@
 # The display histograms
 
 App Analyser displays 9 histograms.
-The description of each follows:
+The description of each follows.
 
+Let us consider two physics processes to understand which variables are important and why.
+
+
+## top pair production
+
+In the SM, the top-quark decays into a W-boson and a
+b-quark with a branching ratio close to 100%.
+
+W-bosons can decay either
+* leptonically: into an electron or muon and neutrino. 
+* hadronically: into an up-type quark and a down-type quark.
+
+If a W-boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
+
+If a W-boson decays hadronically, the final state is characterised by the presence of two jets due to the two quarks.
+
+The two b-quarks from the top-quark decays will be seen as jets in the final state.   
+
+In the App Analyser we have chosen datasets where both W-bosons decay leptonically.  So top pair production is accompanied by multiple jets.
 
 ## NJets
 
@@ -11,15 +30,21 @@ The description of each follows:
 
 Number of jets found in the event.
 
-H->WW is most prominent in the 0 and 1 jet bin, whereas ttbar tends to have higher jet multiplicities
+H->WW is most prominent in the 0 and 1 jet bin,  
+
 
 ## Channel
 
-Both W bosons decay to leptons so we may have either a di-electron (ee) , electron-muon (em) or muon-muon (mm) channel depending on the actual decay taking place. Decays to taus or hadrons are not considered.
+If both W-bosons decay leptonically we have either a di-electron (ee) , electron-muon (em) or muon-muon (mm) channel. Decays to taus or hadrons are not considered in this case.
 
 ## MET
 
-Missing transverse momentum. This cut is mainly intended to get rid off Z+jets as it is does not have any neutrinos in the final state while the other processes do.
+In the LHC, the initial momentum of the colliding particles along the beam axis is not known because the energy of each proton is split, and constantly exchanged, between its constituents.  So the amount of total missing energy cannot be determined. 
+However, the initial energy of particles travelling transverse to the beam axis is zero, so any net momentum in the transverse direction indicates missing transverse energy (MET).
+
+Missing energy is commonly used to infer the presence of non-detectable particles such as the standard model neutrino and is expected to be a signature of many predicted physics events that contain particles that do not interact with the detector, for example the lightest supersymmetric particle.
+
+Requiring MET removes Z+jets as it is does not have any neutrinos in the final state while the other processes do.
 
 
 ## BTag
