@@ -14,7 +14,7 @@ Events which contain two leptons, high MET and no jets.
 ![](pictures/HWW0jets.png)
 
 The dominant background after all cuts in the
-H + 0 jet channel comes from WW
+Higgs boson + 0 jet channel comes from WW
 production, with a smaller contribution from top events.
 
 ## Higgs boson + 1 jet
@@ -30,6 +30,9 @@ Events which contain two leptons, high MET and 1 non b-tagged jet.
 
 ![](pictures/HWW1jet.png)
 
+The dominant background after all cuts in the
+Higgs boson + 1 jet channel comes from WW
+production.
 
 ## Have a go yourself !
 
