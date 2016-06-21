@@ -26,7 +26,7 @@ The two b-quarks from the top-quark decays will be seen as two jets in the final
 * If the decay is semi-leptonic, 1 W boson decays leptonically and the other hadronically, 3 jets are seen.
 
 
-Reconstruction of an event is not easy.  So not all jets will definitely be reconstructed, or indeed more jets may be reconstructed due to other activity.  The number of jets is not a absolute fixed quantity, but can be a good indicator of what is happening in an event.
+Reconstruction of an event is not easy.  So not all jets will definitely be reconstructed, or indeed more jets may be reconstructed due to other activity.  The number of jets is not an absolute fixed quantity, but can be a good indicator of what is happening in an event.
 
 The number and type of jets, amount of MET and lepton decay channel are therefore important variables describing an event.  
 
@@ -36,27 +36,29 @@ Understanding a physics process can help motivate cuts on variables to select or
 
 When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; HWW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
 
-This is the bottom right histogram.
+Raw number of events is displayed in the bottom right histogram.
 
 ## NJets
 
+Number of jets found in the event.
 
 <img style="width: 300px; height: 200px;" src="pictures/NjetsNoSelection.png">
 <img style="width: 250px; height: 150px;" src="pictures/NeventsNoSelection.png">
 
-Number of jets found in the event.
 With no selection, Z boson events are dominant.
-**But other process not negigible, so why is Njets histogram predominantly red ?**
+**But other process not negligible, so why is Njets histogram predominantly red ?**
 
 <img style="width: 300px; height: 200px;" src="pictures/Njets2plus.png">
 <img style="width: 250px; height: 150px;" src="pictures/Nevents2jetsplus.png">
 
 Selecting 2 or more jets, reduces the number of Z boson events and increases the proportion of ttbar events.
-**But why does the Njet histogram remain red? (ie Z)**
+**But why does the Njet histogram remain red? **
 
 ## Channel
 
 Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) or di-muon (mm) channel. Decays to taus or hadrons are not considered in this case.
+
+**Does this mean hadronic decays are not available?  We are just considering leptonic decats here ?**
 
 ## MET
 
@@ -74,7 +76,7 @@ Requiring MET removes Z boson events as it is does not have any neutrinos in the
 
 ## BTag
 
-This is the identification or tagging of jets originating from bottom quarks.
+This is the identification or tagging of jets originating from b-quarks.
 
 Btagged jets are expected in top quark decay, but not in leptonic W boson decay.
 
