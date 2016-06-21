@@ -81,12 +81,22 @@ Btagged jets are expected in top quark decay, but not in leptonic W boson decay.
 
 ## ZWindow
 
-This gives the deviation of the dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) (91 GeV). For Z boson events this obviously peaks at 0 but for HWW it peaks away from 0.
+This gives the deviation of the dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at 0 but for HWW it peaks away from zero.  
+
+![](pictures/ZWindow30.png)
+
+A cut of ZWindow > 30 GeV reduces the Z boson contribution and increases the HWW contribution.  
 
 
 ## SumLepPt
 
-This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the charged leptons observed. For the Z boson it peaks at 0 as the two leptons from the Z boson decay are relatively balanced against each other. For HWW you see that this distribution peaks at around 50 GeV.
+This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the charged leptons observed. 
+For the Z boson it peaks at 0 as the two leptons from the Z boson decay are relatively balanced against each other. 
+
+
+![](pictures/SumLepPt.png)
+
+For HWW you see that this distribution peaks at around 50 GeV.
 
 
 ## DeltaPhiLL
