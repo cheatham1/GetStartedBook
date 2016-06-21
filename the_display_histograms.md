@@ -87,16 +87,23 @@ This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addit
 
 This is the opening angle in phi between the two leptons.
 
+
+![](pictures/PeltaPhiLL180.png)
+
+
 If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  Selecting DeltaPhiLL = 180 you will see that the majority of events contain Z bosons.  
+
+![](pictures/DeltaPhiLL20.png)
 
 Selecting DeltaPhiLL < 20 you will see the majority of events contain Higgs bosons.  Leptons from Higgs bosons tend to be close in phi.
 
+**But why does the fiducial cross section still show majority Z ?**
 
 ## Fiducial cross section
 
 This is an indicator of the purity of the selection. 
 
-To start, we see mostly Z boson production. 
+To start, with no selection, we see mostly Z boson production. 
 Z boson production is quite pure since it has a large cross section.
 
 Select only the em channel, then the number of Z bosons decreases substantially. 
