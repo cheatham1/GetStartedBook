@@ -1,4 +1,4 @@
-# Find the Higgs
+****# Find the Higgs
 
 Follow the steps of a real ATLAS analysis. 
 
@@ -10,8 +10,8 @@ The major background contributions to the search in this decay mode are top, WW 
 
 As a first step we are going to try and select the background processes, to understand them better.
 
-Use the cursor to implement the following cuts, one by one.
-As you apply the cuts, you should see the distributions changing.  
+**Use the cursor to implement the following cuts, one by one.
+As you apply the cuts, you should see the distributions changing.**  
 
 ## Analysis 1:
 
@@ -28,7 +28,7 @@ Select:
 
 This is the top-quark background.
 ## Analysis 2:
-Clear your previous selection by clicking on App Analyser under Get Started in the main top menu.
+**Clear your previous selection by clicking on App Analyser under Get Started in the main top menu.**
 
 Select: 
 * **0 jets**
@@ -56,9 +56,5 @@ The total number of WW events has reduced to around 100 but the sample is now ve
 
 This is the WW background.
 
-
-## Analysis 3:
-
-Now see if you can remove the backgrounds to get a pure a sample of HWW as you can.
 
 
