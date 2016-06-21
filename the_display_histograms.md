@@ -106,7 +106,18 @@ This is an indicator of the purity of the selection.
 To start, with no selection, we see mostly Z boson production. 
 Z boson production is quite pure since it has a large cross section.
 
+
+
+<img style="width: 300px; height: 200px;" src="pictures/em.png">
+
+
+![](pictures/Nevents_em.png)
 Select only the em channel, then the number of Z bosons decreases substantially. 
+
+
+![](pictures/2jets_em.png)
+![](pictures/Events_2jets_em.png)
+
 Selecting 2 jets and the em channel, then we have mostly ttbar events.
 
 ## Raw number of events
