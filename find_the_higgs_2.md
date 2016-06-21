@@ -1,6 +1,6 @@
 # Find the Higgs
 
-Now let's try to separate the signal:
+Now let's try to separate the signal from the background:
 
 ## Higgs boson + 0 jet
 Events which contain two leptons, high MET and no jets. 
