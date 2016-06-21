@@ -10,6 +10,9 @@ Use the cursor to implement the following cuts, one by one.
 As you apply the cuts, you should see the distributions changing.  
 
 ## Analysis 1:
+
+If a W-boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
+
 Select: 
 * **4 jets**
 
@@ -23,6 +26,8 @@ Select:
 
 
 ## Analysis 2:
+
+
 Select: 
 * **0 jets**
 
