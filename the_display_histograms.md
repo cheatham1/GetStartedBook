@@ -109,6 +109,12 @@ Selecting DeltaPhiLL < 20 you will see the majority of events contain Higgs boso
 
 This is an indicator of the purity of the selection. 
 
+A fiducial cross section is the cross section for particle production within the detector acceptance. 
+
+An acceptance correction has to be applied to convert a fiducial cross section to a total cross section. This acceptance correction is easily obtained from Monte Carlo simulations, but it comes with a systematic uncertainty coming mainly from the Parton Distribution Functions.
+
+Since modern theoretical tools can calculate fiducial cross sections accurately, it is not necessary to apply an acceptance correction in order to compare to theory. 
+
 To start, with no selection, we see mostly Z boson production. 
 Z boson production is quite pure since it has a large cross section.
 
