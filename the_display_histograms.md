@@ -30,7 +30,8 @@ In the App Analyser we have chosen datasets where both W-bosons decay leptonical
 
 Number of jets found in the event.
 
-H->WW is most prominent in the 0 and 1 jet bin,  
+ttbar is accompanied by 2 or more jets. 
+HWW is most prominent with 0 or 1 jet.  
 
 
 ## Channel
@@ -54,7 +55,7 @@ This is a boolean whether there have been b-tagged jets or not in the event. Thi
 
 ## ZWindow
 
-This gives the deviation of the dilepton mass from the Z peak. For Z events this is obviously peaking at 0 but for Higgs to WW it peaks away from it.
+This gives the deviation of the dilepton mass from the Z peak. For Z events this is obviously peaks at 0 but for HWW it peaks away from 0.
 
 
 ## SumLepPt
@@ -65,3 +66,17 @@ This is the vectorial sum of the transverse momenta of the charged leptons obser
 ## DeltaPhiLL
 
 This is the opening angle in phi between the two leptons. Due to the Higgs being a scalar the distribution seen here peaks at rather low values in contrast to all other backgrounds.
+
+
+
+## Fiducial cross section
+
+
+One can use it as an indicator of the purity of the selection. In the beginning we have all processes as they were preselected. Because of its large cross section Z is quite pure.
+If we select four jets, MET > 40 GeV, require a b-tag and only take the em channel we have a very pure sample of ttbar
+If we select zero jets, MET < 20 GeV, no btag, ZWindow > 60, only the em channel and SumLepPt < 20 GeV we get a quite clean sample of WW
+Getting a clean HWW sample is not possible but you can get around a qarter of HWW and three quarters of WW in your selection
+
+## Raw number of events
+
+
