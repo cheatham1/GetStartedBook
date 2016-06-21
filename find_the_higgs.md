@@ -14,7 +14,7 @@ As you apply the cuts, you should see the distributions changing.
 If we consider both W-boson decay leptonically, the final state is characterised by the presence of two highly energetic leptons, large MET and 2 jets from the 2 b-quarks.
 
 Select: 
-* **4 jets**
+* **2 jets**
 
 * **MET > 40GeV**
 
