@@ -99,9 +99,9 @@ This is the opening angle in phi between the two leptons.
 
 If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  Selecting DeltaPhiLL = 180 you will see that the majority of events contain Z bosons.  
 
-![](pictures/DeltaPhiLL20.png)
+![](pictures/DeltaPhiLL80.png)
 
-Selecting DeltaPhiLL < 20 you will see the majority of events contain Higgs bosons.  Leptons from Higgs bosons tend to be close in phi.
+Selecting DeltaPhiLL < 80 you will see the majority of events contain Higgs bosons.  Leptons from Higgs bosons tend to be close in phi.
 
 **But why does the fiducial cross section still show majority Z ?**
 
