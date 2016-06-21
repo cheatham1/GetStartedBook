@@ -3,7 +3,9 @@
 Now let's try to separate the signal from the background:
 
 ## Higgs boson + 0 jet
-Events which contain two leptons, high MET and no jets. 
+We want to select events which contain two leptons, high MET and no jets.  
+
+Select: 
 
 * Njets = 0
 * MET > 40 GeV
@@ -19,7 +21,9 @@ production, with a smaller contribution from top events.
 
 ## Higgs boson + 1 jet
 
-Events which contain two leptons, high MET and 1 non b-tagged jet.
+We want to select events which contain two leptons, high MET and 1 non b-tagged jet.
+
+Select: 
 
 * Njet = 1
 * Btag = no
