@@ -12,11 +12,11 @@ The major background contributions to the search in this decay mode are top, WW 
 As a first step we are going to try and select the background processes, to understand them better.
 
 **Use the cursor to implement the following cuts, one by one.
-As you apply the cuts, you should see the distributions changing.**  
+As you apply the cuts, you should see the distributions changing.**  Try and understand why each of the distributions changes.  Think of the physics motivating the cut.
 
 ## Analysis 1:
 
-If we consider both W-boson decay leptonically, the final state is characterised by the presence of two highly energetic leptons, large MET and 2 jets from the 2 b-quarks.
+If we consider two W-bosons decaying leptonically, the final state is characterised by the presence of two highly energetic leptons, large MET and 2 jets from the 2 b-quarks.
 
 Select: 
 * **2 jets**
@@ -28,8 +28,11 @@ Select:
 ![](pictures/ttbarSelection.png)
 
 This is the top-quark background.
-## Analysis 2:
+
+
 **Clear your previous selection by clicking on App Analyser under Get Started in the main top menu.**
+
+## Analysis 2:
 
 Select: 
 * **0 jets**
@@ -41,7 +44,7 @@ Select:
 
 ![](pictures/WWselection2.png)
 
-We also see that we have about 100 HWW events and 800 WW events left after the cuts.
+We see that we have about 100 HWW events and 800 WW events left after the cuts.
 
 Look at the ZWindow.
 There are 2 peaks.  One at 10-25 GeV and the other at 35-40 GeV.
