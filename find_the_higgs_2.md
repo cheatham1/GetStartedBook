@@ -2,7 +2,7 @@
 
 Now let's try to separate the signal:
 
-## H + 0 jet
+## Higgs boson + 0 jet
 Events which contain two leptons, high MET and no jets. 
 
 * Njets = 0
@@ -24,7 +24,7 @@ Events which contain two leptons, high MET and 1 b-tagged jet.
 
 * Njet = 1
 * Btag = no
-* MET > 40
+* MET > 40 GeV
 * SumLepPt < 30 GeV
 * DeltaPhiLL < 80
 * ZWindow > 15
