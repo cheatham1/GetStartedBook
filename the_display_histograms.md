@@ -3,7 +3,7 @@
 App Analyser displays 9 histograms.
 The description of each follows.
 
-Let us consider two physics processes to understand which variables are important and why.
+Let us first consider a physics process to understand which variables are important and why.
 
 
 ## top quark pair production
@@ -15,16 +15,19 @@ W-bosons can decay either
 * leptonically: into an electron or muon and neutrino. 
 * hadronically: into an up-type quark and a down-type quark.
 
-If a W-boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
+If a W-boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse energy (MET) due to the neutrino(s) escaping detection. 
 
 If a W-boson decays hadronically, the final state is characterised by the presence of two jets due to the two quarks.
 
-The two b-quarks from the top-quark decays will be seen as two jets in the final state.   
+The two b-quarks from the top-quark decays will be seen as two jets in the final state.  Jets identified as originating from b-quarks are termed btag jets.   
 
 So if both W-bosons decay hadronically, 4 jets are seen.
 If both W-bosons decay leptonically 2 jets are seen.
-If the deacy is semi-leptonic, 1 W-boson decays letonically and the other hadronically, 3 jets are seen.
+If the decay is semi-leptonic, 1 W-boson decays letonically and the other hadronically, 3 jets are seen.
 
+So the number and type of jets, amount of MET and lepton decay channel are important variables describing an event.  
+
+Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.
 
 ## NJets
 
@@ -49,7 +52,7 @@ Requiring MET removes Z+jets as it is does not have any neutrinos in the final s
 
 ## BTag
 
-This is the identification or "tagging" of jets originating from bottom quarks.
+This is the identification or tagging of jets originating from bottom quarks.
 
 Btagged jets are expected in top quark decay, but not in leptonic W boson decay.
 
@@ -85,4 +88,4 @@ Selecting 2 jets and the em channel, then we have mostly ttbar events.
 
 ## Raw number of events
 
-When you are making cuts it is interesting to watch the relative number of events for the 4 processes.  You want to make selections that preferentially remove the unwanted processes (background) but leaves the signal process.
+When you are making cuts it is interesting to watch the relative number of events for the 4 processes.  You want to make selections that preferentially remove the unwanted processes (background) but leave the signal process.
