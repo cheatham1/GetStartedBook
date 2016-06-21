@@ -7,8 +7,8 @@ Events which contain two leptons, high MET and no jets.
 
 * Njets = 0
 * MET > 40 GeV
-* ZWindow > 50
-* SumLepPt < 80
+* ZWindow > 50 GeV
+* SumLepPt < 80 GeV
 * DeltaPhiLL < 80
 
 ![](pictures/HWW0jets.png)
@@ -26,7 +26,7 @@ Events which contain two leptons, high MET and 1 non b-tagged jet.
 * MET > 40 GeV
 * SumLepPt < 30 GeV
 * DeltaPhiLL < 80
-* ZWindow > 15
+* ZWindow > 15 GeV
 
 ![](pictures/HWW1jet.png)
 
