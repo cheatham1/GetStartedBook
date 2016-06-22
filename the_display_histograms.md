@@ -25,9 +25,9 @@ The two b-quarks from the top-quark decays will be seen as two jets in the final
 * If both W bosons decay hadronically, six jets are seen, two from each W and two from the b-quarks.
 * If the decay is semi-leptonic, one W boson decays leptonically and the other hadronically, four jets are seen.
 
-Reconstruction of an event is not easy.  So not all jets will definitely be reconstructed, or indeed more jets may be reconstructed due to other activity.  The number of jets is not an absolute fixed quantity, but can be a good indicator of what is happening in an event.
+Reconstruction of an event is not easy.  Not all jets will be reconstructed, or maybe more jets will be reconstructed due to other activity.  The number of jets reconstructed is not an accurate quantity, but can be a good indicator of what is happening in an event.
 
-The number and type of jets, amount of MET and lepton decay channel are therefore important variables describing an event.  
+The number and type of jets, amount of MET and lepton decay channel are important variables describing an event.  
 
 Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.
 
