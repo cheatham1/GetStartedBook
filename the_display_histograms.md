@@ -6,7 +6,7 @@ The description of each follows.
 Let us first consider a physics process to understand which variables are important and why.
 
 
-## top quark pair production
+## Top quark pair production
 
 In the SM, the top-quark generally decays into a [W boson](https://en.wikipedia.org/wiki/W_and_Z_bosons) and a 
 [b-quark](https://en.wikipedia.org/wiki/Bottom_quark).
@@ -21,10 +21,9 @@ If a W boson decays hadronically, the final state is characterised by the presen
 
 The two b-quarks from the top-quark decays will be seen as two jets in the final state.  Jets identified as originating from b-quarks are termed b-tagged jets.   
 
-* If both W bosons decay hadronically, 4 jets are seen.
-* If both W bosons decay leptonically 2 jets are seen.
-* If the decay is semi-leptonic, 1 W boson decays leptonically and the other hadronically, 3 jets are seen.
-
+* If both W bosons decay leptonically two jets are seen, originating from the b-quarks.
+* If both W bosons decay hadronically, six jets are seen, two from each W and two from the b-quarks.
+* If the decay is semi-leptonic, one W boson decays leptonically and the other hadronically, four jets are seen.
 
 Reconstruction of an event is not easy.  So not all jets will definitely be reconstructed, or indeed more jets may be reconstructed due to other activity.  The number of jets is not an absolute fixed quantity, but can be a good indicator of what is happening in an event.
 
@@ -32,23 +31,23 @@ The number and type of jets, amount of MET and lepton decay channel are therefor
 
 Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.
 
-## Total Number of Events
+## Raw number of events simulated
 
-When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; HWW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
-
-Total number of events is known as the total cross-section.  This is the theoretical number of events produced in the different physics processes. 
+This is the theoretical number of events produced in the different physics processes. 
 It is displayed in the bottom right histogram.
 
-## Number of Events detected
+## Fiducial cross section
 
-The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction ...
+The fiducial cross section is the number of events recorded by ATLAS, divided by the Luminosity (in this case 1 fb-1). 
 
-The number of events detected is known as the fiducial cross section. 
+The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction, reconstruction efficiency ...
 
-An acceptance correction has to be applied to convert a fiducial cross section to a total cross section. This acceptance correction is easily obtained from Monte Carlo simulations.
+An acceptance correction has to be applied to convert a fiducial cross section to a total cross section.   This acceptance correction is easily obtained from Monte Carlo simulations.
 
 The colouration of the 7 other histograms is 
-according to the number of events detected.
+according to the fiducial cross section.
+
+When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; HWW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
 
 Z boson production has a large cross section.
 So at the start, with no selection, we see mostly Z boson production and the histograms coloured in red. 
@@ -66,7 +65,7 @@ Z bosons decay to fermion-antifermion, so are seen in the electron-electron chan
 
 Selecting 2 jets and the em channel, then we have mostly ttbar events (histograms coloured in green).
 
-**Why the huge difference in fiducial and total cross sections for HWW and WW** ?
+**Why the huge relative difference in fiducial cross section and raw numbers for HWW and WW** ?
 ## NJets
 
 Number of jets found in the event.
@@ -142,5 +141,5 @@ If the leptons are produced back-to-back, this is displayed on the histogram as 
 
 Selecting DeltaPhiLL < 80 you will see the total number of Higgs bosons increases.  Leptons from Higgs bosons tend to be close in phi.
 
-**But why such a difference in fiducial and total cross section ? **
+**But why such a difference in fiducial cross section and raw numbers? (relative difference for the 4 processes)**
 
