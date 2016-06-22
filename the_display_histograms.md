@@ -1,4 +1,4 @@
-# The display histograms
+# The histograms explained
 
 App Analyser displays 9 histograms.
 The description of each follows.
@@ -32,12 +32,41 @@ The number and type of jets, amount of MET and lepton decay channel are therefor
 
 Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.
 
-## Raw number of events
+## Total Number of Events
 
 When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; HWW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
 
-Raw number of events is displayed in the bottom right histogram.
+Total number of events is known as the total cross-section.  This is the theoretical number of events produced in the different physics processes. 
+It is displayed in the bottom right histogram.
 
+## Number of Events detected
+
+The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction ...
+
+The number of events detected is known as the fiducial cross section. 
+
+An acceptance correction has to be applied to convert a fiducial cross section to a total cross section. This acceptance correction is easily obtained from Monte Carlo simulations.
+
+The colouration of the 7 other histograms is 
+according to the number of events detected.
+
+Z boson production has a large cross section.
+So at the start, with no selection, we see mostly Z boson production and the histograms coloured in red. 
+
+<img style="width: 300px; height: 200px;" src="pictures/em.png">
+
+<img style="width: 600px; height: 150px;" src="pictures/Nevents_em.png">
+
+Select only the em channel, then the number of Z bosons decreases substantially. 
+Z bosons decay to fermion-antifermion, so are seen in the electron-electron channel and the muon-muon channel, but not the electron-muon channel.  A small number of electrons or muons may be wrongly identified and hence a small number of Z bosons may be reconstructed in the electron-muon channel (**is this correct explanation for Z seen in fiducial cross section**?)
+
+<img style="width: 600px; height: 200px;" src="pictures/2jets_em.png">
+
+<img style="width: 600px; height: 150px;" src="pictures/Events_2jets_em.png">
+
+Selecting 2 jets and the em channel, then we have mostly ttbar events (histograms coloured in green).
+
+**Why the huge difference in fiducial and total cross sections for HWW and WW** ?
 ## NJets
 
 Number of jets found in the event.
@@ -46,19 +75,17 @@ Number of jets found in the event.
 <img style="width: 250px; height: 150px;" src="pictures/NeventsNoSelection.png">
 
 With no selection, Z boson events are dominant.
-**But other process not negligible, so why is Njets histogram predominantly red ?**
 
 <img style="width: 300px; height: 200px;" src="pictures/Njets2plus.png">
 <img style="width: 250px; height: 150px;" src="pictures/Nevents2jetsplus.png">
 
 Selecting 2 or more jets, reduces the number of Z boson events and increases the proportion of ttbar events.
-**But why does the Njet histogram remain red? **
 
 ## Channel
 
 Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) or di-muon (mm) channel. Decays to taus or hadrons are not considered in this case.
 
-**Does this mean hadronic decays are not available?  We are just considering leptonic decats here ?**
+**Does this mean hadronic decays are not available?  We are just considering leptonic decays in App Analyser ?**
 
 ## MET
 
@@ -83,7 +110,7 @@ Btagged jets are expected in top quark decay, but not in leptonic W boson decay.
 
 ## ZWindow
 
-This gives the deviation of the dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at 0 but for HWW it peaks away from zero.  
+This gives the deviation of the dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at zero but for HWW it peaks away from zero.  
 
 ![](pictures/ZWindow30.png)
 
@@ -93,7 +120,7 @@ A cut of ZWindow > 30 GeV reduces the Z boson contribution and increases the HWW
 ## SumLepPt
 
 This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the charged leptons observed. 
-For the Z boson it peaks at 0 as the two leptons from the Z boson decay are relatively balanced against each other. 
+For the Z boson it peaks at zero as the two leptons from the Z boson decay are relatively balanced against each other. 
 
 
 ![](pictures/SumLepPt.png)
@@ -113,33 +140,7 @@ If the leptons are produced back-to-back, this is displayed on the histogram as 
 
 ![](pictures/DeltaPhiLL80.png)
 
-Selecting DeltaPhiLL < 80 you will see the majority of events contain Higgs bosons.  Leptons from Higgs bosons tend to be close in phi.
+Selecting DeltaPhiLL < 80 you will see the total number of Higgs bosons increases.  Leptons from Higgs bosons tend to be close in phi.
 
-**But why does the fiducial cross section still show majority Z ?**
-
-## Fiducial cross section
-
-This is an indicator of the purity of the selection. 
-
-A fiducial cross section is the cross section for particle production within the detector acceptance. 
-
-An acceptance correction has to be applied to convert a fiducial cross section to a total cross section. This acceptance correction is easily obtained from Monte Carlo simulations, but it comes with a systematic uncertainty coming mainly from the Parton Distribution Functions.
-
-Since modern theoretical tools can calculate fiducial cross sections accurately, it is not necessary to apply an acceptance correction in order to compare to theory. 
-
-To start, with no selection, we see mostly Z boson production. 
-Z boson production is quite pure since it has a large cross section.
-
-<img style="width: 300px; height: 200px;" src="pictures/em.png">
-
-<img style="width: 600px; height: 150px;" src="pictures/Nevents_em.png">
-
-Select only the em channel, then the number of Z bosons decreases substantially. 
-
-<img style="width: 600px; height: 200px;" src="pictures/2jets_em.png">
-
-<img style="width: 600px; height: 150px;" src="pictures/Events_2jets_em.png">
-
-Selecting 2 jets and the em channel, then we have mostly ttbar events.
-
+**But why such a difference in fiducial and total cross section ? **
 
