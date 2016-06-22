@@ -44,6 +44,7 @@ The number of events detected and reconstructed by ATLAS is different to the the
 
 An acceptance correction has to be applied to convert a fiducial cross section to a total cross section.   This acceptance correction is easily obtained from Monte Carlo simulations.
 
+This is the bottom middle histogram.
 The colouration of the 7 other histograms is 
 according to the fiducial cross section.
 
