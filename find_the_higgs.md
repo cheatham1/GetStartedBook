@@ -12,7 +12,9 @@ The major background contributions to the search in this decay mode are top, WW 
 As a first step we are going to try and select the background processes, to understand them better.
 
 **Use the cursor to implement the following cuts, one by one.
-As you apply the cuts, you should see the distributions changing.**  Try and understand why each of the distributions changes.  Think of the physics motivating the cut.
+As you apply the cuts, you should see the distributions changing.**  
+
+Try and understand why each of the distributions changes.  Think of the physics motivating the cut.
 
 ## Analysis 1:
 
