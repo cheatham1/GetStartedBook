@@ -40,7 +40,7 @@ It is displayed in the bottom right histogram.
 
 The fiducial cross section is the number of events recorded by ATLAS, divided by the Luminosity (in this case 1 fb-1). 
 
-The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction, reconstruction efficiency ...
+The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction and reconstruction efficiency.
 
 An acceptance correction has to be applied to convert a fiducial cross section to a total cross section.   This acceptance correction is easily obtained from Monte Carlo simulations.
 
@@ -66,7 +66,6 @@ Z bosons decay to fermion-antifermion, so are seen in the electron-electron chan
 
 Selecting 2 jets and the em channel, then we have mostly ttbar events (histograms coloured in green).
 
-**Why the huge relative difference in fiducial cross section and raw numbers for HWW and WW** ?
 ## NJets
 
 Number of jets found in the event.
@@ -142,5 +141,6 @@ If the leptons are produced back-to-back, this is displayed on the histogram as 
 
 Selecting DeltaPhiLL < 80 you will see the total number of Higgs bosons increases.  Leptons from Higgs bosons tend to be close in phi.
 
-**But why such a difference in fiducial cross section and raw numbers? (relative difference for the 4 processes)**
+**Need to explain why such a difference in fiducial cross section and raw numbers.
+(or reweighting can occur)**
 
