@@ -142,5 +142,5 @@ If the leptons are produced back-to-back, this is displayed on the histogram as 
 Selecting DeltaPhiLL < 80 you will see the total number of Higgs bosons increases.  Leptons from Higgs bosons tend to be close in phi.
 
 **Need to explain why such a difference in fiducial cross section and raw numbers.
-(or reweighting can occur)**
+(would be great if reweighting can occur for simulated number of events)**
 
