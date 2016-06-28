@@ -84,8 +84,6 @@ Selecting 2 or more jets, reduces the number of Z boson events and increases the
 
 Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) or di-muon (mm) channel. Decays to taus or hadrons are not considered in this case.
 
-**Does this mean hadronic decays are not available?  We are just considering leptonic decays in App Analyser ?**
-
 ## MET
 
 In the LHC, the initial momentum of the colliding particles along the beam axis is not known because the energy of each proton is split, and constantly exchanged, between its constituents.  So the amount of total missing energy cannot be determined. 
@@ -141,6 +139,4 @@ If the leptons are produced back-to-back, this is displayed on the histogram as 
 
 Selecting DeltaPhiLL < 80 you will see the total number of Higgs bosons increases.  Leptons from Higgs bosons tend to be close in phi.
 
-**Need to explain why such a difference in fiducial cross section and raw numbers.
-(would be great if reweighting can occur for simulated number of events)**
 
