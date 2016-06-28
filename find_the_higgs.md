@@ -1,9 +1,6 @@
 
 # Find the Higgs
 
-**I need to revisit this and check the cuts, especially WW (analysis 2).  
-**
-
 Follow the steps of a real ATLAS analysis. 
 
 **H->WW->ℓνℓν**
@@ -48,8 +45,6 @@ Select:
 
 Look at the ZWindow.
 There are 2 peaks.  One at 10-25 GeV and the other at 35-40 GeV.
-
-**Why do we see no Z in the total cross section, but we do see Z in the fiducial cross section? **
 
 Now add a cut requiring Zwindow > 60GeV
 
