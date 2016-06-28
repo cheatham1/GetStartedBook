@@ -58,7 +58,7 @@ So at the start, with no selection, we see mostly Z boson production and the his
 <img style="width: 600px; height: 150px;" src="pictures/Nevents_em.png">
 
 Select only the em channel, then the number of Z bosons decreases substantially. 
-Z bosons decay to fermion-antifermion, so are seen in the electron-electron channel and the muon-muon channel, but not the electron-muon channel.  A small number of electrons or muons may be wrongly identified and hence a small number of Z bosons may be reconstructed in the electron-muon channel (**is this correct explanation for Z seen in fiducial cross section**?)
+Z bosons decay to fermion-antifermion, so are seen in the electron-electron channel and the muon-muon channel, but not the electron-muon channel.  A small number of electrons or muons may be wrongly identified and hence a small number of Z bosons may be reconstructed in the electron-muon channel. 
 
 <img style="width: 600px; height: 200px;" src="pictures/2jets_em.png">
 
