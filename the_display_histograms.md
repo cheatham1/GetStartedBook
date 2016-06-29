@@ -38,7 +38,7 @@ It is displayed in the bottom right histogram.
 
 ## Expected Number of Events for 1/fb
 
-The fiducial cross section is the number of events recorded by ATLAS, divided by the luminosity (in this case 1 inverse femtobarn).  This is the number of events expected to be detected, reconstructed and recorded by ATLAS. 
+The fiducial cross section is the number of events recorded by ATLAS, divided by the luminosity (in this case 1 inverse femtobarn).  This is the number of events expected to be detected, reconstructed and recorded by ATLAS with the datasets used here. 
 
 The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other uncertainties.
 
@@ -114,17 +114,16 @@ A cut of Reconstruced Mass - Z Mass > 30 GeV reduces the theoretical Z boson con
 This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the charged leptons observed. 
 
 ![](pictures/SumLepPtZ.png)
-For the Z boson it peaks at zero as the two leptons from the Z boson decay are relatively balanced against each other. 
+For the Z boson total lepton transverse momentum peaks at zero as the two leptons from the Z boson decay are produced back-to-back. The momentum of one lepton cancels out the momentum of the other.
 
 ![](pictures/SumLepPt.png)
 
-For HWW you see that this distribution peaks at around 50 GeV.
+For HWW (shown in blue) you see that the total lepton transverse momentum distribution peaks at around 50 GeV.
 
 
 ## Angular Separation of Leptons [phi]
 
 This is the opening angle, phi, between the two leptons.
-
 
 ![](pictures/DeltaPhiLL180.png)
 
@@ -133,4 +132,4 @@ If the leptons are produced back-to-back, this is displayed on the histogram as 
 
 ![](pictures/DeltaPhiLL80.png)
 
-Selecting DeltaPhiLL < 80 you will see the total number of Higgs bosons increases.  Leptons from Higgs bosons tend to be close in phi.
+Selecting Angular Separation < 80 you will see the total number of Higgs bosons increases.  Leptons from Higgs bosons tend to be close in phi.
