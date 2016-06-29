@@ -16,6 +16,8 @@ As you apply the cuts, you should see the distributions changing.**
 
 Try and understand why each of the distributions changes.  Think of the physics motivating the cut.
 
+**To clear your selection click on Histogram Analyser under Get Started in the main top menu.**
+
 ## Analysis 1:
 
 If we consider two W-bosons decaying leptonically, the final state is characterised by the presence of two highly energetic leptons, large missing transverse momentum and 2 jets from the 2 b-quarks.
@@ -32,14 +34,14 @@ Select:
 This is the top-quark background.
 
 
-**Clear your previous selection by clicking on App Analyser under Get Started in the main top menu.**
 
 ## Analysis 2:
 
-Select: 
+**Clear your selection**
+
+Then select: 
 * **0 jets**
-* **MET < 20GeV**
-* **Only electron-muon (em) channel**
+* **Missing Transverse Momentum < 20GeV**
 * **DeltaPhiLL > 160**
 
 
