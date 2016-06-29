@@ -76,6 +76,7 @@ With no selection, Z boson events are dominant.
 
 Selecting 2 or more jets, increases the proportion of ttbar events.
 
+Top-quark pair production leads to WW+jet final states.
 ## Channel
 
 Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) and di-muon (mm) channels. Decays to taus or hadrons are not considered in this case.
