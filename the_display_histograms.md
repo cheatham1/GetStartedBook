@@ -1,6 +1,6 @@
 # The histograms explained
 
-App Analyser displays 9 histograms.
+The Histogram App Analyser displays 9 histograms.
 The description of each follows.
 
 Let us first consider a physics process to understand which variables are important and why.
@@ -15,7 +15,7 @@ W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an electron or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
 * [hadronically](https://en.wikipedia.org/wiki/Hadron): into an [up-type quark](https://en.wikipedia.org/wiki/Quark) and a [down-type quark](https://en.wikipedia.org/wiki/Quark).
 
-If a W boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse energy (MET) due to the neutrino(s) escaping detection. 
+If a W boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
 
 If a W boson decays hadronically, the final state is characterised by the presence of two jets due to the two quarks.
 
@@ -27,26 +27,24 @@ The two b-quarks from the top-quark decays will be seen as two jets in the final
 
 Reconstruction of an event is not easy.  Not all jets will be reconstructed, or maybe more jets will be reconstructed due to other activity.  The number of jets reconstructed is not an accurate quantity, but can be a good indicator of what is happening in an event.
 
-The number and type of jets, amount of MET and lepton decay channel are important variables describing an event.  
+The number and type of jets, amount of missing transverse momentum and lepton decay channel are important variables describing an event.  
 
 Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.
 
-## Raw number of events simulated
+## Number of events simulated
 
 This is the theoretical number of events produced in the different physics processes. 
 It is displayed in the bottom right histogram.
 
-## Fiducial cross section
+## Expected Number of Events for 1/fb
 
-The fiducial cross section is the number of events recorded by ATLAS, divided by the Luminosity (in this case 1 fb-1). 
-
-The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction and reconstruction efficiency.
-
-An acceptance correction has to be applied to convert a fiducial cross section to a total cross section.   This acceptance correction is easily obtained from Monte Carlo simulations.
+The fiducial cross section is the number of events recorded by ATLAS, divided by the luminosity (in this case 1 inverse femtobarn).  This is the number of events expected to be detected, reconstructed and recorded by ATLAS. 
 
 This is the bottom middle histogram.
 The colouration of the 7 other histograms is 
 according to the fiducial cross section.
+
+The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other uncertainties.
 
 When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; HWW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
 
