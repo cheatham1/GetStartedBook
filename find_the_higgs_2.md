@@ -3,15 +3,15 @@
 Now let's try to separate the signal from the background:
 
 ## Higgs boson + 0 jet
-We want to select events which contain two leptons, high MET and no jets.  
+We want to select events which contain two leptons, high missing transverse momentum and no jets.  
 
 Select: 
 
 * Njets = 0
-* MET > 40 GeV
-* ZWindow > 50 GeV
-* SumLepPt < 80 GeV
-* DeltaPhiLL < 80
+* Missing Transverse Momentum > 40 GeV
+* Reconstructed Mass - Z Mass > 50 GeV
+* Total Lepton Transverse Momentum < 60 GeV
+* Angular Separation of Leptons < 80
 
 ![](pictures/HWW0jets.png)
 
@@ -21,7 +21,7 @@ production, with a smaller contribution from top events.
 
 ## Higgs boson + 1 jet
 
-We want to select events which contain two leptons, high MET and 1 non b-tagged jet.
+We want to select events which contain two leptons, high missing transverse mometum and 1 non b-tagged jet.
 
 Select: 
 
