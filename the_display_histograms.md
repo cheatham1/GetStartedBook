@@ -38,7 +38,7 @@ It is displayed in the bottom right histogram.
 
 ## Expected Number of Events for 1/fb
 
-The fiducial cross section is the number of events recorded by ATLAS, divided by the luminosity (in this case 1 inverse femtobarn).  This is the number of events expected to be detected, reconstructed and recorded by ATLAS with the datasets used here. 
+This is the number of events expected to be detected, reconstructed and recorded by ATLAS with the datasets used here. 
 
 The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other uncertainties.
 
@@ -53,14 +53,14 @@ So at the start, with no selection, we see mostly Z boson production and the his
 
 <img style="width: 600px; height: 150px;" src="pictures/Nevents_em.png">
 
-Select only the em channel, then the number of Z bosons decreases substantially. 
+Select only the electron-muon (em) channel, then the number of Z bosons decreases substantially. 
 Z bosons decay to fermion-antifermion, so are seen in the electron-electron channel and the muon-muon channel, but not the electron-muon channel.  A small number of electrons or muons may be wrongly identified and hence a small number of Z bosons may be reconstructed in the electron-muon channel. 
 
 <img style="width: 600px; height: 200px;" src="pictures/2jets_em.png">
 
 <img style="width: 600px; height: 150px;" src="pictures/Events_2jets_em.png">
 
-Selecting 2 jets and the em channel, then we have mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
+Selecting 2 jets and the em channel we have mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
 
 ## Number of Jets
 
@@ -78,7 +78,7 @@ Selecting 2 or more jets, increases the proportion of ttbar events.
 
 ## Channel
 
-Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) or di-muon (mm) channel. Decays to taus or hadrons are not considered in this case.
+Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) and di-muon (mm) channels. Decays to taus or hadrons are not considered in this case.
 
 ## Missing Transverse Momentum [GeV]
 
@@ -90,7 +90,7 @@ Missing energy is commonly used to infer the presence of non-detectable particle
 
 <img style="width: 300px; height: 200px;" src="pictures/METselection40.png">
 
-Requiring Missing Transverse Momentum removes Z boson events as it is does not have any neutrinos in the final state while the other processes do.
+Requiring missing transverse momentum removes Z boson events as it is does not have any neutrinos in the final state while the other processes do.
 
 
 ## Are Jets b-tagged?
@@ -102,7 +102,7 @@ B-tagged jets are expected in top quark decay, but not in leptonic W boson decay
 
 ## Reconstructed Mass - Z Mass [GeV]
 
-This gives the deviation of the reconstructed dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at zero but for HWW it peaks away from zero.  
+This histogram displays the deviation of the reconstructed dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at zero but for HWW it peaks away from zero.  
 
 ![](pictures/ZWindow30.png)
 
