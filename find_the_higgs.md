@@ -3,11 +3,11 @@
 
 Follow the steps of a real ATLAS analysis. 
 
-**H->WW->ℓνℓν**
+**H->WW->ℓνℓν** (ℓ = electron, muon)
 
 We are looking for a Higgs boson which decays into 2 W bosons which subsequently decay into leptons and neutrinos. 
 
-The major background contributions to the search in this decay mode are top-quark, WW and W+jet events.
+The major background contributions to the search in this decay mode are top (top quark pair and W plus top quark), WW and W+jet events.
 
 As a first step we are going to try and select the background processes, to understand them better.
 
