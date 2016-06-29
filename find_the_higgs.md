@@ -18,12 +18,12 @@ Try and understand why each of the distributions changes.  Think of the physics 
 
 ## Analysis 1:
 
-If we consider two W-bosons decaying leptonically, the final state is characterised by the presence of two highly energetic leptons, large MET and 2 jets from the 2 b-quarks.
+If we consider two W-bosons decaying leptonically, the final state is characterised by the presence of two highly energetic leptons, large missing transverse momentum and 2 jets from the 2 b-quarks.
 
 Select: 
 * **2 jets**
-* **B-tag**
-* **MET > 40GeV**
+* **Are jets b-tagged = yes**
+* **Missing Transverse Momentum > 40GeV**
 * **Only electron-muon (em) channel**
 
 
