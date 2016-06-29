@@ -41,21 +41,9 @@ This is the top-quark background.
 
 Then select: 
 * **0 jets**
-* **Missing Transverse Momentum < 20GeV**
-* **DeltaPhiLL > 160**
+* **Only electron-muon (em) channel**
 
-
-![](pictures/WWselection2.png)
-
-Look at the ZWindow.
-There are 2 peaks.  One at 10-25 GeV and the other at 35-40 GeV.
-
-Now add a cut requiring Zwindow > 60GeV
-
-
-![](pictures/WWpureSelection2.png)
-
-The total number of WW events has reduced to around 100 but the sample is now very pure.
+![](pictures/WWselection1.png)
 
 This is the WW background.
 
