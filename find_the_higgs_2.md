@@ -19,7 +19,7 @@ Select:
 
 The dominant background after all cuts in the
 Higgs boson + 0 jet channel comes from WW
-production, with a smaller contribution from top events.
+production, with a smaller contribution from Z and top events.
 
 ## Higgs boson + 1 jet
 
@@ -43,7 +43,7 @@ production.  However the expected number of events sees a large background of bo
 
 ## Have a go yourself !
 
-Perhaps try the Higgs boson + 1 jet, but separate into leptonic channels and tune the cuts to maximise the number and purity of HWW events.  
+Perhaps try the HWW + 0 jet, but separate into leptonic channels and tune the cuts to maximise the number of HWW events with minimum background.  
 
 Or try something completely different...
 
