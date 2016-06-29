@@ -23,23 +23,22 @@ production, with a smaller contribution from Z and top events.
 
 ## Higgs boson + 1 jet
 
-We want to select events which contain two leptons, high missing transverse mometum and 1 non b-tagged jet.
+We want to select events which contain 1 non b-tagged jet.
 
 Select: 
 
 * Number of Jets = 1
 * Are Jets b-tagged = no
 * electron-muon channel only
-* Missing Transverse Momentum > 40 GeV
+* Missing Transverse Momentum > 30 GeV
 * Total Lepton Transverse Momentum < 90 GeV
 * Angular Separation of Leptons < 80
-* Reconstructed Mass - Z Mass > 15 GeV
 
 ![](pictures/HWW1jet.png)
 
-The dominant theoretical background after all cuts in the
+The dominant background after all cuts in the
 Higgs boson + 1 jet channel comes from WW
-production.  However the expected number of events sees a large background of both WW and ttbar. 
+production.  
 
 ## Have a go yourself !
 
