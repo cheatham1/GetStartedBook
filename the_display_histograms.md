@@ -64,7 +64,7 @@ Z bosons decay to fermion-antifermion, so are seen in the electron-electron chan
 
 <img style="width: 600px; height: 150px;" src="pictures/Events_2jets_em.png">
 
-Selecting 2 jets and the em channel, then we have mostly ttbar events (histograms coloured in green).
+Selecting 2 jets and the em channel, then we have mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
 
 ## NJets
 
