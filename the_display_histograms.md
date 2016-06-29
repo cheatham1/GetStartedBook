@@ -31,7 +31,7 @@ The number and type of jets, amount of missing transverse momentum and lepton de
 
 Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.
 
-## Number of events simulated
+## Number of Simulated Events
 
 This is the theoretical number of events produced in the different physics processes. 
 It is displayed in the bottom right histogram.
@@ -40,11 +40,9 @@ It is displayed in the bottom right histogram.
 
 The fiducial cross section is the number of events recorded by ATLAS, divided by the luminosity (in this case 1 inverse femtobarn).  This is the number of events expected to be detected, reconstructed and recorded by ATLAS. 
 
-This is the bottom middle histogram.
-The colouration of the 7 other histograms is 
-according to the fiducial cross section.
-
 The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other uncertainties.
+
+The colouration of the 7 other histograms depends on the expected number of events for the different physics processes.
 
 When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; HWW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
 
@@ -108,32 +106,31 @@ This gives the deviation of the reconstructed dilepton mass from the [Z boson ma
 
 ![](pictures/ZWindow30.png)
 
-A cut of ZWindow > 30 GeV reduces the Z boson contribution and increases the HWW contribution.  
+A cut of Reconstruced Mass - Z Mass > 30 GeV reduces the theoretical Z boson contribution and increases the HWW contribution, shown in the Number of Simulated Events.  
 
 
-## SumLepPt
+## Total Lepton Transverse Momentum [GeV]
 
 This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the charged leptons observed. 
-For the Z boson it peaks at zero as the two leptons from the Z boson decay are relatively balanced against each other. 
 
+![](pictures/SumLepPtZ.png)
+For the Z boson it peaks at zero as the two leptons from the Z boson decay are relatively balanced against each other. 
 
 ![](pictures/SumLepPt.png)
 
 For HWW you see that this distribution peaks at around 50 GeV.
 
 
-## DeltaPhiLL
+## Angular Separation of Leptons [phi]
 
-This is the opening angle in phi between the two leptons.
-
-
-![](pictures/PeltaPhiLL180.png)
+This is the opening angle, phi, between the two leptons.
 
 
-If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  Selecting DeltaPhiLL = 180 you will see that the majority of events contain Z bosons.  
+![](pictures/DeltaPhiLL180.png)
+
+
+If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  Selecting Angular Separation = 180 you will see that the majority of events contain Z bosons.  
 
 ![](pictures/DeltaPhiLL80.png)
 
 Selecting DeltaPhiLL < 80 you will see the total number of Higgs bosons increases.  Leptons from Higgs bosons tend to be close in phi.
-
-
