@@ -66,7 +66,7 @@ Z bosons decay to fermion-antifermion, so are seen in the electron-electron chan
 
 Selecting 2 jets and the em channel, then we have mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
 
-## NJets
+## Number of Jets
 
 Number of jets found in the event.
 
@@ -78,13 +78,13 @@ With no selection, Z boson events are dominant.
 <img style="width: 300px; height: 200px;" src="pictures/Njets2plus.png">
 <img style="width: 250px; height: 150px;" src="pictures/Nevents2jetsplus.png">
 
-Selecting 2 or more jets, reduces the number of Z boson events and increases the proportion of ttbar events.
+Selecting 2 or more jets, increases the proportion of ttbar events.
 
 ## Channel
 
 Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) or di-muon (mm) channel. Decays to taus or hadrons are not considered in this case.
 
-## MET
+## Missing Transverse Momentum [GeV]
 
 In the LHC, the initial momentum of the colliding particles along the beam axis is not known because the energy of each proton is split, and constantly exchanged, between its constituents.  So the amount of total missing energy cannot be determined. 
 However, the initial energy of particles travelling transverse to the beam axis is zero, so any net momentum in the transverse direction indicates missing transverse energy (MET).
@@ -93,21 +93,20 @@ Missing energy is commonly used to infer the presence of non-detectable particle
 
 
 <img style="width: 300px; height: 200px;" src="pictures/METselection40.png">
-<img style="width: 250px; height: 150px;" src="pictures/Nevents_MET40.png">
 
-Requiring MET removes Z boson events as it is does not have any neutrinos in the final state while the other processes do.
-
-
-## BTag
-
-This is the identification or tagging of jets originating from b-quarks.
-
-Btagged jets are expected in top quark decay, but not in leptonic W boson decay.
+Requiring Missing Transverse Momentum removes Z boson events as it is does not have any neutrinos in the final state while the other processes do.
 
 
-## ZWindow
+## Are Jets b-tagged?
 
-This gives the deviation of the dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at zero but for HWW it peaks away from zero.  
+Jets originating from b-quarks are identified and tagged.
+
+B-tagged jets are expected in top quark decay, but not in leptonic W boson decay.
+
+
+## Reconstructed Mass - Z Mass [GeV]
+
+This gives the deviation of the reconstructed dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at zero but for HWW it peaks away from zero.  
 
 ![](pictures/ZWindow30.png)
 
