@@ -5,5 +5,5 @@
 * [Find the Higgs](find_the_higgs.md)
 * [Find the Higgs 2](find_the_higgs_2.md)
 * [ROOTbrowser](rootbrowser.md)
-* Separate Signals
+* [Separate Signals](separate_signals.md)
 
