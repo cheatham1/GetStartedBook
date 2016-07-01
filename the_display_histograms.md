@@ -127,7 +127,7 @@ For HWW (shown in blue) you see that the total lepton transverse momentum distri
 
 ## Angular Separation of Leptons [phi]
 
-This is the opening angle, phi, between the two leptons.
+This is the opening angle, phi (𝜙), between the two leptons.
 
 ![](pictures/DeltaPhiLL180.png)
 
