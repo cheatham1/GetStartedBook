@@ -30,9 +30,9 @@ Select:
 * Number of Jets = 1
 * Are Jets b-tagged = no
 * electron-muon channel only
-* Missing Transverse Momentum > 30 GeV
-* Total Lepton Transverse Momentum < 90 GeV
+* Total Lepton Transverse Momentum < 100 GeV
 * Angular Separation of Leptons < 80
+* Reconstructed Mass - Z Mass > 20 GeV
 
 ![](pictures/HWW1jet.png)
 
