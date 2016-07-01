@@ -1,6 +1,6 @@
 # Find the Higgs
 
-Now let's try to separate the signal from the background:
+Now let's try to separate the signal from the background using Histogram Analyser:
 
 ## Higgs boson + 0 jet
 We want to select events which contain two leptons, high missing transverse momentum and no jets.  
