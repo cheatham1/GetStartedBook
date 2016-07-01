@@ -1,5 +1,5 @@
 
-# The Histogram Analyser
+# Histogram Analyser
 
 ## The histograms explained
 
