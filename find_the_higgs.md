@@ -1,7 +1,7 @@
 
 # Find the Higgs
 
-Follow the steps of a real ATLAS analysis. 
+Follow the steps of a real ATLAS analysis using Histogram Analyser
 
 **H->WW->ℓνℓν** (ℓ = electron, muon)
 
