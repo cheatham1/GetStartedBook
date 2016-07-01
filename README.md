@@ -1,3 +1,8 @@
+
+# Get Started
+
+Here we present two methods of data visualisation.  Both are easy to use, but very powerful.  
+
 # Histogram Analyser
 
 **A web based tool allowing fast cut-based pre-analysis on data and Monte-Carlo simulated data.  Online visualisation!
