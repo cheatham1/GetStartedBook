@@ -11,7 +11,7 @@ Here we present two methods of online data visualisation.  Both are easy to use,
 **A web based tool allowing fast cut-based pre-analysis on data and Monte-Carlo simulated data.  Online visualisation!
 **
 
-The webpage displays nine histogram-like plots, variables that are often used in cut-flow analysis.  
+The webpage displays nine histograms, variables that are often used in particle physics analyses.  
 
 Cuts can be performed with the cursor on one variable and the behaviour of the other variables is seen immediately.  
 
