@@ -16,7 +16,9 @@ As you apply the cuts, you should see the distributions changing.**
 
 Try and understand why each of the distributions changes.  Think of the physics motivating the cut.
 
-**To clear your selection click on Histogram Analyser under Get Started in the main top menu.**
+**To clear your selection on a specific histogram click on some white background within the histogram area. **
+
+**To clear all your selections click on Histogram Analyser under Get Started in the main top menu.**
 
 ## Analysis 1:
 
