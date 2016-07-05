@@ -6,5 +6,4 @@
 * [Find the Higgs 2](find_the_higgs_2.md)
 * [Separate Signals](separate_signals.md)
 * [ROOTbrowser](rootbrowser.md)
-* [Some Physics](some_physics.md)
 
