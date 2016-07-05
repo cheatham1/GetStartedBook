@@ -3,7 +3,7 @@
 
 ## The histograms explained
 
-The Histogram Analyser displays 9 histograms.
+Histogram Analyser displays 9 histograms.
 The description of each follows.
 
 Let us first consider a physics process to understand which variables are important and why.
