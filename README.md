@@ -15,7 +15,7 @@ The webpage displays nine histogram-like plots, variables that are often used in
 
 Cuts can be performed with the cursor on one variable and the behaviour of the other variables is seen immediately.  
 
-The Histogram App Analyser can simplify and speed-up the selection of cuts, before the usual coding procedure.
+The Histogram Analyser can simplify and speed-up the selection of cuts, before the usual coding procedure.
 
 
 
@@ -23,7 +23,7 @@ The Histogram App Analyser can simplify and speed-up the selection of cuts, befo
 
 
 
-**A web based tool allowing display and interogation of data and Monte-Carlo simulated data. Online visualisation!
+**A web based tool allowing display and interrogation of data and Monte-Carlo simulated data. Online visualisation!
 **
 
 One or more datasets can be loaded.  Variables can be easily displayed.
