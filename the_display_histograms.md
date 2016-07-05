@@ -36,12 +36,12 @@ Understanding a physics process can help motivate cuts on variables to select or
 
 ## Number of Simulated Events
 
-This is the theoretical number of events produced in the different physics processes. 
+Histogram Analyser is displaying Monte-Carlo simulated events.  The number of simulated events is the theoretical number of events produced in the different physics processes. 
 It is displayed in the bottom right histogram.
 
 ## Expected Number of Events for 1/fb
 
-This is the number of events expected to be detected, reconstructed and recorded by ATLAS with the datasets used here. 
+This is the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarns of data. 
 
 The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other uncertainties.
 
