@@ -6,7 +6,7 @@ Histogram Analyser focuses on four physics processes; the signal HWW and three b
 
 The Higgs boson appears as a consequence of the breaking of electroweak symmetry and is responsible
 for giving masses to all other massive particles. The central role played by the Higgs boson in the Standard Model 
-explains why the search for this particle is a centrepiece of the LHC physics programme.
+explains why the understanding of this particle is a centrepiece of the LHC physics programme.
 
 The Higgs boson interacts with all the massive elementary particles of the Standard Model and so it has many different processes through which it can decay.
 The most likely possibility is for the Higgs to decay into a pair of W bosons 
