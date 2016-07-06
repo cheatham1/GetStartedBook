@@ -28,13 +28,14 @@ mistaken for an isolated high-pT lepton.
 Event display: event satisfying all the selection criteria for events in the H + 0 jet electron + muon channel. The reconstructed lepton pT values are 33 and 29 GeV for the electron and the muon, respectively. The reconstructed missing transverse momentum is 35 GeV.
 
 ## WW
-W boson pair production receives contributions from
+W boson pair production occurs via
 
 * **diphoton process**  γγ -> W+W- (~50%)
 
 * **quark–antiquark annihilation** q + qbar -> W+W- (~45%)
 
 * **gluon fusion** g + g -> W+W- (~5%)
+
 
 W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
