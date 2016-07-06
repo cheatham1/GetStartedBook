@@ -15,7 +15,7 @@ Understanding a physics process can help motivate cuts on variables to select or
 ## Number of Simulated Events
 
 Histogram Analyser is displaying Monte-Carlo simulated events.  The number of simulated events is the theoretical number of events produced in the different physics processes. 
-It is displayed in the bottom right histogram.
+The number of simulated events is displayed in the bottom right histogram.
 
 ## Expected Number of Events for 1/fb
 
