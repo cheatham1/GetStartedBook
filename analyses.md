@@ -30,12 +30,13 @@ Event display: event satisfying all the selection criteria for events in the H +
 ## WW
 W boson pair production occurs via
 
-* **diphoton process**  γγ -> W+W- (~50%)
-
-* **quark–antiquark annihilation** q + qbar -> W+W- (~45%)
+* **quark–antiquark annihilation** q + qbar -> W+W-
+ 
+* **diphoton process**  γγ -> W+W- 
 
 * **gluon fusion** g + g -> W+W- (~5%)
 
+The production of pairs of vector bosons is crucial to understand both in order to check the gauge structure of the Standard Model and in the search for new physics.  Production of vector boson pairs and the associated particles from their decay, enter as irreducible backgrounds for many Higgs and new physics searches. 
 
 W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
@@ -47,7 +48,8 @@ If a W boson decays hadronically, the final state is characterised by the presen
 
 In Histogram Analyser we are just considering lepton decay, so WW process will be seen in the electron-electron (ee), muon-muon (mm) and electron-muon (em) channel.
 
-The couplings between gauge bosons, is particularly interesting because these couplings (between 3 or 4 bosons) are predicted by the gauge theory, and any deviation compared with these predictions would be a signature of "new physics ".
+Processes with leptons and missing energy are typical signatures of many new physics models, of which supersymmetry is a classic example. Knowledge of Standard Model processes which possess multiple leptons and missing energy is crucial in the quest to discover or rule out these models.
+
 
 <img src="./EventDisplays/WW.jpg" width="400" />
 
