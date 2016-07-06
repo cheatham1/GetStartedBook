@@ -22,14 +22,25 @@ three processes, the first two contain two isolated high-pT leptons from W boson
 W+jets background, one of the jet decay products might be
 mistaken for an isolated high-pT lepton. 
 
-![](EventDisplays/HWW.png)
+![](EventDisplays/HWW.jpg)
 
 Event display: event satisfying all the selection criteria for events in the H + 0 jet electron + muon channel. The reconstructed lepton pT values are 33 and 29 GeV for the electron and the muon, respectively. The reconstructed missing transverse momentum is 35 GeV.
 
 ## WW
 
-Two W bosons where both decay to leptons.
+W bosons can decay either
+* [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
+* [hadronically](https://en.wikipedia.org/wiki/Hadron): into an [up-type quark](https://en.wikipedia.org/wiki/Quark) and a [down-type quark](https://en.wikipedia.org/wiki/Quark).
 
+If a W boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
+
+If a W boson decays hadronically, the final state is characterised by the presence of two jets due to the two quarks.
+
+In Histogram Analyser we are just considering lepton decay, so WW process will be seen in the electron-electron (ee), muon-muon (mm) and electron-muon (em) channel.
+
+![](EventDisplays/WW.jpg)
+
+Event display: A WW candidate event in the electron muon final state.
 
 ## ttbar
 
@@ -38,7 +49,6 @@ Two W bosons where both decay to leptons.
 It is important for discrimination between different Monte-Carlo data simulation generators,  [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) models and parton distribution functions.
 
 In addition, top pair production is an important background in various Higgs boson analyses as well as beyond the Standard Model searches.  It is therefore crucial to understand this process in detail. 
-
 
 In the Standard Model, the top-quark generally decays into a [W boson](https://en.wikipedia.org/wiki/W_and_Z_bosons) and a 
 [b-quark](https://en.wikipedia.org/wiki/Bottom_quark).
@@ -82,14 +92,6 @@ A Z boson is neutral and so the sum of the charges of its decay products must be
 
 
 * **lepton-antilepton pairs** (10%).  The three lepton-pair types are equally probable, electron-positron, muon-antimuon, and tau-antitau pairs.  In Histogram Analyser this decay mode will be seen in the electron-electron (ee) and muon-muon (mm) channel.
-
-
-
-
-
-
-
-
 
 
 <img src="./EventDisplays/atlas2010_ZmumuMet-candidate_run167776_evt129360643.jpg" width="400" />
