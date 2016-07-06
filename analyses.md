@@ -83,7 +83,7 @@ The production of Z bosons at the LHC is due to
 
 * **Quark gluon scattering**: qg → qγ∗/Z → qμ+μ− (35%). A quark and a gluon interact, creating a virtual photon or Z boson which then decays into a pair of oppositely-charged leptons. 
 
-A Z boson is neutral and so the sum of the charges of its decay products must be 0.  A Z boson decays in 3 ways
+A Z boson is neutral and so the sum of the charges of its decay products must be zero.  A Z boson decays in three ways
 
 * **quark-antiquark pair** (70%). These appear as jets.  If the jets are identified as originating from b-quarks they will be b-tagged.
 
