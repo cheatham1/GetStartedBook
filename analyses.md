@@ -1,6 +1,6 @@
 # Analyses
 
-Histogram Analyser focuses on four physics processes; HWW, WW, ttbar, Z.  Let's take a look at these processes. 
+Histogram Analyser focuses on four physics processes; the signal HWW and three background processes WW, ttbar and Z.  Let's take a look at these processes. 
 
 ## HWW
 
@@ -10,9 +10,9 @@ explains why the search for this particle is a centrepiece of the LHC physics pr
 
 The Higgs boson can decay into 2 W bosons which subsequently decay into leptons and neutrinos.
 
-The H→WW→ℓνℓν (ℓ=electron or muon) channel is particularly sensitive in the intermediate mass range 120< mass Higgs < 240 GeV
+The H→WW→ℓνℓν (ℓ=electron or muon) channel is particularly sensitive in the intermediate mass range 120 < mass Higgs < 240 GeV
 
-It has been shown at the LHC that the major background contributions to the search in this decay mode are top pair (ttbar and Wt), WW and W+jet events. Out of these
+The major background contributions to the search in this decay mode are top ( top-pair production and W+top-quark) WW and W+jet events. Out of these
 three processes, the first two contain two isolated high-pT leptons from W boson decays, which is also the signature of the signal, while for the
 W+jets background, one of the jet decay products might be
 mistaken for an isolated high-pT lepton. 
@@ -38,6 +38,16 @@ Event display: A top pair candidate event recorded by ATLAS with LHC stable beam
 ## Z
 
 The [W](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [Z](http://home.cern/about/physics/z-boson) bosons are together known as the weak or the intermediate vector bosons. These Standard Model elementary particles mediate the weak interaction.  
+
+The Z boson is its own antiparticle. Thus, all of its flavour quantum numbers and charges are zero. The exchange of a Z boson between particles, called a neutral current interaction, leaves the interacting particles unaffected, except for a transfer of momentum.
+
+The production of Z bosons at the LHC is due to
+
+* **Drell-Yan **: qqbar → Z/γ∗ → μ+μ− (65%).  A quark of one hadron and an antiquark of another hadron annihilate, creating a virtual photon or Z boson which then decays into a pair of oppositely-charged leptons. 
+
+
+* **Quark gluon scattering**: qg → qγ∗/Z → qμ+μ− (35%). A quark and a gluon interact, creating a virtual photon or Z boson which then decays into a pair of oppositely-charged leptons. 
+
 
 It is important to measure well known Standard Model particles, to confirm that we understand properly the detector and software.  We are then ready to search for new physics.
 
