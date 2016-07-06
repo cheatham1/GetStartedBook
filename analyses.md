@@ -22,11 +22,19 @@ three processes, the first two contain two isolated high-pT leptons from W boson
 W+jets background, one of the jet decay products might be
 mistaken for an isolated high-pT lepton. 
 
-![](EventDisplays/HWW.jpg)
+<img src="./EventDisplays/HWW.jpg" width="400" />
+
 
 Event display: event satisfying all the selection criteria for events in the H + 0 jet electron + muon channel. The reconstructed lepton pT values are 33 and 29 GeV for the electron and the muon, respectively. The reconstructed missing transverse momentum is 35 GeV.
 
 ## WW
+W boson pair production receives contributions from
+
+* **diphoton process**  γγ -> W+W- (~50%)
+
+* **quark–antiquark annihilation** q + qbar -> W+W- (~45%)
+
+* **gluon fusion** g + g -> W+W- (~5%)
 
 W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
@@ -38,7 +46,9 @@ If a W boson decays hadronically, the final state is characterised by the presen
 
 In Histogram Analyser we are just considering lepton decay, so WW process will be seen in the electron-electron (ee), muon-muon (mm) and electron-muon (em) channel.
 
-![](EventDisplays/WW.jpg)
+The couplings between gauge bosons, is particularly interesting because these couplings (between 3 or 4 bosons) are predicted by the gauge theory, and any deviation compared with these predictions would be a signature of "new physics ".
+
+<img src="./EventDisplays/WW.jpg" width="400" />
 
 Event display: A WW candidate event in the electron muon final state.
 
