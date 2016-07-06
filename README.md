@@ -1,7 +1,9 @@
 
 # Get Started
 
-Here we present two methods of online data visualisation.  Both are easy to use, but very powerful.  **Have a go!**
+Here we present two methods of online data visualisation.  Both are easy to use, but very powerful.  
+
+**Have a go!**
 
 
 ## Histogram Analyser
@@ -13,7 +15,7 @@ The webpage displays nine histograms, variables that are often used in particle 
 
 Cuts can be performed with the cursor on one variable and the behaviour of the other variables is seen immediately.  
 
-The Histogram Analyser can simplify and speed-up the selection of cuts, before the usual coding procedure.
+Histogram Analyser helps to understand the data and the relationship between the signal and background processes. It can simplify and speed-up the selection of cuts, before coding an analysis.
 
 
 ## ROOT browser
