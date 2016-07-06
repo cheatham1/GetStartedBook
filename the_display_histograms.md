@@ -6,28 +6,6 @@
 Histogram Analyser displays 9 histograms.
 The description of each follows.
 
-Let us first consider a physics process to understand which variables are important and why.
-
-
-## Top quark pair production
-
-In the SM, the top-quark generally decays into a [W boson](https://en.wikipedia.org/wiki/W_and_Z_bosons) and a 
-[b-quark](https://en.wikipedia.org/wiki/Bottom_quark).
-
-W bosons can decay either
-* [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
-* [hadronically](https://en.wikipedia.org/wiki/Hadron): into an [up-type quark](https://en.wikipedia.org/wiki/Quark) and a [down-type quark](https://en.wikipedia.org/wiki/Quark).
-
-If a W boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
-
-If a W boson decays hadronically, the final state is characterised by the presence of two jets due to the two quarks.
-
-The two b-quarks from the top-quark decays will be seen as two jets in the final state.  Jets identified as originating from b-quarks are termed b-tagged jets.   
-
-* If both W bosons decay leptonically two jets are seen, originating from the b-quarks.
-* If both W bosons decay hadronically, six jets are seen, two from each W and two from the b-quarks.
-* If the decay is semi-leptonic, one W boson decays leptonically and the other hadronically, four jets are seen.
-
 Reconstruction of an event is not easy.  Not all jets will be reconstructed, or maybe more jets will be reconstructed due to other activity.  The number of jets reconstructed is not an accurate quantity, but can be a good indicator of what is happening in an event.
 
 The number and type of jets, amount of missing transverse momentum and lepton decay channel are important variables describing an event.  
