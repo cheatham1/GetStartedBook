@@ -7,5 +7,5 @@
 * [Find the Higgs 2](find_the_higgs_2.md)
 * [Separate Signals](separate_signals.md)
 * [ROOTbrowser](rootbrowser.md)
-* ATLAS at CERN
+* [ATLAS at CERN](atlas_at_cern.md)
 
