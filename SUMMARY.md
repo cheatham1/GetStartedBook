@@ -8,4 +8,5 @@
 * [Separate Signals](separate_signals.md)
 * [ROOTbrowser](rootbrowser.md)
 * [ATLAS at CERN](atlas_at_cern.md)
+* ATLAS Higgs animations
 
