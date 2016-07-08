@@ -1,7 +1,7 @@
 # Summary
 
 * [Get Started](README.md)
-* ATLAS Higgs animations
+* [ATLAS Higgs animations](atlas_higgs_animations.md)
 * [Analyses](analyses.md)
 * [Histogram Analyser](the_display_histograms.md)
 * [Find the Higgs](find_the_higgs.md)
