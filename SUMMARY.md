@@ -1,6 +1,7 @@
 # Summary
 
 * [Get Started](README.md)
+* ATLAS Higgs animations
 * [Analyses](analyses.md)
 * [Histogram Analyser](the_display_histograms.md)
 * [Find the Higgs](find_the_higgs.md)
@@ -8,5 +9,4 @@
 * [Separate Signals](separate_signals.md)
 * [ROOTbrowser](rootbrowser.md)
 * [ATLAS at CERN](atlas_at_cern.md)
-* ATLAS Higgs animations
 
