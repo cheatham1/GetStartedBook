@@ -4,14 +4,14 @@ Histogram Analyser focuses on four physics processes; the signal HWW and three b
 
 ## HWW
 
-The Higgs boson appears as a consequence of the breaking of electroweak symmetry and is responsible
-for giving masses to all other massive particles. The central role played by the Higgs boson in the Standard Model 
-explains why the understanding of this particle is a centrepiece of the LHC physics programme.
+The [Higgs boson](https://home.cern/topics/higgs-boson) appears as a consequence of the breaking of [electroweak symmetry](https://en.wikipedia.org/wiki/Electroweak_interaction) and is responsible
+for giving masses to all other massive particles. The central role played by the Higgs boson in the [Standard Model](https://home.cern/about/physics/standard-model) 
+explains why the understanding of this particle is a centrepiece of the [LHC](https://home.cern/topics/large-hadron-collider) physics programme.
 
 The Higgs boson interacts with all the massive elementary particles of the Standard Model and so it has many different processes through which it can decay.
-The most likely possibility is for the Higgs to decay into a pair of W bosons 
+The most likely possibility is for the Higgs to decay into a pair of [W bosons](https://home.cern/about/physics/w-boson-sunshine-and-stardust) 
 which happens about 23% of the time for a Higgs boson with a mass of 126 GeV.
-The W bosons can subsequently decay either into a quark and an antiquark or into a charged lepton and a neutrino.
+The W bosons can subsequently decay either into a [quark](https://en.wikipedia.org/wiki/Quark) and an [antiquark](https://en.wikipedia.org/wiki/Antimatter) or into a charged [lepton](https://en.wikipedia.org/wiki/Lepton) and a [neutrino](https://en.wikipedia.org/wiki/Neutrino).
 
 The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bosons which subsequently decay into leptons and neutrinos
 
@@ -24,8 +24,7 @@ mistaken for an isolated high-pT lepton.
 
 <img src="./EventDisplays/HWW.jpg" width="400" />
 
-
-Event display: event satisfying all the selection criteria for events in the H + 0 jet electron + muon channel. The reconstructed lepton pT values are 33 and 29 GeV for the electron and the muon, respectively. The reconstructed missing transverse momentum is 35 GeV.
+Event display: event satisfying all the selection criteria for events in the Higgs + zero jets + electron + muon channel. The reconstructed lepton pT values are 33 and 29 GeV for the electron and the muon, respectively. The reconstructed missing transverse momentum is 35 GeV.
 
 ## WW
 W boson pair production occurs via
@@ -36,7 +35,7 @@ W boson pair production occurs via
 
 * **gluon fusion** g + g -> W+W- (~5%)
 
-The production of pairs of vector bosons is crucial to understand both in order to check the gauge structure of the Standard Model and in the search for new physics.  Production of vector boson pairs and the associated particles from their decay, enter as irreducible backgrounds for many Higgs and new physics searches. 
+The production of pairs of [vector bosons](https://en.wikipedia.org/wiki/Vector_boson) is crucial to understand both in order to check the [gauge structure](https://en.wikipedia.org/wiki/Gauge_theory) of the Standard Model and in the search for [new physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model).  Production of vector boson pairs and the associated particles from their decay, enter as irreducible backgrounds for many Higgs and new physics searches. 
 
 W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
@@ -48,7 +47,7 @@ If a W boson decays hadronically, the final state is characterised by the presen
 
 In Histogram Analyser we are just considering lepton decay, so WW process will be seen in the electron-electron (ee), muon-muon (mm) and electron-muon (em) channel.
 
-Processes with leptons and missing energy are typical signatures of many new physics models, of which supersymmetry is a classic example. Knowledge of Standard Model processes which possess multiple leptons and missing energy is crucial in the quest to discover or rule out these models.
+Processes with leptons and missing energy are typical signatures of many new physics models, of which [supersymmetry](https://home.cern/about/physics/supersymmetry) is a classic example. Knowledge of Standard Model processes which possess multiple leptons and missing energy is crucial in the quest to discover or rule out these models.
 
 
 <img src="./EventDisplays/WW.jpg" width="400" />
