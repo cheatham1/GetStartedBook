@@ -30,3 +30,7 @@ The ROOT browser can help understand the data, before starting to write analysis
 
 If you are not an expert in particle physics or ATLAS jargon you might want to try your hand at the [International Masterclass](http://atlas.physicsmasterclasses.org/en/index.htm) first.
 ![](pictures/IntMasterclasses.png)
+
+
+Use the arrows to navigate through this book. Or use the menu displayed on the left 
+to access the chapters directly.  If you cannot see the menu click on the hamburger icon (4 horizontal lines) displayed top left. 
