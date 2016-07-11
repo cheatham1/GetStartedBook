@@ -19,10 +19,11 @@ H→WW→ℓνℓν (ℓ=electron or muon).
 
 The major background contributions to the search in this decay mode are top-pair production, WW and W+jet events. Out of these
 three processes, the first two contain two isolated high-pT leptons from W boson decays, which is also the signature of the signal, while for the
-W+jets background, one of the jet decay products might be
+W+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics)) background, one of the jet decay products might be
 mistaken for an isolated high-pT lepton. 
 
 The term pT stands for transverse momentum, the component of momentum perpendicular to the beam line.  It is important because momentum along the beamline may just be left over from the beam particles, while the transverse momentum is always associated with whatever physics happened at the vertex.
+
 Isolation is important since it is an indication of where the lepton originated.
 e.g An isolated electron is likely to originate from Z boson, W boson, top, tau or muon.  Whereas a non-isolated electron is likely to originate from J/psi, b-hadron or c-hadron decays.
 
@@ -94,10 +95,10 @@ The [W](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [Z](ht
 
 The production of Z bosons at the LHC is due to
 
-* **Drell-Yan **: qqbar → Z/γ∗ → μ+μ− (65%).  A quark of one hadron and an antiquark of another hadron annihilate, creating a virtual photon or Z boson which then decays into a pair of oppositely-charged leptons. 
+* **Drell-Yan **: qqbar → Z/γ∗ → μ+μ− (65%).  A quark of one hadron and an antiquark of another hadron annihilate, creating a [virtual photon](https://en.wikipedia.org/wiki/Virtual_particle) or Z boson which then decays into a pair of oppositely-charged leptons. 
 
 
-* **Quark gluon scattering**: qg → qγ∗/Z → qμ+μ− (35%). A quark and a gluon interact, creating a virtual photon or Z boson which then decays into a pair of oppositely-charged leptons. 
+* **Quark gluon scattering**: qg → qγ∗/Z → qμ+μ− (35%). A quark and a [gluon](https://en.wikipedia.org/wiki/Gluon) interact, creating a virtual photon or Z boson which then decays into a pair of oppositely-charged leptons. 
 
 A Z boson is neutral and so the sum of the charges of its decay products must be zero.  A Z boson decays in three ways
 
@@ -107,7 +108,7 @@ A Z boson is neutral and so the sum of the charges of its decay products must be
 * **neutrino-antineutrino pair** (20%).  Neutrinos do not interact and so are very difficult to detect.  This decay mode can be identified with missing transverse momentum.
 
 
-* **lepton-antilepton pairs** (10%).  The three lepton-pair types are equally probable, electron-positron, muon-antimuon, and tau-antitau pairs.  In Histogram Analyser this decay mode will be seen in the electron-electron (ee) and muon-muon (mm) channel.
+* **lepton-antilepton pairs** (10%).  The three lepton-pair types are equally probable, [electron](https://en.wikipedia.org/wiki/Electron)-positron, [muon](https://en.wikipedia.org/wiki/Muon)-antimuon, and [tau](https://en.wikipedia.org/wiki/Tau_(particle)-antitau pairs.  In Histogram Analyser this decay mode will be seen in the electron-electron (ee) and muon-muon (mm) channel.
 
 
 <img src="./EventDisplays/atlas2010_ZmumuMet-candidate_run167776_evt129360643.jpg" width="400" />
