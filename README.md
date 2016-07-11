@@ -1,10 +1,5 @@
-
 # Get Started
-
 Here we present two methods of online data visualisation.  Both are easy to use, but still very powerful.  
-
-**Have a go!**
-
 
 ## Histogram Analyser
 
