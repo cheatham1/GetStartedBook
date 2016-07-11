@@ -17,7 +17,7 @@ Let's look at the individual histograms:
 * The majority of Higgs events contain 0 or 1 jet.
 * The analysis considers electron or muon decay of the W bosons, so the events occur in all three channels.  
 * Missing transverse momentum is due to the neutrinos in the final state.  
-* Mostly b-tagged jets.
+* Mostly non b-tagged jets.
 * The Reconstructed Mass - Z mass distribution peaks at 50-55 GeV.
 * The opening angle of the leptons from Higgs decay tends to be small.
 
@@ -31,7 +31,7 @@ Two W bosons both decaying leptonically.
 Let's look at the individual histograms:
 * The majority of WW events contain 0 or 1 jet.
 * The analysis considers electron or muon decay of the W bosons, so the events occur in all three channels.  
-* Mostly b-tagged jets.
+* Mostly non b-tagged jets.
 * Missing transverse momentum is due to the neutrinos in the final state.  
 * The opening angle of the leptons from WW decay tends to be large.
 
@@ -55,5 +55,7 @@ Looking at the individual histograms:
 * The majority of WW events contain 2 or 3 jets.
 * The events occur in all three channels.  
 * Missing transverse momentum is due to the neutrinos in the final state.  
-* Mostly non b-tagged jets.
+* Mostly b-tagged jets.  
 * The opening angle of the leptons from top quark production are fairly evenly distributed over the whole phi range.
+
+Demanding non b-tagged jets reduces the top quark background contribution.
