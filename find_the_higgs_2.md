@@ -8,9 +8,10 @@ We want to select events which contain two leptons, high missing transverse mome
 Select: 
 
 * Number of Jets = 0
-* Missing Transverse Momentum > 40 GeV
-* Total Lepton Transverse Momentum < 60 GeV
+* Jets not b-tagged
 * Angular Separation of Leptons < 80
+* Missing Transverse Momentum > 40 GeV
+* Total Lepton Transverse Momentum > 30 GeV
 * Reconstructed Mass - Z Mass > 15 GeV
 
 
@@ -30,14 +31,14 @@ Select:
 * Number of Jets = 1
 * Are Jets b-tagged = no
 * electron-muon channel only
-* Total Lepton Transverse Momentum < 100 GeV
+* Total Lepton Transverse Momentum > 30 GeV
 * Angular Separation of Leptons < 80
 * Reconstructed Mass - Z Mass > 20 GeV
 
 ![](pictures/HWW1jet.png)
 
 The dominant background after all cuts in the
-Higgs boson + 1 jet channel comes from WW
+Higgs boson + 1 jet channel comes from top pair
 production.  
 
 ## Have a go yourself !
