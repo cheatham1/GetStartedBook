@@ -32,5 +32,8 @@ If you are not an expert in particle physics or ATLAS jargon you might want to t
 ![](pictures/IntMasterclasses.png)
 
 
+
+## Check out our book
+
 Use the arrows to navigate through this book. Or use the menu displayed on the left 
 to access the chapters directly.  If you cannot see the menu click on the hamburger icon (4 horizontal lines) displayed top left. 
