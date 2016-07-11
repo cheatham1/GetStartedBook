@@ -16,7 +16,7 @@ Select:
 
 
 
-![](pictures/HWW0jets.png)
+![](pictures/HWW0jet.png)
 
 The dominant background after all cuts in the
 Higgs boson + 0 jet channel comes from WW
