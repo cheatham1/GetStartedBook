@@ -36,4 +36,4 @@ If you are not an expert in particle physics or ATLAS jargon you might want to t
 ## Take a look
 
 Use the arrows to navigate through this book. Or use the menu displayed on the left 
-to access the chapters directly.  If you cannot see the menu click on the hamburger icon (4 horizontal lines) displayed top left. 
+to access the chapters directly.  If you cannot see the menu click on the hamburger icon (4 horizontal lines) displayed top left under the "Open/Close the book" button. 
