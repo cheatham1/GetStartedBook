@@ -1,14 +1,14 @@
 
 # Get Started
 
-Here we present two methods of online data visualisation.  Both are easy to use, but very powerful.  
+Here we present two methods of online data visualisation.  Both are easy to use, but still very powerful.  
 
 **Have a go!**
 
 
 ## Histogram Analyser
 
-**A web based tool allowing fast cut-based pre-analysis on data and Monte-Carlo simulated data.  Online visualisation!
+**A web based tool allowing fast cut-based analysis on data and Monte-Carlo simulated data.  Online visualisation!
 **
 
 The webpage displays nine histograms, variables that are often used in particle physics analyses.  
@@ -23,7 +23,7 @@ Histogram Analyser helps to understand the data and the relationship between the
 **A web based tool allowing display and interrogation of data and Monte-Carlo simulated data. Online visualisation!
 **
 
-One or more datasets can be loaded.  Variables can be easily displayed.
+One or more datasets can be loaded.  Distributions of variables can be easily displayed.
 Cuts can be performed with the cursor on the different variables. 
 
 The ROOT browser can help understand the data, before starting to write analysis code.
