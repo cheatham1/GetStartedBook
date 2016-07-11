@@ -22,6 +22,10 @@ three processes, the first two contain two isolated high-pT leptons from W boson
 W+jets background, one of the jet decay products might be
 mistaken for an isolated high-pT lepton. 
 
+The term pT stands for transverse momentum, the component of momentum perpendicular to the beam line.  It is important because momentum along the beamline may just be left over from the beam particles, while the transverse momentum is always associated with whatever physics happened at the vertex.
+Isolation is important since it is an indication of where the lepton originated.
+e.g An isolated electron is likely to originate from Z boson, W boson, top, tau or muon.  Whereas a non-isolated electron is likely to originate from J/psi, b-hadron or c-hadron decays.
+
 <img src="./EventDisplays/HWW.jpg" width="400" />
 
 Event display: event satisfying all the selection criteria for events in the Higgs + zero jets + electron + muon channel. The reconstructed lepton pT values are 33 and 29 GeV for the electron and the muon, respectively. The reconstructed missing transverse momentum is 35 GeV.
