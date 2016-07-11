@@ -19,7 +19,7 @@ The number of simulated events is displayed in the bottom right histogram.
 
 ## Expected Number of Events for 1/fb
 
-This is the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarns of data. 
+This is the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarns of data. One inverse femtobarn corresponds to approximately 100 trillion proton-proton collisions.
 
 The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other uncertainties.
 
