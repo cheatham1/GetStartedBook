@@ -1,6 +1,24 @@
 # Find the Higgs
 
-Now let's try to separate the signal from the background using Histogram Analyser:
+Follow the steps of a real ATLAS analysis using Histogram Analyser
+
+**H->WW->ℓνℓν** (ℓ = electron, muon)
+
+We are looking for a Higgs boson which decays into 2 W bosons which subsequently decay into leptons and neutrinos. 
+
+The major background contributions to the search in this decay mode are top (top quark pair and W+top quark), WW and W+jet events.
+
+**Use the cursor to implement the following cuts, one by one.
+As you apply the cuts, you should see the distributions changing.**  
+
+Try and understand why each of the distributions changes.  Think of the physics motivating the cut.
+
+**To clear your selection on a specific histogram click on some white background within the histogram area. **
+
+**To clear all your selections click on Histogram Analyser under Get Started in the main top menu.**
+
+
+Now let's try to separate the signal from the background using Histogram Analyser
 
 ## Higgs boson + 0 jet
 We want to select events which contain two leptons, high missing transverse momentum and no jets.  
