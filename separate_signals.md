@@ -31,8 +31,8 @@ Two W bosons both decaying leptonically.
 Let's look at the individual histograms:
 * The majority of WW events contain 0 or 1 jet.
 * The analysis considers electron or muon decay of the W bosons, so the events occur in all three channels.  
+* * Missing transverse momentum is due to the neutrinos in the final state.  
 * Mostly non b-tagged jets.
-* Missing transverse momentum is due to the neutrinos in the final state.  
 * The opening angle of the leptons from WW decay tends to be large.
 
 The distributions are not so different from those for HWW, hence it is a difficult background to remove.
@@ -58,4 +58,4 @@ Looking at the individual histograms:
 * Mostly b-tagged jets.  
 * The opening angle of the leptons from top quark production are fairly evenly distributed over the whole phi range.
 
-Histogram Analyser shows clearly that demanding non b-tagged jets, only 0 or 1 jet and small angular separation of leptons reduces the top quark background contribution.
+Histogram Analyser shows us that demanding non b-tagged jets, only 0 or 1 jet and small angular separation of leptons will reduce the top quark contribution.
