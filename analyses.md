@@ -19,7 +19,7 @@ H→WW→ℓνℓν (ℓ=electron or muon).
 
 The major background contributions to the search in this decay mode are top-pair production, WW and W+jet events. Out of these
 three processes, the first two contain two isolated high-pT leptons from W boson decays, which is also the signature of the signal, while for the
-W+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics)) background, one of the jet decay products might be
+W+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics) background, one of the jet decay products might be
 mistaken for an isolated high-pT lepton. 
 
 The term pT stands for transverse momentum, the component of momentum perpendicular to the beam line.  It is important because momentum along the beamline may just be left over from the beam particles, while the transverse momentum is always associated with whatever physics happened at the vertex.
