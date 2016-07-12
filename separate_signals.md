@@ -58,4 +58,4 @@ Looking at the individual histograms:
 * Mostly b-tagged jets.  
 * The opening angle of the leptons from top quark production are fairly evenly distributed over the whole phi range.
 
-Demanding non b-tagged jets reduces the top quark background contribution.
+Histogram Analyser shows clearly that demanding non b-tagged jets, only 0 or 1 jet and small angular separation of leptons reduces the top quark background contribution.
