@@ -1,14 +1,14 @@
 # Analyses
 
-Histogram Analyser focuses on four physics processes; the signal HWW and three background processes WW, ttbar and Z.  Let's take a look at these processes. 
+Histogram Analyser focuses on four physics processes; the signal H->WW and three background processes WW, ttbar and Z.  Let's take a look at these processes. 
 
 ## HWW
 
 The [Higgs boson](https://home.cern/topics/higgs-boson) appears as a consequence of the breaking of [electroweak symmetry](https://en.wikipedia.org/wiki/Electroweak_interaction) and is responsible
-for giving masses to all other massive particles. The central role played by the Higgs boson in the [Standard Model](https://home.cern/about/physics/standard-model) 
+for giving mass to all the other particles. The central role played by the Higgs boson in the [Standard Model](https://home.cern/about/physics/standard-model) 
 explains why the understanding of this particle is a centrepiece of the [LHC](https://home.cern/topics/large-hadron-collider) physics programme.
 
-The Higgs boson interacts with all the massive elementary particles of the Standard Model and so it has many different processes through which it can decay.
+The Higgs boson interacts with all the Standard Model elementary particles (which have mass) and so it can decay through many different processes.
 The most likely possibility is for the Higgs to decay into a pair of [W bosons](https://home.cern/about/physics/w-boson-sunshine-and-stardust) 
 which happens about 23% of the time for a Higgs boson with a mass of 126 GeV.
 The W bosons can subsequently decay either into a [quark](https://en.wikipedia.org/wiki/Quark) and an [antiquark](https://en.wikipedia.org/wiki/Antimatter) or into a charged [lepton](https://en.wikipedia.org/wiki/Lepton) and a [neutrino](https://en.wikipedia.org/wiki/Neutrino).
@@ -70,7 +70,7 @@ In addition, top pair production is an important background in various Higgs bos
 In the Standard Model, the top-quark generally decays into a [W boson](https://en.wikipedia.org/wiki/W_and_Z_bosons) and a 
 [b-quark](https://en.wikipedia.org/wiki/Bottom_quark).
 
-W bosons can decay either
+As we said before, W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
 * [hadronically](https://en.wikipedia.org/wiki/Hadron): into an [up-type quark](https://en.wikipedia.org/wiki/Quark) and a [down-type quark](https://en.wikipedia.org/wiki/Quark).
 
