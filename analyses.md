@@ -1,8 +1,8 @@
 # Analyses
 
-Histogram Analyser focuses on four physics processes; the signal H->WW and three background processes WW, ttbar and Z.  Let's take a look at these processes. 
+Histogram Analyser focusses on four physics processes; the signal H->WW and three background processes WW, ttbar and Z.  Let's take a look at these processes. 
 
-## HWW
+## H→WW
 
 The [Higgs boson](https://home.cern/topics/higgs-boson) appears as a consequence of the breaking of [electroweak symmetry](https://en.wikipedia.org/wiki/Electroweak_interaction) and is responsible
 for giving mass to all the other particles. The central role played by the Higgs boson in the [Standard Model](https://home.cern/about/physics/standard-model) 
