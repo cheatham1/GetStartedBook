@@ -6,7 +6,7 @@ Using the Histogram Analyser we can look at each sample separately and understan
 
 **Select the sample by clicking on the bar in the Number of Simulated Events histogram.**  The rest of your histograms now just display the characteristics of your chosen sample.
 
-## HWW
+## H→WW
 
 **H->WW->ℓνℓν** (ℓ = electron, muon)
 
