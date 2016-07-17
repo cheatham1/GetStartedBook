@@ -26,7 +26,7 @@ mistaken for an isolated high-pT lepton.
 The term pT stands for transverse momentum, the component of momentum perpendicular to the beam line.  It is important because momentum along the beamline may just be left over from the beam particles, while the transverse momentum is always associated with the collision between constituents of the two protons.
 
 Isolation is important since it is an indication of where the lepton originated.
-e.g An isolated electron is likely to originate from Z boson, W boson, top, tau or muon.  Whereas a non-isolated electron is likely to originate from J/psi, b-hadron or c-hadron decays.
+e.g an isolated electron is likely to originate from Z boson, W boson, tau or muon.  Whereas a non-isolated electron is likely to originate from b-hadron or c-hadron decays.
 
 <img src="./EventDisplays/HWW.jpg" width="400" />
 
