@@ -25,7 +25,7 @@ The number of events detected and reconstructed by ATLAS is different to the the
 
 The colouration of the 7 other histograms depends on the expected number of events for the different physics processes.
 
-When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; HWW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
+When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; H→WW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
 
 Z boson production has a large cross section.
 So at the start, with no selection, we see mostly Z boson production and the histograms coloured in red. 
@@ -84,11 +84,11 @@ B-tagged jets are expected in top quark decay, but not in leptonic W boson decay
 
 ## Reconstructed Mass - Z Mass [GeV]
 
-This histogram displays the deviation of the reconstructed dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at zero but for HWW it peaks away from zero.  
+This histogram displays the deviation of the reconstructed dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at zero but for H→WW it peaks away from zero.  
 
 ![](pictures/ZWindow30.png)
 
-A cut of Reconstruced Mass - Z Mass > 30 GeV reduces the theoretical Z boson contribution and increases the HWW contribution, shown in the Number of Simulated Events.  
+A cut of Reconstruced Mass - Z Mass > 30 GeV reduces the theoretical Z boson contribution and increases the H→WW contribution, shown in the Number of Simulated Events.  
 
 
 ## Total Lepton Transverse Momentum [GeV]
@@ -100,7 +100,7 @@ For the Z boson total lepton transverse momentum peaks at zero as the two lepton
 
 ![](pictures/SumLepPt.png)
 
-For HWW (shown in blue) you see that the total lepton transverse momentum distribution peaks at around 50 GeV.
+For H→WW (shown in blue) you see that the total lepton transverse momentum distribution peaks at around 50 GeV.
 
 
 ## Angular Separation of Leptons [phi]
