@@ -8,7 +8,7 @@ Here we present two methods of online data visualisation.  Both are easy to use,
 
 The webpage displays nine histograms of variables that are often used in particle physics analyses.  
 
-Cuts can be performed with the cursor on one variable and the behaviour of the other variables is seen immediately.  
+Cuts can be performed with the cursor on one variable and the effect on the other variables is seen immediately.  
 
 Histogram Analyser helps to understand the data and the relationship between the signal and background processes. It can simplify and speed-up the selection of cuts, before coding an analysis.
 
