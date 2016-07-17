@@ -26,7 +26,6 @@ We want to select events which contain two leptons, high missing transverse mome
 Select: 
 
 * Number of Jets = 0
-* Jets not b-tagged
 * Angular Separation of Leptons < 80
 * Missing Transverse Momentum > 40 GeV
 * Total Lepton Transverse Momentum > 30 GeV
