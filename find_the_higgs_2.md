@@ -61,7 +61,7 @@ production.
 
 ## Have a go yourself !
 
-Perhaps try the HWW + 0 jet, but separate into leptonic channels and tune the cuts to maximise the number of HWW events with minimum background.  
+Perhaps try the H→WW + 0 jet, but separate into leptonic channels and tune the cuts to maximise the number of H→WW events with minimum background.  
 
 Or try something completely different...
 
