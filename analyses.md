@@ -4,14 +4,15 @@ Histogram Analyser focusses on four physics processes; the signal H->WW and thre
 
 ## H→WW
 
-The [Higgs boson](https://home.cern/topics/higgs-boson) appears as a consequence of the breaking of [electroweak symmetry](https://en.wikipedia.org/wiki/Electroweak_interaction) and is responsible
-for giving mass to all the other particles. The central role played by the Higgs boson in the [Standard Model](https://home.cern/about/physics/standard-model) 
-explains why the understanding of this particle is a centrepiece of the [LHC](https://home.cern/topics/large-hadron-collider) physics programme.
+The [Higgs boson](https://home.cern/topics/higgs-boson) is an excitation of the quantum field responsible for the breaking of [electroweak symmetry](https://en.wikipedia.org/wiki/Electroweak_interaction). This field is responsible for giving masses to fundamental particles.
 
 The Higgs boson interacts with all the Standard Model elementary particles (which have mass) and so it can decay through many different processes.
 The most likely possibility is for the Higgs to decay into a pair of [W bosons](https://home.cern/about/physics/w-boson-sunshine-and-stardust) 
 which happens about 23% of the time for a Higgs boson with a mass of 126 GeV.
-The W bosons can subsequently decay either into a [quark](https://en.wikipedia.org/wiki/Quark) and an [antiquark](https://en.wikipedia.org/wiki/Antimatter) or into a charged [lepton](https://en.wikipedia.org/wiki/Lepton) and a [neutrino](https://en.wikipedia.org/wiki/Neutrino).
+The W bosons can subsequently decay either into a quark and antiquark or a [lepton](https://en.wikipedia.org/wiki/Lepton) and [neutrino](https://en.wikipedia.org/wiki/Neutrino) or an antilepton and an anti-neutrino.
+
+From here on, we will refer to a particle 
+and it's [antiparticle](https://en.wikipedia.org/wiki/Antiparticle) collectively by just the particle's name.  Such as quark/anti-quark, lepton/antilepton, neutrino/antineutrino... It is a shorthand that Physicists adopt for brevity. 
 
 The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bosons which subsequently decay into leptons and neutrinos
 
@@ -22,7 +23,7 @@ three processes, the first two contain two isolated high-pT leptons from W boson
 W+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics) background, one of the jet decay products might be
 mistaken for an isolated high-pT lepton. 
 
-The term pT stands for transverse momentum, the component of momentum perpendicular to the beam line.  It is important because momentum along the beamline may just be left over from the beam particles, while the transverse momentum is always associated with whatever physics happened at the vertex.
+The term pT stands for transverse momentum, the component of momentum perpendicular to the beam line.  It is important because momentum along the beamline may just be left over from the beam particles, while the transverse momentum is always associated with the collision between constituents of the two protons.
 
 Isolation is important since it is an indication of where the lepton originated.
 e.g An isolated electron is likely to originate from Z boson, W boson, top, tau or muon.  Whereas a non-isolated electron is likely to originate from J/psi, b-hadron or c-hadron decays.
@@ -38,7 +39,7 @@ W boson pair production occurs via
  
 * **diphoton process**  γγ -> W+W- 
 
-* **gluon fusion** g + g -> W+W- (~5%)
+* **gluon fusion** g + g -> W+W-
 
 The production of pairs of [vector bosons](https://en.wikipedia.org/wiki/Vector_boson) is crucial to understand both in order to check the [gauge structure](https://en.wikipedia.org/wiki/Gauge_theory) of the Standard Model and in the search for [new physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model).  Production of vector boson pairs and the associated particles from their decay, enter as irreducible backgrounds for many Higgs and new physics searches. 
 
@@ -87,7 +88,7 @@ The two b-quarks from the top-quark decays will be seen as two jets in the final
 
 <img src="./EventDisplays/run267638_evt193690558.jpg" width="400" />
 
-Event display: A top pair candidate event recorded by ATLAS with LHC stable beams at a collision energy of 13 TeV. The red line shows the path of a muon with transverse momentum around 140 GeV through the detector. The green line shows the path of an electron with transverse momentum around 170 GeV through the detector. The green and yellow bars indicate energy deposits in the liquid argon and scintillating-tile calorimeters, from these deposits 3 jets are identified with transverse momenta between 30 and 80 GeV. Two of the jets are identified as having originated from b-quarks. Tracks reconstructed from hits in the inner tracking detector are shown as arcs curving in the solenoidal magnetic field. 
+Event display: A top pair candidate event recorded by ATLAS with LHC stable beams at a collision energy of 13 TeV. The red line shows the path of a muon with transverse momentum around 140 GeV through the detector. The green line shows the path of an electron with transverse momentum around 170 GeV through the detector. The green and yellow bars indicate energy deposits in the liquid argon and scintillating-tile calorimeters, from these deposits 3 jets are identified with transverse momenta between 30 and 80 GeV. Two of the jets are identified as having originated from b-quarks.  
 
 ## Z
 
@@ -95,7 +96,7 @@ The [W](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [Z](ht
 
 The production of Z bosons at the LHC is due to
 
-* **Drell-Yan **: qqbar → Z/γ∗ → μ+μ− (65%).  A quark of one hadron and an antiquark of another hadron annihilate, creating a [virtual photon](https://en.wikipedia.org/wiki/Virtual_particle) or Z boson which then decays into a pair of oppositely-charged leptons. 
+* **Drell-Yan **: qqbar → Z/γ∗ → μ+μ− (65%).  A quark of one proton and an antiquark of another proton annihilate, creating a [virtual photon](https://en.wikipedia.org/wiki/Virtual_particle) or Z boson which then decays into a pair of oppositely-charged leptons. 
 
 
 * **Quark gluon scattering**: qg → qγ∗/Z → qμ+μ− (35%). A quark and a [gluon](https://en.wikipedia.org/wiki/Gluon) interact, creating a virtual photon or Z boson which then decays into a pair of oppositely-charged leptons. 
@@ -108,7 +109,9 @@ A Z boson is neutral and so the sum of the charges of its decay products must be
 * **neutrino-antineutrino pair** (20%).  Neutrinos do not interact and so are very difficult to detect.  This decay mode can be identified with missing transverse momentum.
 
 
-* **lepton-antilepton pairs** (10%).  The three lepton-pair types are equally probable, [electron](https://en.wikipedia.org/wiki/Electron)-positron, [muon](https://en.wikipedia.org/wiki/Muon)-antimuon, and [tau](https://en.wikipedia.org/wiki/Tau_(particle)-antitau pairs.  In Histogram Analyser this decay mode will be seen in the electron-electron (ee) and muon-muon (mm) channel.
+* **lepton-antilepton pairs** (10%).  The three lepton-pair types are equally probable, [electron](https://en.wikipedia.org/wiki/Electron)-positron, [muon](https://en.wikipedia.org/wiki/Muon)-antimuon, and [tau](https://en.wikipedia.org/wiki/Tau_(particle)-antitau pairs.  
+
+In Histogram Analyser the latter decay mode will be seen in the electron-electron (ee) and muon-muon (mm) channel.  Electrons and muons are much easier to isolate and measure than taus.
 
 
 <img src="./EventDisplays/atlas2010_ZmumuMet-candidate_run167776_evt129360643.jpg" width="400" />
