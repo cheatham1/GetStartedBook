@@ -37,7 +37,7 @@ So at the start, with no selection, we see mostly Z boson production and the his
 <img style="width: 600px; height: 150px;" src="pictures/Nevents_em.png">
 
 Select only the electron-muon (em) channel, then the number of Z bosons decreases substantially. 
-Z bosons decay to fermion-antifermion, so are seen in the electron-electron channel and the muon-muon channel, but not the electron-muon channel.  A small number of electrons or muons may be wrongly identified and hence a small number of Z bosons may be reconstructed in the electron-muon channel. 
+Z bosons decay to fermion-antifermion pairs, so are seen in the electron-electron channel and the muon-muon channel, but not the electron-muon channel.  A small number of electrons or muons may be wrongly identified and hence a small number of Z bosons may be reconstructed in the electron-muon channel. 
 
 <img style="width: 600px; height: 200px;" src="pictures/2jets_em.png">
 
@@ -59,7 +59,7 @@ With no selection, Z boson events are dominant.
 
 Selecting 2 or more jets, increases the proportion of ttbar events.
 
-Top-quark pair production leads to WW+jet final states.
+Top-quark pair production leads to WW+jets final states.
 ## Channel
 
 Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) and di-muon (mm) channels. Decays to taus or hadrons are not considered in this case.
