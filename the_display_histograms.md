@@ -6,14 +6,11 @@
 Histogram Analyser displays 9 histograms.
 The description of each follows.
 
-The number and type of jets, amount of missing transverse momentum and lepton decay channel are important variables describing an event.  
-
-Historically, physicists have used simple cuts to select events of interest.  One demands that certain measured quantities in the event lie in well-defined ranges which do not vary with other quantities in the event. 
-
-You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
-
+Physicists use cuts to select events of interest.  Measured quantities in the event are demanded to lie in defined ranges.  Selections are made that preferentially remove the unwanted processes (background) but leave the desired process (signal).  
 
 Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.  
+
+The colours used in the histograms depend on the expected number of events for the different physics processes.  When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; H→WW, WW, ttbar and Z .  If you have made cuts, the selected ranges will be couloured, whilst out of range will be grey.
 
 ## Number of Simulated Events
 
@@ -26,19 +23,6 @@ This is the number of events expected to be detected, reconstructed and recorded
 
 The number of events detected and reconstructed by ATLAS is different to the actual number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other inefficiencies.
 
-The colours used in the 7 other histograms depends on the expected number of events for the different physics processes.
-
-When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; H→WW, WW, ttbar and Z .  
-
-Z boson production has a large cross section.
-So at the start, with no selection, we see mostly Z boson production and the histograms coloured in red. 
-
-<img style="width: 300px; height: 200px;" src="pictures/em.png">
-
-<img style="width: 600px; height: 150px;" src="pictures/Nevents_em.png">
-
-Select only the electron-muon (em) channel, then the number of Z bosons decreases substantially. 
-Z bosons decay to fermion-antifermion pairs, so are seen in the electron-electron channel and the muon-muon channel, but not the electron-muon channel.  A small number of electrons or muons may be wrongly identified and hence a small number of Z bosons may be reconstructed in the electron-muon channel. 
 
 <img style="width: 600px; height: 200px;" src="pictures/2jets_em.png">
 
