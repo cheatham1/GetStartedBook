@@ -1,6 +1,6 @@
 # ROOTbrowser
 
-**A web based tool allowing display and interrogation of data and Monte-Carlo simulated data. Online visualisation!
+**A web based tool for displaying and analysing data and Monte-Carlo simulated data. Online visualisation!
 **
 
 Select a dataset using the drop-down menu (second text box).
@@ -17,9 +17,9 @@ The available variables are then displayed.  Select the variable to view the dis
 
 One or more datasets can be loaded.  
 
-One or more variables can be displayed at a time.  Options for display are available (grid option circled in red below) but option must be selected before file loaded.
+One or more variables can be displayed at a time.  Display options are available (grid option circled in red below) but the option must be selected before the file loaded.
 
-Further display criteria available (circled in green below) such as setting x-axis and/or y-axis to logarithmic scale.
+Further display criteria available (circled in green below) such as setting the x-axis and/or y-axis to logarithmic scale.
 
 
 ![](pictures/ROOTbrowser/gridROOTbrowser.png)
