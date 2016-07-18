@@ -18,7 +18,7 @@ The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bo
 
 H→WW→ℓνℓν (ℓ=electron or muon).
 
-The major background contributions to the search in this decay mode are top-pair production, WW and W+jet events. Out of these
+The major background contributions to the search in this decay mode are top-pair production, WW and W+jets events. Out of these
 three processes, the first two contain two isolated high-pT leptons from W boson decays, which is also the signature of the signal, while for the
 W+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics) background, one of the jet decay products might be
 mistaken for an isolated high-pT lepton. 
@@ -28,9 +28,10 @@ The term pT stands for transverse momentum, the component of momentum perpendicu
 Isolation is important since it is an indication of where the lepton originated.
 e.g an isolated electron is likely to originate from Z boson, W boson, tau or muon.  Whereas a non-isolated electron is likely to originate from b-hadron or c-hadron decays.
 
-<img src="./EventDisplays/HWW.jpg" width="400" />
+<img src="./EventDisplays/HWW2.jpg" width="300" />
 
-Event display: event satisfying all the selection criteria for events in the Higgs + zero jets + electron + muon channel. The reconstructed lepton pT values are 33 and 29 GeV for the electron and the muon, respectively. The reconstructed missing transverse momentum is 35 GeV.
+Event display: event satisfying all the selection criteria for events in the Higgs + zero jets + electron + muon channel. 
+The reconstructed lepton pT values are 33 and 29 GeV for the electron (green track) and the muon (red track) respectively. The reconstructed missing transverse momentum (magenta arrow) is 35 GeV.
 
 ## WW
 W boson pair production occurs via
@@ -58,11 +59,11 @@ Processes with leptons and missing energy are typical signatures of many new phy
 
 <img src="./EventDisplays/WW.jpg" width="400" />
 
-Event display: A WW candidate event in the electron muon final state.
+Event display: A WW candidate event in the electron muon final state.  The electron and muon candidates have transverse momenta of 21 and 68 GeV respectively.  The arrow indicates the missing transverse momentum, which is measured to be 69 GeV.  
 
 ## ttbar
 
-[Top](https://en.wikipedia.org/wiki/Top_quark) pair production is interesting because it is a good test of the Standard Model.
+Due to its high mass and short lifetime, the [top quark](https://press.cern/backgrounders/top-quark) provides a unique environment to study a bare quark. 
 
 It is important for discrimination between different Monte-Carlo data simulation generators,  [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) models and parton distribution functions.
 
@@ -75,11 +76,7 @@ As we said before, W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
 * [hadronically](https://en.wikipedia.org/wiki/Hadron): into an [up-type quark](https://en.wikipedia.org/wiki/Quark) and a [down-type quark](https://en.wikipedia.org/wiki/Quark).
 
-If a W boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
-
-If a W boson decays hadronically, the final state is characterised by the presence of two jets due to the two quarks.
-
-The two b-quarks from the top-quark decays will be seen as two jets in the final state.  Jets identified as originating from b-quarks are termed b-tagged jets.   
+The two b-quarks from the top-quark decays will be seen as two jets in the final state.  Jets identified as originating from b-quarks are termed b-tagged jets.  Additional jets in ttbar events can originate from gluon radiation.
 
 * If both W bosons decay leptonically two jets are seen, originating from the b-quarks.
 * If both W bosons decay hadronically, six jets are seen, two from each W and two from the b-quarks.
