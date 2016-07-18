@@ -11,11 +11,11 @@ The major background contributions to the search in this decay mode are top (top
 **Use the cursor to implement the following cuts, one by one.
 As you apply the cuts, you should see the distributions changing.**  
 
-Try and understand why each of the distributions changes.  Think of the physics motivating the cut.
+Try to understand why each of the distributions change.  Think of the physics motivating the cuts.
 
-**To clear your selection on a specific histogram click on some white background within the histogram area. **
+**To clear your selection on a specific histogram click on the white background within the histogram area. **
 
-**To clear all your selections click on Histogram Analyser under Get Started in the main top menu.**
+**To clear all your selections click on "Histogram Analyser" under Get Started in the main top menu.**
 
 
 Now let's try to separate the signal from the background using Histogram Analyser
@@ -35,7 +35,7 @@ Select:
 
 ![](pictures/HWW0jet.png)
 
-The dominant background after all cuts in the
+The dominant background after all these cuts in the
 Higgs boson + 0 jet channel comes from WW
 production, with a smaller contribution from Z and top events.
 
@@ -54,13 +54,13 @@ Select:
 
 ![](pictures/HWW1jet.png)
 
-The dominant background after all cuts in the
+The dominant background after all these cuts in the
 Higgs boson + 1 jet channel comes from top pair
 production.  
 
-## Have a go yourself !
+## Have a go yourself!
 
-Perhaps try the H→WW + 0 jet, but separate into leptonic channels and tune the cuts to maximise the number of H→WW events with minimum background.  
+Perhaps try the H→WW + 0 jet, but separate it into leptonic channels and tune the cuts to maximise the number of H→WW events with minimum background.  
 
 Or try something completely different...
 
