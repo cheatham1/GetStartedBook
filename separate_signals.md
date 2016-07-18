@@ -46,6 +46,7 @@ Displaying both samples together shows why it is difficult to separate the HWW s
 
 ## top quark pair
 
+Due to its high mass and short lifetime, the top quark provides a unique environment to study a bare quark.
 
 ![](pictures/separateSignals/ttbar.png)
 
