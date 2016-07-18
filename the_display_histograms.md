@@ -8,9 +8,12 @@ The description of each follows.
 
 The number and type of jets, amount of missing transverse momentum and lepton decay channel are important variables describing an event.  
 
-The number of jets reconstructed is not an accurate quantity, but can be a good indicator of what is happening in an event. (reword)
+Historically, physicists have used simple cuts to select events of interest.  One demands that certain measured quantities in the event lie in well-defined ranges which do not vary with other quantities in the event. 
 
-Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.
+You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
+
+
+Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.  
 
 ## Number of Simulated Events
 
@@ -21,13 +24,11 @@ The number of simulated events is displayed in the bottom right histogram.
 
 This is the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarn of data. One inverse femtobarn corresponds to approximately 100 trillion proton-proton collisions.
 
-The number of events detected and reconstructed by ATLAS is different to the theoretical number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other inefficiencies.
+The number of events detected and reconstructed by ATLAS is different to the actual number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other inefficiencies.
 
 The colours used in the 7 other histograms depends on the expected number of events for the different physics processes.
 
-Cuts explained:
-
-When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; H→WW, WW, ttbar and Z .  You want to make selections that preferentially remove the unwanted processes (background) but leave the desired process (signal).
+When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; H→WW, WW, ttbar and Z .  
 
 Z boson production has a large cross section.
 So at the start, with no selection, we see mostly Z boson production and the histograms coloured in red. 
