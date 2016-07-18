@@ -101,7 +101,3 @@ This is the opening angle, phi (𝜙), between the two leptons.
 
 
 If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  Selecting Angular Separation of 180-190 you will see that the majority of events contain Z bosons.  
-
-![](pictures/DeltaPhiLL80.png)
-
-Selecting Angular Separation < 80 you will see the total number of Higgs bosons increases.  Leptons from Higgs bosons tend to be close in phi.
