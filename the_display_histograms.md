@@ -10,7 +10,7 @@ Physicists use cuts to select events of interest.  Measured quantities in the ev
 
 Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.  
 
-The colours used in the histograms depend on the expected number of events for the different physics processes.  When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; H→WW, WW, ttbar and Z .  If you have made cuts, the selected ranges will be couloured, whilst out of range will be grey.
+The colours used in the histograms depend on the expected number of events for the different physics processes.  When you are making cuts it is interesting to watch the relative number of events for the 4 main processes; H→WW, WW, ttbar and Z .  If you make cuts, the selected ranges will be couloured, whilst out of range will be grey.
 
 ## Number of Simulated Events
 
