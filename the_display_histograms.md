@@ -1,13 +1,12 @@
 
 # Histogram Analyser
 
-## The histograms explained
-
-Physicists use cuts to select events of interest.  Measured quantities in the event are demanded to lie in defined ranges.  Selections are made that preferentially remove the unwanted processes (background) but leave the desired process (signal).  
-
-Understanding a physics process can help motivate cuts on variables to select or remove that particular physics process.  
+Physicists use cuts to select events of interest.  
+Cuts are made that preferentially remove the unwanted processes (background) but leave the desired process (signal).  It is useful to have a good understanding of the physics processes involved when applying cuts.
 
 The colours used in the histograms depend on the expected number of events for the different physics processes.  When you are making cuts it is interesting to watch the relative number of events for the 4 main processes: H→WW, WW, ttbar and Z.  If you make cuts, the selected ranges will be couloured, whilst out of range will be grey.
+
+## The histograms explained
 
 Histogram Analyser displays 9 histograms.
 The description of each follows.
@@ -28,7 +27,7 @@ The number of events detected and reconstructed by ATLAS is different to the act
 
 <img style="width: 600px; height: 150px;" src="pictures/Events_2jets_em.png">
 
-Selecting 2 jets and the em channel we have mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
+When selecting 2 jets and the em channel we see mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
 
 ## Number of Jets
 
@@ -42,25 +41,26 @@ With no selection, Z boson events are dominant.
 <img style="width: 300px; height: 200px;" src="pictures/Njets2plus.png">
 <img style="width: 250px; height: 150px;" src="pictures/Nevents2jetsplus.png">
 
-Selecting 2 or more jets, increases the proportion of ttbar events.
+Selecting 2 or more jets increases the proportion of ttbar events.
 
 Top-quark pair production leads to WW+jets final states.
 ## Channel
 
-Leptonic decay channels are shown here: di-electron (ee) , electron-muon (em) and di-muon (mm) channels. Decays to taus or hadrons are not considered in this case.
+The leptonic decay channels are shown here: di-electron (ee), electron-muon (em) and di-muon (mm) channels. Decays to taus or hadrons are not considered in this case.
 
 ## Missing Transverse Momentum [GeV]
 
-In the LHC, the initial energy of the colliding particles along the beam axis is not known because the energy of each proton is split, and constantly exchanged, between its constituents.  
+In the LHC, the initial energy of the colliding particles along the beam axis is not known because the energy of each proton is shared and constantly exchanged, between its constituents.  
 
 However, the initial momentum of particles travelling transverse to the beam axis is zero, so any net momentum in the transverse direction indicates missing transverse momentum.
 
-Missing transverse momentum is commonly used to infer the presence of non-detectable particles such as the neutrino and is expected to be a signature of many predicted physics events that contain particles that do not interact with the detector, for example the lightest [supersymmetric](http://home.cern/scientists/updates/2013/10/supersymmetry-searches-atlas) particle.
+Missing transverse momentum is commonly used to infer the presence of non-detectable particles such as the neutrino.  It is expected to be a signature of many predicted physics events that contain particles that do not interact with the detector, for example the lightest [supersymmetric](http://home.cern/scientists/updates/2013/10/supersymmetry-searches-atlas) particle.
 
 
 <img style="width: 300px; height: 200px;" src="pictures/METselection40.png">
 
-Requiring missing transverse momentum removes Z boson events as it is does not have any neutrinos in the final state while the other processes do.
+
+Requiring missing transverse momentum removes Z boson events, since Z boson decay does not have any neutrinos in the final state while the other processes do.
 
 
 ## Are Jets b-tagged?
@@ -68,7 +68,7 @@ Requiring missing transverse momentum removes Z boson events as it is does not h
 Jets originating from b-quarks are identified and tagged.
 Such jets are identified from tracks that do not  originate from the proton collision point.
 
-B-tagged jets are expected in top quark decay, but not in leptonic W boson decay.
+B-tagged jets are expected in top quark decays, but not in leptonic W boson decays.
 
 
 ## Reconstructed Mass - Z Mass [GeV]
@@ -82,11 +82,11 @@ A cut of Reconstructed Mass - Z Mass > 30 GeV reduces the theoretical Z boson co
 
 ## Total Lepton Transverse Momentum [GeV]
 
-This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the charged leptons observed. 
+This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the observed charged leptons. 
 
 ![](pictures/SumLepPtZ.png)
 
-For the Z boson total lepton transverse momentum peaks at zero since the momentum of one lepton cancels out the momentum of the other.
+For Z boson events, total lepton transverse momentum peaks at zero since the momentum of one lepton cancels out the momentum of the other.
 
 ![](pictures/SumLepPt.png)
 
