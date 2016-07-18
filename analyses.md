@@ -12,7 +12,7 @@ which happens about 23% of the time for a Higgs boson with a mass of 126 GeV.
 The W bosons can subsequently decay either into a quark and antiquark or a [lepton](https://en.wikipedia.org/wiki/Lepton) and [neutrino](https://en.wikipedia.org/wiki/Neutrino) or an antilepton and an anti-neutrino.
 
 From here on, we will refer to a particle 
-and it's [antiparticle](https://en.wikipedia.org/wiki/Antiparticle) collectively by just the particle's name.  Such as quark/anti-quark, lepton/antilepton, neutrino/antineutrino... It is a shorthand that Physicists adopt for brevity. 
+and it's [antiparticle](https://en.wikipedia.org/wiki/Antiparticle) collectively by just the particle's name.  Such as quark/anti-quark, lepton/antilepton, neutrino/antineutrino... So when we talk about quarks we mean quarks and antiquarks.  It is a shorthand that physicists adopt for brevity. 
 
 The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bosons which subsequently decay into leptons and neutrinos
 
