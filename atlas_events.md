@@ -1,8 +1,9 @@
 # ATLAS events
 
 <CENTER>
-<img src="./Pictures/zpileup_alltracks.png" width="275" />
+<img src="./pictures/zpileup_alltracks.png" width="275" />
 </CENTER>
+
 
 Beams of [protons](https://en.wikipedia.org/wiki/Proton) are accelerated around the [Large Hadron Collider (LHC)](http://home.cern/topics/large-hadron-collider) and are brought to collide at the centre of the [ATLAS](http://home.cern/about/experiments/atlas) detector. The collisions produce debris in the form of new particles which fly out in all directions. Over a billion particle interactions take place in the ATLAS detector every second.
 
