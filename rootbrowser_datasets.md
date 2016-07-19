@@ -9,7 +9,7 @@ Then there are a range of simulated datasets from
 * ggH: gluon+gluon->Higgs boson
 * stop: superpartner of the top quark as predicted by supersymmetry.
 * ttbar: top pair production
-* VBF: Vector Boson Fusion
+* VBF: Vector Boson Fusion Higgs Production
 * W+jets: W boson decay to various final states
 * WW: W boson pair
 * WZ: W+Z boson
