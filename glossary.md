@@ -48,7 +48,6 @@ Tracks reconstructed from hits in the inner tracking detector are shown as arcs 
 The angular separation between physics objects e.g.lepton pair can be important in understanding or identifying different physics processes.
 It is calculated as a function of eta and phi.
 
-
 Isolation can be required, meaning that there must be a minimum angular separation from any other significant object.
 
 ## Good Run List
