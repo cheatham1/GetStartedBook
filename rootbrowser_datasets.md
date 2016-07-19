@@ -1,8 +1,8 @@
 # ROOTbrowser datasets
 
 There are two real datasets for you to look at
-* data_Egamma.root
-* data_Muons.root
+* data_Egamma.root : electros and photons
+* data_Muons.root : muons
 
 Then there are a range of simulated datasets from 
 * DY: Drell-Yan processes
@@ -20,16 +20,13 @@ Then there are a range of simulated datasets from
 * ZZ: Z boson pair
 
 
-
-## Data
-
 ## Simulated data
 Simulated events are a key feature for the LHC
 experiments, commonly named Monte Carlo or Monte Carlo simulated data to be precise. 
 These events are simulated using current theoretical models and are used to compare theory with real data.
 
 The full simulation requires the following steps
-* Event generation: Hadronic final states using the
+* Event generation: Final states using the
 proton-proton collisions are generated using programs relying  on  theoretical  calculations,  phenomenological
 models and experimental inputs.
 
