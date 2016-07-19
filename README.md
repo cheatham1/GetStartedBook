@@ -32,6 +32,6 @@ to access the chapters directly.  If you cannot see the menu click on the hambur
 
 ## International Masterclass
 
-If you are not an expert in particle physics or ATLAS jargon you might want to try your hand at the [International Masterclass](http://atlas.physicsmasterclasses.org/en/index.htm) first.
+If you are not an expert in particle physics or ATLAS jargon you might want to try your hand at the [International Masterclass](http://atlas.physicsmasterclasses.org/en/index.htm).
 ![](pictures/IntMasterclasses.png)
 
