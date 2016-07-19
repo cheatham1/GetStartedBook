@@ -9,6 +9,6 @@
 * [ROOTbrowser](rootbrowser.md)
 * [Variable Names](variable_names.md)
 * [Glossary](glossary.md)
-* [ATLAS at CERN](atlas_at_cern.md)
 * ATLAS events
+* [ATLAS at CERN](atlas_at_cern.md)
 
