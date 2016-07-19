@@ -1,8 +1,5 @@
 # ATLAS at CERN
 
-![](pictures/ATLAS.jpg)
-
-
 Discover more about ATLAS and the LHC at CERN:
 * [ATLAS the Experiment](http://atlas.cern/discover/about)
 
@@ -11,6 +8,8 @@ Discover more about ATLAS and the LHC at CERN:
 * [The Physics](http://home.cern/about/physics)
 
 * [Physics Results](https://twiki.cern.ch/twiki/bin/view/AtlasPublic)
+
+<img src="./pictures/ATLAS.jpg" width="200" />
 
 
 
