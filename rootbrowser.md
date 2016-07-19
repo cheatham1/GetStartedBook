@@ -1,7 +1,29 @@
 # ROOTbrowser
 
-**A web based tool for displaying and analysing data and Monte-Carlo simulated data. Online visualisation!
+**A web based tool for displaying and analysing data and Monte-Carlo simulated data. 
 **
+
+There are two real datasets for you to look at
+* data_Egamma.root
+* data_Muons.root
+
+Then there are a range of simulated datasets from 
+* DY: Drell-Yan processes
+* ggH: gluon+gluon->Higgs boson
+* stop: superpartner of the top quark as predicted by supersymmetry.
+* ttbar: top pair production
+* VBF: Vector Boson Fusion
+* W+jets: W boson decay to various final states
+* WW: W boson pair
+* WZ: W+Z boson
+* Zee: Z boson decay to two electrons
+* Zmumu: Z boson decay to two muons
+* Zprime: superpartner of the Z boson as predicted by supersymmetry.
+* Ztautau: Z decay to two taus
+* ZZ: Z boson pair
+
+
+
 
 Select a dataset using the drop-down menu (second text box).
 
