@@ -4,21 +4,18 @@
 Physicists use cuts to select events of interest.  
 Cuts are made that preferentially remove the unwanted processes (background) but leave the desired process (signal).  It is useful to have a good understanding of the physics processes involved when applying cuts.
 
-The colours used in the histograms depend on the expected number of events for the different physics processes.  When you are making cuts it is interesting to watch the relative number of events for the 4 main processes: H→WW, WW, ttbar and Z.  If you make cuts, the selected ranges will be couloured, whilst out of range will be grey.
+The colours used in the histograms depend on the expected number of events for the different physics processes.  When you are making cuts it is interesting to watch the relative number of events for the 4 main processes: H→WW, WW, ttbar and Z.  
+
+If you make cuts, the selected ranges will be couloured, whilst out of range will be grey.
 
 ## The histograms explained
 
 Histogram Analyser displays 9 histograms.
 The description of each follows.
 
-## Number of Simulated Events
-
-Histogram Analyser is displaying Monte-Carlo simulated events.  The number of simulated events is the actual number of events produced in the different physics processes. 
-The number of simulated events is displayed in the bottom right histogram.
-
 ## Expected Number of Events for 1/fb
 
-This is the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarn (1/fb) of data. One inverse femtobarn corresponds to approximately 100 trillion proton-proton collisions.
+Histogram Analyser is displaying Monte-Carlo simulated events.  The number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarn (1/fb) of data is shown here. One inverse femtobarn corresponds to approximately 100 trillion proton-proton collisions.
 
 The number of events detected and reconstructed by ATLAS is different to the actual number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other inefficiencies.
 
