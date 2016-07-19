@@ -7,9 +7,9 @@
 * [Separate Signals](separate_signals.md)
 * [Find the Higgs](find_the_higgs_2.md)
 * [ROOTbrowser](rootbrowser.md)
+* ROOTbrowser datasets
 * [Variable Names](variable_names.md)
 * [Glossary](glossary.md)
 * [ATLAS events](atlas_events.md)
 * [ATLAS at CERN](atlas_at_cern.md)
-* ROOTbrowser datasets
 
