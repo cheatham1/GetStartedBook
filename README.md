@@ -4,7 +4,7 @@ Here we present two methods of online data visualisation.  Both are easy to use,
 
 ## Histogram Analyser
 
-**A web based tool for fast, cut-based analysis of data and Monte-Carlo simulated data. Visualise data using online histograms.**
+**A web based tool for fast, cut-based analysis of Monte-Carlo simulated data. Visualise data using online histograms.**
 
 The webpage displays nine histograms of variables that are often used in particle physics analyses.  
 
@@ -15,7 +15,7 @@ Histogram Analyser will help you to understand the data and the relationship bet
 
 ## ROOT browser
 
-**A web based tool for the more advanced user. ROOT browser lets you interrogate the datasets more thoroughly.  More variables are available for display.  
+**A web based tool for the more advanced user. ROOT browser lets you interrogate the datasets more thoroughly.  More variables are available for display with ROOTbrowser than Histogram Analyser.  
 **
 
 One or more datasets can be loaded.  Distributions of variables can be easily displayed.
