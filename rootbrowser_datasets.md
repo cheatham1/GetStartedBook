@@ -1,7 +1,7 @@
 # ROOTbrowser datasets
 
 There are two real datasets for you to look at
-* data_Egamma.root : electros and photons
+* data_Egamma.root : electrons and photons
 * data_Muons.root : muons
 
 Then there are a range of simulated datasets from 
