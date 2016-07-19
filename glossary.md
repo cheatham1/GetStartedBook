@@ -9,7 +9,7 @@ The coordinate system of ATLAS is a right-handed coordinate system with the x-ax
 
 # Detector layout
 
-![](Pictures/ATLASImage.jpg)
+![](pictures/ATLASImage.jpg)
 
 The ATLAS detector has a layout that is typical for a collider detector and consists of two types of detector components: 
 * tracking detectors measure the position of a charged particle.
@@ -22,7 +22,7 @@ The complete ATLAS detector is split into a barrel part, where detector layers a
 The pseudorapidity describes the angle of a particle relative to the beam axis.  
 
 
-![](Pictures/figs_atlas_FigID26-mod-011107.png)
+![](pictures/figs_atlas_FigID.png)
 
 This disagram shows the cross-section of the inner detector layout through the beam axis.
 
@@ -37,7 +37,7 @@ In hadron collider physics, particle production is normally constant as a functi
 Phi is measured from the x-axis, around the beam.
 The ATLAS detector design is symmetrical in phi.
 
-![](Pictures/JiveXML_265573_4417696_fromRAW-noCone.jpg)
+![](pictures/JiveXML_265573.jpg)
 
 Display of a proton-proton collision event recorded by ATLAS on 21 May 2015 at a collision energy of 13 TeV. Here you see the event displayed in phi (top left).
 
