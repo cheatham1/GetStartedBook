@@ -48,7 +48,7 @@ The leptonic decay channels are shown here: di-electron (ee), electron-muon (em)
 
 <img style="width: 600px; height: 150px;" src="pictures/Events_2jets_em.png">
 
-When selecting 2 jets and the em channel we see mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
+When selecting only 2 jets and the em channel we see mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
 
 ## Missing Transverse Momentum [GeV]
 
@@ -73,33 +73,29 @@ Such jets are identified from tracks that do not  originate from the proton coll
 B-tagged jets are expected in top quark decays, but not in leptonic W boson decays.
 
 
-## Reconstructed Mass - Z Mass [GeV]
+## Reconstructed Dilepton Mass [GeV]
 
-This histogram displays the deviation of the reconstructed dilepton mass from the [Z boson mass](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf). For Z boson events this obviously peaks at zero but for H→WW it peaks away from zero.  
+This histogram displays the mass reconstructed from the two leptons in the final state.  
 
-![](pictures/ZWindow30.png)
+![](pictures/DiLeptonMassNoCuts.png)
 
-A cut of Reconstructed Mass - Z Mass > 30 GeV reduces the theoretical Z boson contribution and increases the H→WW contribution, shown in the Number of Simulated Events.  
+
+With no cuts, this peaks at 90 GeV, due the huge [Z boson](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) contribution.
+
+
+![](pictures/MassCutLess85.png)
+
+Selecting Reconstructed Dilepton Mass < 85 GeV, we cut alot of the Z boson events, without reducing our Higgs signal at all.  It is therefore a very usefull quantity to reduce the huge Z boson background.
 
 
 ## Total Lepton Transverse Momentum [GeV]
 
 This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the observed charged leptons. 
 
-![](pictures/SumLepPtZ.png)
-
 For Z boson events, total lepton transverse momentum peaks at zero since the momentum of one lepton cancels out the momentum of the other.
-
-![](pictures/SumLepPt.png)
-
-For H→WW (shown in blue) you see that the total lepton transverse momentum distribution peaks at around 50 GeV.
-
 
 ## Angular Separation of Leptons [phi]
 
 This is the opening angle, phi (𝜙), between the two leptons.
 
-![](pictures/DeltaPhiLL180.png)
-
-
-If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  Selecting Angular Separation of 180-190 you will see that the majority of events contain Z bosons.  
+If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  
