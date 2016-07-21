@@ -4,7 +4,7 @@
 Let's look at the Monte Carlo simulated data.
 Using the Histogram Analyser we can look at each sample separately and understand a little more about their characteristics.  This will help us separate our signal from the background later.
 
-**Select the sample by clicking on the bar in the Number of Simulated Events histogram.**  The rest of your histograms now just display the characteristics of your chosen sample.
+**Select the sample by clicking on the bar in the Expected Number of Events histogram.**  The rest of your histograms now just display the characteristics of your chosen sample.
 
 ## H→WW
 
@@ -19,7 +19,7 @@ Let's look at the individual histograms:
 * The analysis considers electron and muon decays of the W bosons, so the events occur in all three channels.  
 * Missing transverse momentum is due to the neutrinos in the final state.  
 * Mostly non b-tagged jets.
-* The Reconstructed Mass - Z Mass distribution peaks at 50-55 GeV.
+* The Reconstructed Dilepton Mass peaks at 25-45 GeV.
 * The opening angle of the leptons from Higgs decays tends to be small.
 
 ## WW
