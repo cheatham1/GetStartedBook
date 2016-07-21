@@ -31,10 +31,7 @@ Select:
 * Total Lepton Transverse Momentum > 30 GeV
 * Reconstructed Dilepton Mass < 75 GeV
 
-
-
-![](pictures/HWW0jet.png)
-
+???? CHECKING
 The dominant background after all these cuts in the
 Higgs boson + 0 jet channel comes from WW
 production, with a smaller contribution from Z and top events.
@@ -50,9 +47,8 @@ Select:
 * electron-muon channel only
 * Total Lepton Transverse Momentum > 30 GeV
 * Angular Separation of Leptons < 80
-* Reconstructed Mass - Z Mass > 20 GeV
+* Reconstructed Dilepton Mass < 70 GeV
 
-![](pictures/HWW1jet.png)
 
 The dominant background after all these cuts in the
 Higgs boson + 1 jet channel comes from top pair
