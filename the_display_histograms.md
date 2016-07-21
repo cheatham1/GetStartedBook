@@ -30,12 +30,14 @@ The sample significance quantifies how "significant" the Higgs sample is with re
 Number of jets found in the event.
 
 <img style="width: 300px; height: 200px;" src="pictures/NjetsNoSelection.png">
-<img style="width: 250px; height: 150px;" src="pictures/NeventsNoSelection.png">
 
-With no selection, Z boson events are dominant and the histograms are coloured red.
+With no selection, Z boson events are dominant and all the histograms are coloured red.
 
+![](pictures/2plusJets.jpg)
 
-When selecting 2 or more jets we see the Z boson contribution decreases and the ttbar contribution increases.
+![](pictures/Nevents2plusJets.jpg)
+
+When selecting 2 or more jets we see the Z boson contribution decreases and the ttbar contribution becomes more important.  We see the ttbar contribution in green.
 
 Top-quark pair production leads to WW+jets final states.
 ## Channel
