@@ -1,6 +1,6 @@
 # Analyses
 
-Histogram Analyser focusses on four physics processes; the signal H->WW and three background processes WW, ttbar and Z.  Let's take a look at these processes. 
+Histogram Analyser focusses on four physics processes; the signal H→WW and three background processes WW, ttbar and Z.  Let's take a look at these processes. 
 
 ## H→WW
 
@@ -36,11 +36,11 @@ The reconstructed lepton pT values are 33 and 29 GeV for the electron (green tra
 ## WW
 W boson pair production occurs via
 
-* **quark–antiquark annihilation** q + qbar -> W+W-
+* **quark–antiquark annihilation** q + qbar → W+W-
  
-* **diphoton process**  γγ -> W+W- 
+* **diphoton process**  γγ → W+W- 
 
-* **gluon fusion** g + g -> W+W-
+* **gluon fusion** g + g → W+W-
 
 The production of pairs of [vector bosons](https://en.wikipedia.org/wiki/Vector_boson) is crucial to understand both in order to check the [gauge structure](https://en.wikipedia.org/wiki/Gauge_theory) of the Standard Model and in the search for [new physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model).  Production of vector boson pairs and the associated particles from their decay, enter as irreducible backgrounds for many Higgs and new physics searches. 
 
