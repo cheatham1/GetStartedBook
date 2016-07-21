@@ -31,24 +31,19 @@ Select:
 * Total Lepton Transverse Momentum > 30 GeV
 * Reconstructed Dilepton Mass < 75 GeV
 
-???? CHECKING
+
 The dominant background after all these cuts in the
-Higgs boson + 0 jet channel comes from WW
-production, with a smaller contribution from Z and top events.
+Higgs boson + 0 jet channel comes from
 
 ## Higgs boson + 1 jet
-
-We want to select events which contain 1 non b-tagged jet.
 
 Select: 
 
 * Number of Jets = 1
-* Are Jets b-tagged = no
 * electron-muon channel only
 * Total Lepton Transverse Momentum > 30 GeV
 * Angular Separation of Leptons < 80
 * Reconstructed Dilepton Mass < 70 GeV
-
 
 The dominant background after all these cuts in the
 Higgs boson + 1 jet channel comes from top pair
