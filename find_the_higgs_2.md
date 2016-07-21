@@ -2,7 +2,7 @@
 
 Follow the steps of a real ATLAS analysis using Histogram Analyser
 
-**H->WW->ℓνℓν** (ℓ = electron, muon)
+**H→WW→ℓνℓν** (ℓ = electron, muon)
 
 We are looking for a Higgs boson which decays into 2 W bosons which subsequently decay into leptons and neutrinos. 
 
