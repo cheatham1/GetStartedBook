@@ -40,6 +40,7 @@ With no selection, Z boson events are dominant and all the histograms are colour
 When selecting 2 or more jets we see the Z boson contribution decreases and the ttbar contribution becomes more important.  We see the ttbar contribution in green.
 
 Top-quark pair production leads to WW+jets final states.
+
 ## Channel
 
 The leptonic decay channels are shown here: di-electron (ee), electron-muon (em) and di-muon (mm) channels. Decays to taus or hadrons are not considered in this case.
@@ -63,14 +64,6 @@ Missing transverse momentum is commonly used to infer the presence of non-detect
 
 
 Requiring missing transverse momentum removes Z boson events, since Z boson decay does not have any neutrinos in the final state while the other processes do.
-
-
-## Are Jets b-tagged?
-
-Jets originating from b-quarks are identified and tagged.
-Such jets are identified from tracks that do not  originate from the proton collision point.
-
-B-tagged jets are expected in top quark decays, but not in leptonic W boson decays.
 
 
 ## Reconstructed Dilepton Mass [GeV]
