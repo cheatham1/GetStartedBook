@@ -6,7 +6,7 @@ Cuts are made that preferentially remove the unwanted processes (background) but
 
 The colours used in the histograms depend on the expected number of events for the different physics processes.  When you are making cuts it is interesting to watch the relative number of events for the 4 main processes: H→WW, WW, ttbar and Z.  
 
-If you make cuts, the selected ranges will be couloured, whilst out of range will be grey.
+Make cuts using your cursor.  The selected ranges will be couloured, whilst non-selected ranges will be grey.
 
 ## The histograms explained
 
@@ -19,12 +19,11 @@ Histogram Analyser is displaying Monte-Carlo simulated events.  The number of ev
 
 The number of events detected and reconstructed by ATLAS is different to the actual number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other inefficiencies.
 
+![](pictures/NumbersNoSelection.jpg)
 
-<img style="width: 600px; height: 200px;" src="pictures/2jets_em.png">
+With no cuts, we can see we have 17 H->WW events, with a total background of 612875 events.
 
-<img style="width: 600px; height: 150px;" src="pictures/Events_2jets_em.png">
-
-When selecting 2 jets and the em channel we see mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
+The sample significance quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by (Number of H->WW events) / Sqrt(Number of background events).  The larger the significance value is, the better job you have done extracting the Higgs signal.
 
 ## Number of Jets
 
@@ -33,17 +32,21 @@ Number of jets found in the event.
 <img style="width: 300px; height: 200px;" src="pictures/NjetsNoSelection.png">
 <img style="width: 250px; height: 150px;" src="pictures/NeventsNoSelection.png">
 
-With no selection, Z boson events are dominant.
+With no selection, Z boson events are dominant and the histograms are coloured red.
 
-<img style="width: 300px; height: 200px;" src="pictures/Njets2plus.png">
-<img style="width: 250px; height: 150px;" src="pictures/Nevents2jetsplus.png">
 
-Selecting 2 or more jets increases the proportion of ttbar events.
+When selecting 2 or more jets we see the Z boson contribution decreases and the ttbar contribution increases.
 
 Top-quark pair production leads to WW+jets final states.
 ## Channel
 
 The leptonic decay channels are shown here: di-electron (ee), electron-muon (em) and di-muon (mm) channels. Decays to taus or hadrons are not considered in this case.
+
+<img style="width: 600px; height: 200px;" src="pictures/2jets_em.png">
+
+<img style="width: 600px; height: 150px;" src="pictures/Events_2jets_em.png">
+
+When selecting 2 jets and the em channel we see mostly ttbar events.  Note the histograms are now coloured in green to reflect the ttbar contribution.
 
 ## Missing Transverse Momentum [GeV]
 
