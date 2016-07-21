@@ -8,7 +8,7 @@ Using the Histogram Analyser we can look at each sample separately and understan
 
 ## H→WW
 
-**H->WW->ℓνℓν** (ℓ = electron, muon)
+**H→WW→ℓνℓν** (ℓ = electron, muon)
 
 Our signal is the  Higgs boson which decays into 2 W bosons which subsequently decay into leptons and neutrinos. 
 
