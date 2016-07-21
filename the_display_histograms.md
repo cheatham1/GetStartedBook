@@ -10,7 +10,7 @@ Make cuts using your cursor.  The selected ranges will be couloured, whilst non-
 
 ## The histograms explained
 
-Histogram Analyser displays 9 histograms.
+Histogram Analyser displays 8 histograms.
 The description of each follows.
 
 ## Expected Number of Events for 1/fb
@@ -21,9 +21,9 @@ The number of events detected and reconstructed by ATLAS is different to the act
 
 ![](pictures/NumbersNoSelection.jpg)
 
-With no cuts, we can see we have 17 H->WW events, with a total background of 612875 events.
+With no cuts, we can see we have 17 H→WW events, with a total background of 612875 events.
 
-The sample significance quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by (Number of H->WW events) / Sqrt(Number of background events).  The larger the significance value is, the better job you have done extracting the Higgs signal.
+The sample significance quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by (Number of H→WW events) / Sqrt(Number of background events).  The larger the significance value is, the better job you have done extracting the Higgs signal.
 
 ## Number of Jets
 
