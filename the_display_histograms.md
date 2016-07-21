@@ -82,10 +82,10 @@ This histogram displays the mass reconstructed from the two leptons in the final
 
 With no cuts, this peaks at 90 GeV, due the huge [Z boson](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) contribution.
 
+![](pictures/MassCutLess75.png)
 
-![](pictures/MassCutLess85.png)
-
-Selecting Reconstructed Dilepton Mass < 85 GeV, we cut alot of the Z boson events, without reducing our Higgs signal at all.  It is therefore a very usefull quantity to reduce the huge Z boson background.
+Selecting Reconstructed Dilepton Mass < 75 GeV, we cut alot of the Z boson events, whilst hardly touching our Higgs signal.  The HWW Sample Significance has increased from 0.021 to 0.114 with this cut.
+It is therefore a very usefull quantity to reduce the huge Z boson background.
 
 
 ## Total Lepton Transverse Momentum [GeV]
