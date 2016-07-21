@@ -29,7 +29,7 @@ Select:
 * Angular Separation of Leptons < 80
 * Missing Transverse Momentum > 40 GeV
 * Total Lepton Transverse Momentum > 30 GeV
-* Reconstructed Dilepton Mass < 85 GeV
+* Reconstructed Dilepton Mass < 75 GeV
 
 
 
