@@ -53,6 +53,7 @@ Select:
 * Opening angle between leptons < 80
 
 
+![](pictures/HWW1jet.png)
 
 The dominant background after all these cuts in the
 Higgs boson + 1 jet channel comes from WW and top pair
@@ -62,7 +63,7 @@ production.
 
 ## Have a go yourself!
 
-Perhaps try the H→WW + 0 jet, but separate it into leptonic channels and tune the cuts to maximise the number of H→WW events with minimum background.  
+Perhaps try the H→WW + 0 jet, but separate it into leptonic channels and tune the cuts to maximise the number of H→WW events with maximum significance.  
 
 Or try something completely different...
 
