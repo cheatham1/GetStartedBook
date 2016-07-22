@@ -40,6 +40,7 @@ Higgs boson + 0 jet channel comes from
 Select: 
 
 * Number of Jets = 1
+* Jets are mot b-tagged
 * electron-muon channel only
 * Total Lepton Transverse Momentum > 30 GeV
 * Angular Separation of Leptons < 80
