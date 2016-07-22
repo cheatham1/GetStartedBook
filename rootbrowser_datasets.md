@@ -5,17 +5,12 @@ There are two real datasets for you to look at
 * data_Muons.root : muons
 
 Then there are a range of simulated datasets from 
-* DY: Drell-Yan processes
 * ggH: gluon+gluon->Higgs boson
-* stop: superpartner of the top quark as predicted by supersymmetry.
-* ttbar: top pair production
 * VBF: Vector Boson Fusion Higgs Production
-* W+jets: W boson decay to various final states
 * WW: W boson pair
 * WZ: W+Z boson
 * Zee: Z boson decay to two electrons
 * Zmumu: Z boson decay to two muons
-* Zprime: superpartner of the Z boson as predicted by supersymmetry.
 * Ztautau: Z decay to two taus
 * ZZ: Z boson pair
 
