@@ -15,12 +15,14 @@ Our signal is the  Higgs boson which decays into 2 W bosons which subsequently d
 ![](pictures/separateSignals/HWW.png)
 
 Let's look at the individual histograms:
+* The analysis considers electron and muon decays of the W bosons, so the events occur in all three channels. 
+* The reconstructed mass from the two leptons peaks at 25-45 GeV.
 * The majority of Higgs events contain 0 or 1 jet.
-* The analysis considers electron and muon decays of the W bosons, so the events occur in all three channels.  
-* Missing transverse momentum is due to the neutrinos in the final state.  
-* Mostly non b-tagged jets.
-* The Reconstructed Dilepton Mass peaks at 25-45 GeV.
-* The opening angle of the leptons from Higgs decays tends to be small.
+* Missing transverse momentum is due to the neutrinos in the final state. 
+* The opening angle between the missing transverse momentum and the leptons peaks between 50-70.
+* The opening angle of the leptons from Higgs decays tends to be small (distribution peaks between 30-60)
+* The total lepton transverse momentum tends to be  
+* Most jets are not b-tagged jets. 
 
 ## WW
 
@@ -31,11 +33,15 @@ Two W bosons both decaying leptonically.
 
 
 Let's look at the individual histograms:
+* The analysis considers electron and muon decays of the W bosons, so the events occur in all three channels. 
+* The reconstructed mass from the two leptons peaks around 80 GeV.
 * The majority of WW events contain 0 or 1 jet.
-* The analysis considers electron and muon decays of the W bosons, so the events occur in all three channels.  
-* Missing transverse momentum is due to the neutrinos in the final state.  
-* Mostly non b-tagged jets.
+* Missing transverse momentum is due to the neutrinos in the final state. 
+* The opening angle between the missing transverse momentum and the leptons peaks between 50-70.
 * The opening angle of the leptons from WW decays tends to be large.
+* The total lepton transverse momentum tends to be  
+* Most jets are not b-tagged jets. 
+
 
 The distributions are not so different from those for HWW, hence it is a difficult background process to remove.
 
