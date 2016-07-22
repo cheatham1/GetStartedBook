@@ -10,7 +10,7 @@ The webpage displays nine histograms of variables that are often used in particl
 
 Use your cursor to apply selections to a particular variable, and the effect on the other variables is seen immediately.  
 
-Histogram Analyser will help you to understand the data and the relationship between the signal and background processes. It can simplify and speed-up the selection of cuts, before coding an analysis.
+The Histogram Analyser will help you understand the data and the relationship between the signal and background processes. It can simplify and speed-up the selection of cuts, before coding an analysis.
 
 
 ## ROOT browser
