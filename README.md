@@ -4,7 +4,7 @@ Here we present two methods of online data visualisation.  Both are easy to use,
 
 ## Histogram Analyser
 
-**A web based tool for fast, cut-based analysis of simulated data. Visualise data using online histograms.**
+**A web based tool for fast, cut-based analysis of simulated data. Visualise the simulated data using online histograms.**
 
 The webpage displays nine histograms of variables that are often used in particle physics analyses.  
 
