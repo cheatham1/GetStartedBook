@@ -35,7 +35,10 @@ Select:
 The dominant background after all these cuts in the
 Higgs boson + 0 jet channel comes from ttbar.
 
-3 Higgs events are identified, with a significance of 0.277
+4 Higgs events are identified, with a significance of 0.265
+
+
+Adding an extra cut, opening angle between MET and leptons > 140, reduces the signal to 3 events and increases the significnace to 0.276
 
 ## Higgs boson + 1 jet
 
