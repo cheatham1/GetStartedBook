@@ -10,7 +10,7 @@ Make cuts using your cursor.  The selected ranges will be couloured, whilst non-
 
 ## The histograms explained
 
-Histogram Analyser displays 8 histograms.
+Histogram Analyser displays 9 histograms.
 The description of each follows.
 
 ## Expected Number of Events for 1/fb
@@ -92,3 +92,10 @@ For Z boson events, total lepton transverse momentum peaks at zero since the mom
 This is the opening angle, phi (𝜙), between the two leptons.
 
 If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  
+
+## Are Jets b-tagged?
+
+Jets originating from b-quarks are identified and tagged.
+Such jets are identified from tracks that do not  originate from the proton collision point.
+
+B-tagged jets are expected in top quark decays, but not in leptonic W boson decays.
