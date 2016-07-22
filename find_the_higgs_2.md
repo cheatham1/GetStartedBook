@@ -37,6 +37,7 @@ Higgs boson + 0 jet channel comes from ttbar.
 
 4 Higgs events are identified, with a significance of 0.265
 
+![](pictures/HWW0jet.png)
 
 Adding an extra cut, opening angle between MET and leptons > 140, reduces the signal to 3 events and increases the significnace to 0.276
 
@@ -51,11 +52,13 @@ Select:
 * Total Lepton Transverse Momentum > 30 GeV
 * Opening angle between leptons < 80
 
+
+
 The dominant background after all these cuts in the
 Higgs boson + 1 jet channel comes from WW and top pair
 production.  
 
-2 Higgs events.  Significance 0.517
+2 Higgs events are identified with a significance of 0.517
 
 ## Have a go yourself!
 
