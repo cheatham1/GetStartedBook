@@ -8,7 +8,9 @@ In the animation below, you can see the accumulation of Higgs events over time i
 
 As more and more data is collected over time (notice the date changing), the number of events analysed increases (notice the change in scale of the y-axis).  The size of the error bars on the data points decreases as the volume of data increases.
 
-Selections are made on the data to suppress background events and thus uncover Higgs events. 
+Not all of the recorded events contain the Higgs boson. In fact, most events are what is called background, meaning that they look like what we are interested in but come from different sources.
 
-In Histogram Analyser you will look at a different Higgs analysis:
-the Higgs boson decaying into 2 W bosons, which subsequently decay into leptons and neutrinos.  You will try to select the Higgs sample and suppress the background by making cuts.
+Selections are made on the data to suppress background events and thus uncover the Higgs events. 
+
+In Histogram Analyser you will look at a different Higgs analysis: 
+The Higgs boson decaying into 2 W bosons, which subsequently decay into leptons and neutrinos.  You will try to select the Higgs sample and suppress the background by imposing selection requirements, so-called cuts.
