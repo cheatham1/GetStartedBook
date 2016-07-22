@@ -1,6 +1,6 @@
 # Analyses
 
-Histogram Analyser focusses on four physics processes; the signal H→WW and three background processes WW, ttbar and Z.  Let's take a look at these processes. 
+Histogram Analyser focusses on four physics processes; the signal H→WW and three background processes WW, ttbar and Z/Drell-Yan.  Let's take a look at these processes. 
 
 ## H→WW
 
@@ -87,14 +87,13 @@ The two b-quarks from the top-quark decays will be seen as two jets in the final
 
 Event display: A top pair candidate event recorded by ATLAS with LHC stable beams at a collision energy of 13 TeV. The red line shows the path of a muon with transverse momentum around 140 GeV through the detector. The green line shows the path of an electron with transverse momentum around 170 GeV through the detector. The green and yellow bars indicate energy deposits in the liquid argon and scintillating-tile calorimeters, from these deposits 3 jets are identified with transverse momenta between 30 and 80 GeV. Two of the jets are identified as having originated from b-quarks.  
 
-## Z
+## Z/DY
 
 The [W](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [Z](http://home.cern/about/physics/z-boson) bosons are together known as the weak or the intermediate vector bosons. These Standard Model elementary particles mediate the weak interaction.  
 
 The production of Z bosons at the LHC is due to
 
 * **Drell-Yan **: qqbar → Z/γ∗ → μ+μ− (65%).  A quark of one proton and an antiquark of another proton annihilate, creating a [virtual photon](https://en.wikipedia.org/wiki/Virtual_particle) or Z boson which then decays into a pair of oppositely-charged leptons. 
-
 
 * **Quark gluon scattering**: qg → qγ∗/Z → qμ+μ− (35%). A quark and a [gluon](https://en.wikipedia.org/wiki/Gluon) interact, creating a virtual photon or Z boson which then decays into a pair of oppositely-charged leptons. 
 
