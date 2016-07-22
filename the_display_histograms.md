@@ -8,7 +8,9 @@ The 4 processes displayed in Histogram Analyser are H→WW, WW, ttbar and Z.  Ea
 
 Make cuts using your cursor.  The selected ranges will be couloured, whilst non-selected ranges will be grey.  When you make cuts the relative quantities of the four processes will change.
 
-To remove a selection acting on a histogram, click on some white space in the region of that histogram.
+**To clear your selection on a specific histogram click on the white background within the histogram area. **
+
+**To clear all your selections click on "Histogram Analyser" under Get Started in the main top menu.**
 
 ## The histograms explained
 
