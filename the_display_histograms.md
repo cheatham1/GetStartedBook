@@ -65,7 +65,7 @@ Top-quark pair production leads to WW+jets final states.
 
 
 
-## Missing Transverse Momentum [GeV]
+## Missing Transverse Momentum (MET) [GeV]
 
 In the LHC, the initial energy of the colliding particles along the beam axis is not known because the energy of each proton is shared and constantly exchanged, between its constituents.  
 
@@ -73,20 +73,21 @@ However, the initial momentum of particles travelling transverse to the beam axi
 
 Missing transverse momentum is commonly used to infer the presence of non-detectable particles such as the neutrino.  It is expected to be a signature of many predicted physics events that contain particles that do not interact with the detector, for example the lightest [supersymmetric](http://home.cern/scientists/updates/2013/10/supersymmetry-searches-atlas) particle.
 
-
-<img style="width: 300px; height: 200px;" src="pictures/METselection40.png">
-
+The standard abbreviation for missing transverse momentum is MET, for historical reasons.
 
 Requiring missing transverse momentum removes Z boson events, since Z boson decay does not have any neutrinos in the final state while the other processes do.
 
 
-
 ## Opening Angle Between MET and Leptons [phi]
+
+This is the opening angle, in phi (𝜙), between the missing transverse momentum and the two leptons.
+
+This is a useful discriminant to remove background events.
 
 
 ## Opening Angle Between Leptons [phi]
 
-This is the opening angle, phi (𝜙), between the two leptons.
+This is the opening angle, in phi (𝜙), between the two leptons.
 
 If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  
 
@@ -94,7 +95,7 @@ If the leptons are produced back-to-back, this is displayed on the histogram as 
 ## Total Lepton Transverse Momentum [GeV]
 
 
-This is the vectorial sum of the transverse momenta of the observed charged leptons.
+This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the observed charged leptons.
 
 For Z boson events, total lepton transverse momentum peaks at zero since the momentum of one lepton cancels out the momentum of the other.
 
