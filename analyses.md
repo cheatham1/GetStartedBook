@@ -1,18 +1,21 @@
 # Analyses
 
-Histogram Analyser focusses on four physics processes; the signal H→WW and three background processes WW, ttbar and Z/Drell-Yan.  Let's take a look at these processes. 
+Histogram Analyser focusses on four physics processes; the signal $$H\rightarrow W^+W^-$$ and three background processes $$WW$$, $$t\bar t$$ and $$Z$$/Drell-Yan.
+Let's take a look at these processes. 
 
-## H→WW
+## $$H\rightarrow W^+W^-$$
 
-The [Higgs boson](https://home.cern/topics/higgs-boson) is an excitation of the quantum field responsible for the breaking of [electroweak symmetry](https://en.wikipedia.org/wiki/Electroweak_interaction). This field is responsible for giving masses to fundamental particles.
+The [Higgs boson](https://home.cern/topics/higgs-boson) is an excitation of the quantum field responsible for the breaking of [electroweak symmetry](https://en.wikipedia.org/wiki/Electroweak_interaction).
+This field is responsible for giving masses to fundamental particles.
 
-The Higgs boson interacts with all the Standard Model elementary particles (which have mass) and so it can decay through many different processes.
-The most likely possibility is for the Higgs to decay into a pair of [W bosons](https://home.cern/about/physics/w-boson-sunshine-and-stardust) 
-which happens about 23% of the time for a Higgs boson with a mass of 126 GeV.
-The W bosons can subsequently decay either into a quark and antiquark or a [lepton](https://en.wikipedia.org/wiki/Lepton) and [neutrino](https://en.wikipedia.org/wiki/Neutrino) or an antilepton and an anti-neutrino.
+The Higgs boson interacts with all  Standard Model elementary particles having mass.
+Thus, it can decay through many different processes.
+One of the most likely things to happen is that the Higgs decays into a pair of [W bosons](https://home.cern/about/physics/w-boson-sunshine-and-stardust). 
+This happens about 23% of the time for a Higgs boson with a mass of 126 GeV.
+The W bosons can subsequently decay either into a quark-antiquark, a [lepton](https://en.wikipedia.org/wiki/Lepton)-[antineutrino](https://en.wikipedia.org/wiki/Neutrino), or an antilepton-neutrino pair.
 
-From here on, we will refer to a particle 
-and it's [antiparticle](https://en.wikipedia.org/wiki/Antiparticle) collectively by just the particle's name.  Such as quark/anti-quark, lepton/antilepton, neutrino/antineutrino... So when we talk about quarks we mean quarks and antiquarks.  It is a shorthand that physicists adopt for brevity. 
+From here on, we will refer to a particle and its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle) collectively by just the particle's name.
+So when we talk about quarks we mean quarks and antiquarks.  It is a shorthand that physicists adopt for brevity. 
 
 The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bosons which subsequently decay into leptons and neutrinos
 
