@@ -13,7 +13,7 @@ Not all recorded events contain Higgs bosons.
 In fact, most events are so-called background.
 This means they look like the signal process but come from different sources.
 
-Selections are made on the data to suppress background events and thus uncover the Higgs events. 
+Selections are made on the data to suppress background events while keeping as many Higgs events as possible. 
 
 In Histogram Analyser you will look at a different Higgs analysis: 
 The Higgs boson decaying into 2 W bosons, which subsequently decay into leptons and neutrinos.
