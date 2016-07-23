@@ -17,7 +17,9 @@ The available variables are then displayed.  Select the variable to view the dis
 
 One or more datasets can be loaded.  
 
-One or more variables can be displayed at a time.  Display options are available (grid option circled in red below) but the option must be selected before the file loaded.
+One or more variables can be displayed at a time.
+Several display options are available (grid option circled in red below). 
+The option must be selected before the file loaded.
 
 Further display criteria available (circled in green below) such as setting the x-axis and/or y-axis to logarithmic scale.
 
