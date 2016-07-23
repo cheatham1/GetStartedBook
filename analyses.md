@@ -64,54 +64,70 @@ W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
 * [hadronically](https://en.wikipedia.org/wiki/Hadron): into an [up-type quark](https://en.wikipedia.org/wiki/Quark) and a [down-type quark](https://en.wikipedia.org/wiki/Quark).
 
-If a W boson decays leptonically, the final state is characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
+Leptonic $$W$$ boson decays are characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
 
-If a W boson decays hadronically, the final state is characterised by the presence of two jets due to the two quarks.
+Hadronic $$W$$ boson decays lead to the presence of two jets due to the two quarks.
 
-In Histogram Analyser we are just considering lepton decay, so WW process will be seen in the electron-electron (ee), muon-muon (mm) and electron-muon (em) channel.
+Only leptonic decays are considered in Histogram Analyser.
+The $$WW$$ process will thus be seen in the electron-electron (ee), muon-muon (mm) and electron-muon (em) channel.
 
-Processes with leptons and missing energy are typical signatures of many new physics models, of which [supersymmetry](https://home.cern/about/physics/supersymmetry) is a classic example. Knowledge of Standard Model processes which possess multiple leptons and missing energy is crucial in the quest to discover or rule out these models.
+Final states with leptons and missing energy are typical for many new physics models ([supersymmetry](https://home.cern/about/physics/supersymmetry) is a classic example) but also for many Standard Model processes.
+
+Understanding the Standard Model processes possessing multiple leptons and missing energy is crucial in the quest to discover or rule out these models.
 
 
 <img src="./EventDisplays/WW.jpg" width="400" />
 
-Event display: A WW candidate event in the electron muon final state.  The electron and muon candidates have transverse momenta of 21 and 68 GeV respectively.  The arrow indicates the missing transverse momentum, which is measured to be 69 GeV.  
+Event display: A $$WW$$ candidate event in the electron muon final state.
+The electron and muon candidates have transverse momenta of 21 and 68 GeV, respectively.
+The arrow indicates the missing transverse momentum, which is measured to be 69 GeV.  
 
-## ttbar
+## $$t\bar t$$
 
-Due to its high mass and short lifetime, the [top quark](https://press.cern/backgrounders/top-quark) provides a unique environment to study a bare quark. 
+The [top quark](https://press.cern/backgrounders/top-quark) is the only quark that can be studied in isolation, due to its high mass and short lifetime.
+All other quarks are only accessible as constituents of hadrons.
 
-It is important for discrimination between different Monte-Carlo data simulation generators,  [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) models and parton distribution functions.
+Top processes can be used to compare Monte-Carlo generators,  [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) models and parton distribution functions.
 
-In addition, top pair production is an important background in various Higgs boson analyses as well as beyond the Standard Model searches.  It is therefore crucial to understand this process in detail. 
+In addition, top pair production is an important background in various Higgs boson analyses and beyond the Standard Model searches.
+It is therefore crucial to understand this process in detail. 
 
-In the Standard Model, the top-quark generally decays into a [W boson](https://en.wikipedia.org/wiki/W_and_Z_bosons) and a 
-[b-quark](https://en.wikipedia.org/wiki/Bottom_quark).
+In the Standard Model, the top-quark generally decays into a [$$W$$ boson](https://en.wikipedia.org/wiki/W_and_Z_bosons) and a 
+[$$b$$-quark](https://en.wikipedia.org/wiki/Bottom_quark).
 
-As we said before, W bosons can decay either
+As we said before, $$W$$ bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
 * [hadronically](https://en.wikipedia.org/wiki/Hadron): into an [up-type quark](https://en.wikipedia.org/wiki/Quark) and a [down-type quark](https://en.wikipedia.org/wiki/Quark).
 
-The two b-quarks from the top-quark decays will be seen as two jets in the final state.  Jets identified as originating from b-quarks are termed b-tagged jets.  Additional jets in ttbar events can originate from gluon radiation.
+The two $$b$$-quarks from the top-quark decays will be seen as two jets in the final state.
+Algorithms are used to identify these jets.
+Jets thought to originate from b-quarks are called b-tagged jets.
+Additional jets in $$t \bar t $$ events can originate from gluon radiation.
 
-* If both W bosons decay leptonically two jets are seen, originating from the b-quarks.
-* If both W bosons decay hadronically, six jets are seen, two from each W and two from the b-quarks.
-* If the decay is semi-leptonic, one W boson decays leptonically and the other hadronically, four jets are seen.
+Three channels are possible depending on the decays of the $$W$$ bosons:
+* If both $$W$$ bosons decay leptonically two jets are seen, originating from the $$b$$-quarks.
+* If both $$W$$ bosons decay hadronically, six jets are seen, two from each $$W$$ and two from the $$b$$-quarks.
+* If the decay is semi-leptonic, one $$W$$ boson decays leptonically and the other hadronically; four jets are seen, two of them are from $$b$$-quarks.
 
 
 <img src="./EventDisplays/run267638_evt193690558.jpg" width="400" />
 
-Event display: A top pair candidate event recorded by ATLAS with LHC stable beams at a collision energy of 13 TeV. The red line shows the path of a muon with transverse momentum around 140 GeV through the detector. The green line shows the path of an electron with transverse momentum around 170 GeV through the detector. The green and yellow bars indicate energy deposits in the liquid argon and scintillating-tile calorimeters, from these deposits 3 jets are identified with transverse momenta between 30 and 80 GeV. Two of the jets are identified as having originated from b-quarks.  
+Event display: A top pair candidate event recorded by ATLAS with LHC stable beams at a collision energy of 13 TeV. 
+The red line shows the path of a muon with $$p_\text{T} \approx$$ 140 GeV. 
+The green line shows the path of an electron with  $$p_\text{T} \approx$$ 170 GeV.
+The green and yellow bars indicate energy deposits in the electromagnetic and hadronic calorimeters. 
+From these deposits 3 jets are identified with transverse momenta between 30 and 80 GeV. 
+Two of the jets are identified as having originated from b-quarks.  
 
-## Z/DY
+## $$Z$$/DY
 
-The [W](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [Z](http://home.cern/about/physics/z-boson) bosons are together known as the weak or the intermediate vector bosons. These Standard Model elementary particles mediate the weak interaction.  
+The [$$W$$](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [$$Z$$](http://home.cern/about/physics/z-boson) bosons are together known as the weak or intermediate vector bosons. These Standard Model elementary particles mediate the weak interaction.  
 
-The production of Z bosons at the LHC is due to
+The production of $$Z$$ bosons at the LHC is due to:
 
-* **Drell-Yan **: qqbar → Z/γ∗ → μ+μ− (65%).  A quark of one proton and an antiquark of another proton annihilate, creating a [virtual photon](https://en.wikipedia.org/wiki/Virtual_particle) or Z boson which then decays into a pair of oppositely-charged leptons. 
+* **Drell-Yan **: $$ q \bar q \rightarrow Z/\gamma^* \rightarrow \mu^+\mu^-$$(65%). A quark of one proton and an antiquark of another proton annihilate, creating a [virtual photon](https://en.wikipedia.org/wiki/Virtual_particle) or $$Z$$ boson which then decays into a pair of oppositely-charged leptons. 
 
-* **Quark gluon scattering**: qg → qγ∗/Z → qμ+μ− (35%). A quark and a [gluon](https://en.wikipedia.org/wiki/Gluon) interact, creating a virtual photon or Z boson which then decays into a pair of oppositely-charged leptons. 
+* **Quark gluon scattering**: $$qg \rightarrow qZ/γ^* \rightarrow q\mu^+\mu^−$$ (35%). A quark and a [gluon](https://en.wikipedia.org/wiki/Gluon) interact, creating a virtual photon or $$Z$$ boson which then decays into a pair of oppositely-charged leptons. 
 
 A Z boson is neutral and so the sum of the charges of its decay products must be zero.  A Z boson decays in three ways
 
