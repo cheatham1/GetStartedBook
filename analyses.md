@@ -127,9 +127,10 @@ The production of $$Z$$ bosons at the LHC is due to:
 
 * **Drell-Yan **: $$ q \bar q \rightarrow Z/\gamma^* \rightarrow \mu^+\mu^-$$(65%). A quark of one proton and an antiquark of another proton annihilate, creating a [virtual photon](https://en.wikipedia.org/wiki/Virtual_particle) or $$Z$$ boson which then decays into a pair of oppositely-charged leptons. 
 
-* **Quark gluon scattering**: $$qg \rightarrow qZ/γ^* \rightarrow q\mu^+\mu^−$$ (35%). A quark and a [gluon](https://en.wikipedia.org/wiki/Gluon) interact, creating a virtual photon or $$Z$$ boson which then decays into a pair of oppositely-charged leptons. 
+* **Quark gluon scattering**: $$qg \rightarrow qZ/γ^* \rightarrow q\mu^+\mu^−$$ (35%). A quark and a [gluon](https://en.wikipedia.org/wiki/Gluon) interact and the quark radiates a virtual photon or $$Z$$ boson which then decays into a pair of oppositely-charged leptons. 
 
-A Z boson is neutral and so the sum of the charges of its decay products must be zero.  A Z boson decays in three ways
+A $$Z$$ boson is neutral and so the sum of the charges of its decay products must be zero.
+A $$Z$$ boson decays in three ways
 
 * **quark-antiquark pair** (70%). These appear as jets.  If the jets are identified as originating from b-quarks they will be b-tagged.
 
@@ -139,11 +140,12 @@ A Z boson is neutral and so the sum of the charges of its decay products must be
 
 * **lepton-antilepton pairs** (10%).  The three lepton-pair types are equally probable, [electron](https://en.wikipedia.org/wiki/Electron)-positron, [muon](https://en.wikipedia.org/wiki/Muon)-antimuon, and [tau](https://en.wikipedia.org/wiki/Tau_(particle)-antitau pairs.  
 
-In Histogram Analyser the latter decay mode will be seen in the electron-electron (ee) and muon-muon (mm) channel.  Electrons and muons are much easier to isolate and measure than taus.
+In Histogram Analyser the third decay mode will be shown in the electron-electron (ee) and muon-muon (mm) channel.
+Electrons and muons are much easier to measure than $$\tau$$-leptons.
 
 
 <img src="./EventDisplays/atlas2010_ZmumuMet-candidate_run167776_evt129360643.jpg" width="400" />
 
-Event display: Candidate event with a Z boson decaying to muon pairs, recoiling against missing transverse energy (MET). The muon candidates have transverse momenta of 50 and 126 GeV.
+Event display: Candidate event with a $$Z$$ boson decaying to a muon pair, recoiling against missing transverse energy (MET). The muon candidates have transverse momenta of 50 and 126 GeV.
 The invariant mass of the two muons attributed to the Z candidate is 94 GeV; the MET is measured to be 161 GeV. 
 
