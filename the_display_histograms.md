@@ -115,16 +115,15 @@ $$H\rightarrow W^+W^-$$events show a peak at low values in contrast to all other
 
 This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the observed charged leptons.
 
-For $$Z$$ boson events, total lepton transverse momentum peaks at zero since the momentum of one lepton cancels out the momentum of the other.
+For $$Z$$ boson events, total lepton transverse momentum peaks at zero since the momenta of both leptons cancel each other.
 
 For the other processes this cancellation is not as pronounced.
 Their distributions peak at between 30 and 80 GeV.
 
 ## Are Jets b-tagged?
 
-Jets originating from b-quarks are identified and tagged.
-Such jets are identified from tracks that do not  originate from the proton collision point.
+Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
 
-B-tagged jets are expected in top quark decays, but not in leptonic W boson decays.
+B-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z$$ boson decays.
 
 
