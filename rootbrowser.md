@@ -21,7 +21,7 @@ One or more variables can be displayed at a time.
 Several display options are available (grid option circled in red below). 
 The option must be selected before the file loaded.
 
-Further display criteria available (circled in green below) such as setting the x-axis and/or y-axis to logarithmic scale.
+Further display criteria (circled in green below) such as setting the x-axis and/or y-axis to logarithmic scale are available.
 
 
 ![](pictures/ROOTbrowser/gridROOTbrowser.png)
