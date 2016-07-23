@@ -2,11 +2,11 @@
 
 Follow the steps of a real ATLAS analysis using Histogram Analyser
 
-**H→WW→ℓνℓν** (ℓ = electron, muon)
+$$H\rightarrow W^+W^- \rightarrow ℓ^+\nu l^- \bar \nu$$ ($$ℓ$$ = electron, muon)
 
-We are looking for a Higgs boson which decays into 2 W bosons which subsequently decay into leptons and neutrinos. 
+We are looking for a Higgs boson which decays into 2 $$W$$ bosons which subsequently decay into leptons and neutrinos. 
 
-The major background contributions to the search in this decay mode are top (top quark pair and W+top quark), WW and W+jet events.
+The major background contributions to the search in this decay mode are top (top quark pair and W+top quark), $$WW$$ and $$Z$$+jets events.
 
 **Use the cursor to implement the following cuts, one by one.
 As you apply the cuts, you should see the distributions changing.**  
@@ -21,6 +21,7 @@ Try to understand why each of the distributions change.  Think of the physics mo
 Now let's try to separate the signal from the background using Histogram Analyser
 
 ## Higgs boson + 0 jet
+
 We want to select events which contain two leptons, high missing transverse momentum and no jets.  
 
 Select: 
@@ -33,13 +34,13 @@ Select:
 
 
 The dominant background after all these cuts in the
-Higgs boson + 0 jet channel comes from ttbar.
+Higgs boson + 0 jet channel comes from $$WW$$ and $Z$+jets.
 
-4 Higgs events are identified, with a significance of 0.265
+4 Higgs events are identified, yielding a significance of 0.265
 
 ![](pictures/HWW0jet.png)
 
-Adding an extra cut, opening angle between MET and leptons > 140, reduces the signal to 3 events and increases the significnace to 0.276
+Adding an extra cut, the opening angle between MET and leptons > 140, reduces the signal to 3 events and increases the significance to 0.276
 
 ## Higgs boson + 1 jet
 
@@ -48,7 +49,7 @@ Select:
 * electron-muon channel only
 * Reconstructed Dilepton Mass < 70 GeV
 * Number of Jets = 1
-* Jets are not b-tagged
+* no b-tagged jets
 * Total Lepton Transverse Momentum > 30 GeV
 * Opening angle between leptons < 80
 
@@ -56,14 +57,14 @@ Select:
 ![](pictures/HWW1jet.png)
 
 The dominant background after all these cuts in the
-Higgs boson + 1 jet channel comes from WW and top pair
+Higgs boson + 1 jet channel comes from $$WW$$ and top pair
 production.  
 
-2 Higgs events are identified with a significance of 0.517
+2 Higgs events are identified, yielding a significance of 0.517.
 
 ## Have a go yourself!
 
-Perhaps try the H→WW + 0 jet, but separate it into leptonic channels and tune the cuts to maximise the number of H→WW events with maximum significance.  
+Perhaps try the $$H\rightarrow W^+W^-$$ + 0 jet, but separate it into leptonic channels and tune the cuts to maximise the number of $$H\rightarrow W^+W^-$$ events with maximum significance.  
 
 Or try something completely different...
 
