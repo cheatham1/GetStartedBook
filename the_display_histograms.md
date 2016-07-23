@@ -1,12 +1,16 @@
 
 # Histogram Analyser
 
- Physicists use cuts to select events of interest.  
-Cuts are made that preferentially remove the unwanted processes (background) but leave the desired process (signal).  It is useful to have a good understanding of the physics processes involved when applying cuts.
+Physicists use cuts to select events of interest.  
+Cuts preferentially remove the unwanted processes (background) but leave the desired process (signal). 
+It is useful to have a good understanding of the physics processes involved when applying cuts.
 
-The 4 processes displayed in Histogram Analyser are H→WW, WW, ttbar and Z.  Each process is represented by a different colour. 
+The 4 processes displayed in Histogram Analyser are $$H\rightarrow W^+W^-$$, $$WW$$, $$t\bar t$$ and $$Z$$.
+Each process is represented by a different colour. 
 
-Make cuts using your cursor.  The selected ranges will be couloured, whilst non-selected ranges will be grey.  When you make cuts the relative quantities of the four processes will change.
+Make cuts using your cursor.
+The selected ranges will be couloured, whilst non-selected ranges will be greyed out.
+When you make cuts the quantities of the four processes will change.
 
 **To clear your selection on a specific histogram click on the white background within the histogram area. **
 
