@@ -15,37 +15,50 @@ This happens about 23% of the time for a Higgs boson with a mass of 126 GeV.
 The W bosons can subsequently decay either into a quark-antiquark, a [lepton](https://en.wikipedia.org/wiki/Lepton)-[antineutrino](https://en.wikipedia.org/wiki/Neutrino), or an antilepton-neutrino pair.
 
 From here on, we will refer to a particle and its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle) collectively by just the particle's name.
-So when we talk about quarks we mean quarks and antiquarks.  It is a shorthand that physicists adopt for brevity. 
+So, When we talk about quarks we mean quarks and antiquarks.
+It is a shorthand that physicists adopt for brevity. 
 
-The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bosons which subsequently decay into leptons and neutrinos
+The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bosons which subsequently decay into leptons and neutrinos:
 
-H→WW→ℓνℓν (ℓ=electron or muon).
+$$H\rightarrow W^+W^-\rightarrow l^+\nu l^-\bar\nu$$ ($$l$$=electron or muon).
 
-The major background contributions to the search in this decay mode are top-pair production, WW and W+jets events. Out of these
-three processes, the first two contain two isolated high-pT leptons from W boson decays, which is also the signature of the signal, while for the
-W+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics) background, one of the jet decay products might be
-mistaken for an isolated high-pT lepton. 
+The major background contributions to the search in this decay mode are top-pair ($$t\bar t$$) production, $$WW$$ and $$Z$$+jets events. 
+All of these processes contain two isolated high-$$p_\text{T}$$ leptons from $$W$$ boson decays, which is also the signature of the signal.
 
-The term pT stands for transverse momentum, the component of momentum perpendicular to the beam line.  It is important because momentum along the beamline may just be left over from the beam particles, while the transverse momentum is always associated with the collision between constituents of the two protons.
+There is also the $$W$$+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics) background, where one of the jet decay products might be mistaken for an isolated high-$$p_\text{T}$$ lepton.
+Its contribution is small and is neglected here.
 
-Isolation is important since it is an indication of where the lepton originated.
-e.g an isolated electron is likely to originate from Z boson, W boson, tau or muon.  Whereas a non-isolated electron is likely to originate from b-hadron or c-hadron decays.
+The term $$p_\text{T}$$ stands for transverse momentum, the component of momentum perpendicular to the beam line. 
+In proton-proton collisions the overall momentum along the beamline is not known.
+This is because protons are composite particles consisting of many so-called partons (quarks and gluons).
+Each of the partons carries an unknown fraction of the protons momentum.
+When two protons collide it is actually the partons that interact.
+However, their exact momentum along the beamline is unknown.
+We only know that the overall momentum perpendicular to the beamline is zero before the collision.
+Thus, it is the only momentum variable that has a precise meaning in a proton-proton collision.
+
+Isolation is important because it indicates where the lepton stems from.
+For example, an isolated electron is likely to originate from $$Z$$ boson, $$W$$ boson, $$\tau$$-lepton or muon.  
+In contrast, a non-isolated electron is likely to originate from $$b$$-hadron or $$c$$-hadron decays.
 
 <img src="./EventDisplays/HWW2.jpg" width="300" />
 
-Event display: event satisfying all the selection criteria for events in the Higgs + zero jets + electron + muon channel. 
-The reconstructed lepton pT values are 33 and 29 GeV for the electron (green track) and the muon (red track) respectively. The reconstructed missing transverse momentum (magenta arrow) is 35 GeV.
+Event display of an event satisfying all the selection criteria for events in the Higgs + zero Jets + electron + muon channel. 
+The reconstructed lepton $$p_\text{T}$$ values are 33 GeV for the electron (green track) and 29 GeV for the muon (red track).
+The reconstructed missing transverse momentum (magenta arrow) is 35 GeV.
 
-## WW
-W boson pair production occurs via
+## $$WW$$
+$$W$$ boson pair production occurs via
 
-* **quark–antiquark annihilation** q + qbar → W+W-
+* **quark–antiquark annihilation** $$q\bar q \rightarrow W^+W^-$$
  
-* **diphoton process**  γγ → W+W- 
+* **diphoton process**  $$\gamma\gamma\rightarrow W^+W^-$$
 
-* **gluon fusion** g + g → W+W-
+* **gluon fusion** $$gg\rightarrow W^+W^-$$
 
-The production of pairs of [vector bosons](https://en.wikipedia.org/wiki/Vector_boson) is crucial to understand both in order to check the [gauge structure](https://en.wikipedia.org/wiki/Gauge_theory) of the Standard Model and in the search for [new physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model).  Production of vector boson pairs and the associated particles from their decay, enter as irreducible backgrounds for many Higgs and new physics searches. 
+
+[Vector boson](https://en.wikipedia.org/wiki/Vector_boson) pair production is an important process for checks of the [gauge structure](https://en.wikipedia.org/wiki/Gauge_theory) of the Standard Model and the search for [new physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model).
+It is an irreducible background for many Higgs and new physics searches. 
 
 W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
