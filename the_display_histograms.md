@@ -21,9 +21,11 @@ When you make cuts the quantities of the four processes will change.
 Histogram Analyser displays 9 histograms.
 The description of each follows.
 
-## Expected Number of Events for 1/fb
+## Expected Number of Events for 1 $$\mathbf{fb}^{-1}$$
 
-Histogram Analyser is displaying Monte-Carlo simulated events.  The number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarn (1/fb) of data is shown here. One inverse femtobarn corresponds to approximately 100 trillion proton-proton collisions.
+Histogram Analyser is displaying Monte-Carlo simulated events.
+This histogram shows the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarn (1/fb) of data. 
+One inverse femtobarn corresponds to approximately 100 trillion proton-proton collisions.
 
 The number of events detected and reconstructed by ATLAS is different to the actual number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other inefficiencies.
 
