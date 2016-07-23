@@ -27,34 +27,38 @@ Histogram Analyser is displaying Monte-Carlo simulated events.
 This histogram shows the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarn (1/fb) of data. 
 One inverse femtobarn corresponds to approximately 100 trillion proton-proton collisions.
 
-The number of events detected and reconstructed by ATLAS is different to the actual number of events produced.  Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other inefficiencies.
+The number of events detected and reconstructed by ATLAS is different to the actual number of events produced.
+Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other inefficiencies.
 
 
 ![](pictures/NumbersNoSelection.jpg)
 
-With no cuts, we can see we have 17 H→WW events, with a total background of 612875 events.
+With no cuts, we can see we have 17 $$H\rightarrow W^+W^-$$ events, with a total background of 612875 events.
 
-The sample significance quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by (Number of H→WW events) / Sqrt(Number of background events).  The larger the significance value is, the better job you have done extracting the Higgs signal.
+The sample significance quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by $$(\text{Number of } H\rightarrow W^+W^- \text{events}) / \sqrt{\text{Number of background events}}$$).  The larger the significance value is, the better job you have done extracting the Higgs signal.
 
 
 
 ## Channel
 
-The leptonic decay channels are shown here: di-electron (ee), electron-muon (em) and di-muon (mm) channels. Decays to taus or hadrons are not considered in Histogram Analyser.
+The leptonic decay channels are shown here: di-electron (ee), electron-muon (em) and di-muon (mm). 
+Decays to taus or hadrons are not considered in Histogram Analyser.
 
 ## Reconstructed Dilepton Mass [GeV]
 
-This histogram displays the mass reconstructed from the two leptons in the final state.  
+This histogram displays the mass reconstructed from the two leptons in the final state.
+The variable describes the mass of an intermediate particle that has decayed to the two leptons.
 
 ![](pictures/DiLeptonMassNoCuts.png)
 
 
-With no cuts, this peaks at 90 GeV, due the huge [Z boson](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) contribution.
+With no cuts, this peaks at 90 GeV, due the huge [$$Z$$ boson](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) contribution.
 
 ![](pictures/MassCutLess75.png)
 ![](pictures/NumbersMassCutLess75.png)
-Selecting Reconstructed Dilepton Mass < 75 GeV, we remove a large number of Z boson events, whilst hardly touching our Higgs signal.  The H→WW Sample Significance has increased from 0.021 to 0.110 with this cut.
-It is therefore a very usefull quantity to reduce the huge Z boson background.
+We remove a large number of $$Z$$ boson events by selecting Reconstructed Dilepton Mass < 75 GeV, whilst hardly touching our Higgs signal.
+The $$H\rightarrow W^+W^-$$ sample significance has increased from 0.021 to 0.110 with this cut.
+It is thus a useful quantity to reduce the huge Z boson background.
 
 
 
@@ -68,8 +72,8 @@ Number of jets found in the event.
 
 ![](pictures/Nevents2plusJets.jpg)
 
-When selecting 2 or more jets we see the Z boson contribution decreases and the ttbar contribution becomes more important.  
-Top-quark pair production leads to WW+jets final states.
+When selecting 2 or more jets we see the $$Z$$ boson contribution decreases and the $$t\bar{t}$$ contribution becomes more important.  
+Top-quark pair production leads to $$WW$$+jets final states.
 
 
 
