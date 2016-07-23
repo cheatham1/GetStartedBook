@@ -79,20 +79,26 @@ Top-quark pair production leads to $$WW$$+jets final states.
 
 ## Missing Transverse Momentum (MET) [GeV]
 
-In the LHC, the initial energy of the colliding particles along the beam axis is not known because the energy of each proton is shared and constantly exchanged, between its constituents.  
+In the LHC, the initial energy of the colliding particles along the beam axis is not known.
+This is due to the energy of each proton being shared and constantly exchanged between its constituents.  
 
-However, the initial momentum of particles travelling transverse to the beam axis is zero, so any net momentum in the transverse direction indicates missing transverse momentum.
+However, the initial momentum of particles travelling transverse to the beam axis is zero.
+Therefore, any net momentum in the transverse direction indicates missing transverse momentum.
 
-Missing transverse momentum is commonly used to infer the presence of non-detectable particles such as the neutrino.  It is expected to be a signature of many predicted physics events that contain particles that do not interact with the detector, for example the lightest [supersymmetric](http://home.cern/scientists/updates/2013/10/supersymmetry-searches-atlas) particle.
+Missing transverse momentum is used to infer the presence of non-detectable particles such as the neutrino.
+It is expected to be a signature of many predicted physics events that contain particles that do not interact with the detector, for example the lightest [supersymmetric](http://home.cern/scientists/updates/2013/10/supersymmetry-searches-atlas) particle.
 
 The standard abbreviation for missing transverse momentum is MET, for historical reasons.
 
-Requiring missing transverse momentum removes Z boson events, since Z boson decay does not have any neutrinos in the final state while the other processes do.
+$$Z$$ boson decays do not have any neutrinos in the final state while the other processes do.
+That is why requiring missing transverse momentum removes $$Z$$ boson events.
+
 
 
 ## Opening Angle Between MET and Leptons [phi]
 
 This is the opening angle, in phi (𝜙), between the missing transverse momentum and the two leptons.
+$$t\bar t$$ and $$Z$$ events show a relatively flat distribution in this variable whereas $$H\rightarrow W^+W^-$$ and $WW$ peak at large values.
 
 This is a useful discriminant to remove background events.
 
@@ -101,15 +107,18 @@ This is a useful discriminant to remove background events.
 
 This is the opening angle, in phi (𝜙), between the two leptons.
 
-If the leptons are produced back-to-back, this is displayed on the histogram as 180 degrees.  
-
+If the leptons go back-to-back, this is displayed on the histogram as 180 degrees.  
+$$H\rightarrow W^+W^-$$events show a peak at low values in contrast to all other processes.
 
 ## Total Lepton Transverse Momentum [GeV]
 
 
 This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the observed charged leptons.
 
-For Z boson events, total lepton transverse momentum peaks at zero since the momentum of one lepton cancels out the momentum of the other.
+For $$Z$$ boson events, total lepton transverse momentum peaks at zero since the momentum of one lepton cancels out the momentum of the other.
+
+For the other processes this cancellation is not as pronounced.
+Their distributions peak at between 30 and 80 GeV.
 
 ## Are Jets b-tagged?
 
