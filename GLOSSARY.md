@@ -1,18 +1,18 @@
 # Glossary
 
-## Angular separation
+## Opening angle
 
-The angular separation between physics objects e.g.lepton pair can be important in understanding or identifying different physics processes.
-It is calculated as a function of eta and phi.
+The opening angle (also called angular separation) between physics objects e.g.lepton pair can be important in understanding or identifying different physics processes.
+It is calculated as a function of $$\eta$$ and $$\phi$$.
 
 ## ATLAS coordinate system
 
 The coordinate system of ATLAS is a right-handed coordinate system with the x-axis pointing towards the centre of the LHC tunnel, and the z-axis along the tunnel. The y-axis is slightly tilted with respect to vertical due to the general tilt of the tunnel. 
 
-## Azimuth angle (phi)
+## Azimuth angle ($$\phi$$)
 
-Phi is measured from the x-axis, around the beam.
-The ATLAS detector design is symmetrical in phi.
+The azimuthal angle $$\phi$$ is measured from the $$x$$-axis, around the beam.
+The ATLAS detector design is symmetrical in $$\phi$$.
 
 ## Channel
 
