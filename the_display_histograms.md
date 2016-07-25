@@ -98,7 +98,7 @@ That is why requiring missing transverse momentum removes $$Z$$ boson events.
 ## Opening Angle Between MET and Leptons [phi]
 
 This is the opening angle, in phi (𝜙), between the missing transverse momentum and the two leptons.
-$$t\bar t$$ and $$Z$$ events show a relatively flat distribution in this variable whereas $$H\rightarrow W^+W^-$$ and $WW$ peak at large values.
+$$t\bar t$$ and $$Z$$ events show a relatively flat distribution in this variable whereas $$H\rightarrow W^+W^-$$ and $$WW$$ peak at large values.
 
 This is a useful discriminant to remove background events.
 
