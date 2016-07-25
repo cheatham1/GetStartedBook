@@ -117,9 +117,9 @@ The red line shows the path of a muon with $$p_\text{T} \approx$$ 140 GeV.
 The green line shows the path of an electron with  $$p_\text{T} \approx$$ 170 GeV.
 The green and yellow bars indicate energy deposits in the electromagnetic and hadronic calorimeters. 
 From these deposits 3 jets are identified with transverse momenta between 30 and 80 GeV. 
-Two of the jets are identified as having originated from b-quarks.  
+Two of the jets are identified as having originated from $$b$$-quarks.  
 
-## $$Z$$/DY
+## $$Z$$
 
 The [$$W$$](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [$$Z$$](http://home.cern/about/physics/z-boson) bosons are together known as the weak or intermediate vector bosons. These Standard Model elementary particles mediate the weak interaction.  
 
