@@ -26,8 +26,8 @@ We want to select events which contain two leptons, high missing transverse mome
 
 Select: 
 
+* Number of Jets = 0 
 * Reconstructed Dilepton Mass < 75 GeV
-* Number of Jets = 0  
 * Total Lepton Transverse Momentum > 30 GeV
 * Missing Transverse Momentum > 40 GeV
 * Opening Angle between Leptons < 80
@@ -36,7 +36,7 @@ Select:
 The dominant background after all these cuts in the
 Higgs boson + 0 jet channel comes from $$WW$$ and $Z$+jets.
 
-4 Higgs events are identified, yielding a significance of 0.265
+3 Higgs events are identified, yielding a significance of 0.277
 
 ![](pictures/HWW0jet.png)
 
