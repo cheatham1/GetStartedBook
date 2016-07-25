@@ -46,10 +46,10 @@ Adding an extra cut, the opening angle between MET and leptons > 140, reduces th
 
 Select: 
 
-* electron-muon channel only
-* Reconstructed Dilepton Mass < 70 GeV
 * Number of Jets = 1
 * no b-tagged jets
+* electron-muon channel only
+* Reconstructed Dilepton Mass < 70 GeV
 * Total Lepton Transverse Momentum > 30 GeV
 * Opening angle between leptons < 80
 
