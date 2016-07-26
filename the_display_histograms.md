@@ -10,7 +10,7 @@ Each process is represented by a different colour.
 
 Make cuts using your cursor.
 The selected ranges will be couloured, whilst non-selected ranges will be greyed out.
-When you make cuts the quantities of the four processes will change.
+When you make cuts the contributions of the four processes will change.
 
 **To clear your selection on a specific histogram click on the white background within the histogram area. **
 
@@ -21,7 +21,7 @@ When you make cuts the quantities of the four processes will change.
 Histogram Analyser displays 9 histograms.
 The description of each follows.
 
-## Expected Number of Events for 1 $$\mathbf{fb}^{-1}$$
+## Expected Number of Events for $$\mathbf{1~fb^{-1}}$$
 
 Histogram Analyser is displaying Monte-Carlo simulated events.
 This histogram shows the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarn (1/fb) of data. 
@@ -84,7 +84,7 @@ B-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z
 
 ## Missing Transverse Momentum (MET) [GeV]
 
-In the LHC, the initial energy of the colliding particles along the beam axis is not known.
+In the LHC, the initial energy of the colliding partons (quarks or gluons) along the beam axis is not known.
 This is due to the energy of each proton being shared and constantly exchanged between its constituents.  
 
 However, the initial momentum of particles travelling transverse to the beam axis is zero.
@@ -95,7 +95,7 @@ It is expected to be a signature of many predicted physics events that contain p
 
 The standard abbreviation for missing transverse momentum is MET, for historical reasons.
 
-$$Z$$ boson decays do not have any neutrinos in the final state while the other processes do.
+$$Z$$ boson decays to charged leptons do not have any neutrinos in the final state while the other processes do.
 That is why requiring missing transverse momentum removes $$Z$$ boson events.
 
 ## Total Lepton Transverse Momentum [GeV]
@@ -103,7 +103,7 @@ That is why requiring missing transverse momentum removes $$Z$$ boson events.
 
 This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the observed charged leptons.
 
-For $$Z$$ boson events, total lepton transverse momentum peaks at zero since the momenta of both leptons cancel each other.
+For $$Z$$ boson events, total lepton transverse momentum peaks at zero since the transverse momenta of both leptons cancel each other.
 
 For the other processes this cancellation is not as pronounced.
 Their distributions peak at between 30 and 80 GeV.
