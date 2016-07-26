@@ -83,6 +83,7 @@ Understanding the Standard Model processes possessing multiple leptons and missi
 Event display: A $$WW$$ candidate event in the electron muon final state.
 The electron and muon candidates have transverse momenta of 21 and 68 GeV, respectively.
 The arrow indicates the missing transverse momentum, which is measured to be 69 GeV.  
+The top left insert shows the event in the x-y projection, with the muon track (red), electron track (orange) and the electron deposit in the electromagnetic calorimeter (green).
 
 ## $$t\bar t$$
 
