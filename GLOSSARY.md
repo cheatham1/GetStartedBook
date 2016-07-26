@@ -1,9 +1,11 @@
 # Glossary
 
-## Opening angle
+This is not intended to be an exhaustive glossary.  You will find answers to many of your questions by using a search engine.  However, here are afew ATLAS physics terms explained to start you off.
 
-The opening angle (also called angular separation) between physics objects e.g.lepton pair can be important in understanding or identifying different physics processes.
-It is calculated as a function of $$\eta$$ and $$\phi$$.
+## Detector layout
+
+![](pictures/ATLASImage.jpg)
+
 
 ## ATLAS coordinate system
 
@@ -14,6 +16,16 @@ The coordinate system of ATLAS is a right-handed coordinate system with the x-ax
 The azimuthal angle $$\phi$$ is measured from the $$x$$-axis, around the beam.
 The ATLAS detector design is symmetrical in $$\phi$$.
 
+## Pseudorapidity (eta)
+
+The pseudorapidity describes the angle of a particle relative to the beam axis.  
+
+## Opening angle
+
+The opening angle (also called angular separation) between physics objects e.g.lepton pair can be important in understanding or identifying different physics processes.
+It is calculated as a function of $$\eta$$ and $$\phi$$.
+
+
 ## Channel
 
 The word channel signifies a certain route a physics process has taken.
@@ -23,18 +35,15 @@ These may be referred to the hadronic and leptonic channel of the $$W$$ boson de
 If we want to study an object we cannot directly observe, e.g. a $$W$$ boson, we must find a channel that is easily accessible.
 In general, decays to leptons are easiest to spot but are not as abundant as hadronic decays.
 
-## Detector layout
-
-![](pictures/ATLASImage.jpg)
-
-## Glossary
-
-This is not intended to be an exhaustive glossary.  You will find answers to many of your questions by using a search engine.  However, here are afew ATLAS physics terms explained to start you off.
 
 ## Good Run List
 
 Good run lists are the way to select good data samples for physics analysis. 
 There are a number of ways the data may not be good e.g the LHC is not in stable-beam mode, the magnets are off, some of the sub-detectors are switched off.
+
+## Jets
+
+Jets are the dominant final state objects of high-energy proton-proton interactions at the LHC. They are key ingredients for many physics measurements and for searches for new phenomena. Jets are observed as groups of topologically-related energy deposits in the ATLAS calorimeters, most of which are associated with tracks of charged particles as measured in the inner detector. They are reconstructed and calibrated using a combination of methods based on simulation and data-driven techniques.
 
 ## Good, bad and ugly jets
 
@@ -44,13 +53,6 @@ Jet cleaning criteria have been developed in order to identify fake jets which a
 
 The Jet Vertex Fraction can be used to select jets with a high fraction of track energy originating from the selected primary vertex.  It can be used to suppress pile-up jets. 
 
-## Jets
-
-Jets are the dominant final state objects of high-energy proton-proton interactions at the LHC. They are key ingredients for many physics measurements and for searches for new phenomena. Jets are observed as groups of topologically-related energy deposits in the ATLAS calorimeters, most of which are associated with tracks of charged particles as measured in the inner detector. They are reconstructed and calibrated using a combination of methods based on simulation and data-driven techniques.
-
-## Pseudorapidity (eta)
-
-The pseudorapidity describes the angle of a particle relative to the beam axis.  
 
 ## Monte-Carlo generators
 
