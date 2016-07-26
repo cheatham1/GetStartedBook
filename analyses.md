@@ -20,7 +20,9 @@ It is a shorthand that physicists adopt for brevity.
 
 The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bosons which subsequently decay into leptons and neutrinos:
 
-$$H\rightarrow W^+W^-\rightarrow l^+\nu l^-\bar\nu$$ ($$l$$=electron or muon).
+$$H\rightarrow W^+W^-\rightarrow ℓ^+ ℓ^-\nu \bar\nu$$   (ℓ=electron or muon).
+
+
 
 The major background contributions to the search in this decay mode are top-pair ($$t\bar t$$) production, $$WW$$ and $$Z$$+jets events. 
 All of these processes contain two isolated high-$$p_\text{T}$$ leptons from $$W$$ or Z boson decays, which is also the signature of the signal.
