@@ -9,7 +9,7 @@ Here we present two methods of online data visualisation.  Both are easy to use,
 This tool will show how physicists work to differentiate between physics processes.
 The signatures of physics processes can look very different in the detector.
 These differences are expressed via variables such as the number of leptons in an event.
-The webpage displays eight histograms of variables which will be used to isolate Higgs events.  
+The webpage displays nine histograms of variables which will be used to isolate Higgs events.  
 
 Use your cursor to apply selections to a particular variable.
 The effect on the other variables will be shown immediately.  
