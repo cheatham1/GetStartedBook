@@ -1,7 +1,6 @@
 # Summary
 
 * [Get Started](README.md)
-* [Histogram animations](atlas_higgs_animations.md)
 * [Analyses](analyses.md)
 * [Histogram Analyser](the_display_histograms.md)
 * [Separate Signals](separate_signals.md)
