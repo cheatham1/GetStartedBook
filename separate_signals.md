@@ -10,7 +10,7 @@ The rest of your histograms now just display the characteristics of your chosen 
 
 ## $$H\rightarrow W^+W^-$$
 
-$$H\rightarrow W^+W^-l^+\nu l^-\bar\nu$$ ($$ℓ$$ = electron, muon)
+$$H\rightarrow W^+W^- \rightarrow l^+l^-\nu \bar\nu$$ ( $$l$$ = electron, muon)
 
 Our signal is the  Higgs boson which decays into 2 $$W$$ bosons which subsequently decay into leptons and neutrinos. 
 
