@@ -78,7 +78,7 @@ Final states with leptons and missing energy are typical for many new physics mo
 Understanding the Standard Model processes possessing multiple leptons and missing energy is crucial in the quest to discover or rule out these models.
 
 
-<img src="./EventDisplays/WW.jpg" width="400" />
+<img src="./EventDisplays/fig_08.jpg" width="400" />
 
 Event display: A $$WW$$ candidate event in the electron muon final state.
 The electron and muon candidates have transverse momenta of 21 and 68 GeV, respectively.
