@@ -1,6 +1,6 @@
 # Analyses
 
-Histogram Analyser focusses on four physics processes; the signal $$H\rightarrow W^+W^-$$ and three background processes $$WW$$, $$t\bar t$$ and $$Z$$/Drell-Yan.
+Histogram Analyser focusses on four physics processes; the signal $$H\rightarrow W^+W^-$$ and three background processes $$WW$$, $$t\bar t$$ and $$Z$$.
 Let's take a look at these processes. 
 
 ## $$H\rightarrow W^+W^-$$
