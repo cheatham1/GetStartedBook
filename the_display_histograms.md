@@ -2,7 +2,7 @@
 # Histogram Analyser
 
 Physicists use cuts to select events of interest.  
-Cuts preferentially remove the unwanted processes (background) but leave the desired process (signal). 
+Cuts preferentially remove the unwanted processes (background) but leave most of the desired process (signal). 
 It is useful to have a good understanding of the physics processes involved when applying cuts.
 
 The 4 processes displayed in Histogram Analyser are $$H\rightarrow W^+W^-$$, $$WW$$, $$t\bar t$$ and $$Z$$.
