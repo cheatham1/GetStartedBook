@@ -2,7 +2,7 @@
 
 Follow the steps of a real ATLAS analysis using Histogram Analyser
 
-$$H\rightarrow W^+W^- \rightarrow ℓ^+\nu l^- \bar \nu$$ ($$ℓ$$ = electron, muon)
+$$H\rightarrow W^+W^- \rightarrow ℓ^+ ℓ^-\nu  \bar \nu$$ ($$ℓ$$ = electron, muon)
 
 We are looking for a Higgs boson which decays into 2 $$W$$ bosons which subsequently decay into leptons and neutrinos. 
 
