@@ -1,4 +1,4 @@
-# Find the Higgs
+# Example: Find the Higgs
 
 Follow the steps of a real ATLAS analysis using Histogram Analyser
 
