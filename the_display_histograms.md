@@ -76,6 +76,11 @@ When selecting 2 or more jets we see the $$Z$$ boson contribution decreases and 
 Top-quark pair production leads to $$WW$$+jets final states.
 
 
+## Are Jets b-tagged?
+
+Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
+
+B-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z$$ boson decays.
 
 ## Missing Transverse Momentum (MET) [GeV]
 
@@ -93,28 +98,6 @@ The standard abbreviation for missing transverse momentum is MET, for historical
 $$Z$$ boson decays do not have any neutrinos in the final state while the other processes do.
 That is why requiring missing transverse momentum removes $$Z$$ boson events.
 
-
-## Opening Angle Between Leptons [phi]
-
-[](pictures/OpeningAngleLeptons.jpg)
-
-This is the opening angle, in phi (𝜙), between the two leptons.
-
-If the leptons are emitted back-to-back, this is displayed on the histogram as 180 degrees.  
-$$H\rightarrow W^+W^-$$events show a peak at low values in contrast to all other processes.
-
-
-
-## Opening Angle Between MET and Leptons [phi]
-
-
-
-This is the opening angle, in phi (𝜙), between the missing transverse momentum and the two leptons.
-$$t\bar t$$ and $$Z$$ events show a relatively flat distribution in this variable whereas $$H\rightarrow W^+W^-$$ and $$WW$$ peak at large values.
-
-This is a useful discriminant to remove background events.
-
-
 ## Total Lepton Transverse Momentum [GeV]
 
 
@@ -125,10 +108,36 @@ For $$Z$$ boson events, total lepton transverse momentum peaks at zero since the
 For the other processes this cancellation is not as pronounced.
 Their distributions peak at between 30 and 80 GeV.
 
-## Are Jets b-tagged?
 
-Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
+## Opening Angle Between Leptons [phi]
 
-B-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z$$ boson decays.
+![](pictures/OpeningAngleLeptons.jpg)
+
+This is the opening angle, in phi (𝜙), between the two leptons.  
+
+In the event display above, two lepton tracks are displayed in red and the opening angle between the two leptons is marked in blue.
+
+![](pictures/OpeningAngleLeptons.png)
+
+If the leptons are emitted back-to-back, this is displayed on the histogram as 180 degrees.  
+$$H\rightarrow W^+W^-$$events show a peak at low values in contrast to all other processes.
+
+
+
+## Opening Angle Between MET and Leptons [phi]
+
+This is the opening angle, in phi (𝜙), between the missing transverse momentum and the two leptons.
+
+![](pictures/OpeningAngleMETleptoms.jpg)
+
+
+In the event display above, missing transverse energy is displayed by the dotted yellow line.  The midline between the two lepton tracks (the direction of the vectorial sum of their transverse momenta) is represented by the dotted red line.  The opening angle between the MET and leptons is shown in yellow.
+
+$$t\bar t$$ and $$Z$$ events show a relatively flat distribution in this variable whereas $$H\rightarrow W^+W^-$$ and $$WW$$ peak at large values.
+
+This is a useful discriminant to remove background events.
+
+
+
 
 
