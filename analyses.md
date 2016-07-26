@@ -11,7 +11,7 @@ This field is responsible for giving masses to fundamental particles.
 The Higgs boson interacts with all  Standard Model elementary particles having mass.
 Thus, it can decay through many different processes.
 One of the most likely things to happen is that the Higgs decays into a pair of [W bosons](https://home.cern/about/physics/w-boson-sunshine-and-stardust). 
-This happens about 23% of the time for a Higgs boson with a mass of 126 GeV.
+This happens about 23% of the time for a Higgs boson with a mass of 125 GeV.
 The W bosons can subsequently decay either into a quark-antiquark, a [lepton](https://en.wikipedia.org/wiki/Lepton)-[antineutrino](https://en.wikipedia.org/wiki/Neutrino), or an antilepton-neutrino pair.
 
 From here on, we will refer to a particle and its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle) collectively by just the particle's name.
@@ -87,7 +87,7 @@ The arrow indicates the missing transverse momentum, which is measured to be 69 
 The [top quark](https://press.cern/backgrounders/top-quark) is the only quark that can be studied in isolation, due to its high mass and short lifetime.
 All other quarks are only accessible as constituents of hadrons.
 
-Top processes can be used to compare Monte-Carlo generators,  [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) models and parton distribution functions.
+Top processes can be used to optimise Monte-Carlo generators,  [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) models and parton distribution functions.
 
 In addition, top pair production is an important background in various Higgs boson analyses and beyond the Standard Model searches.
 It is therefore crucial to understand this process in detail. 
@@ -135,12 +135,12 @@ A $$Z$$ boson decays in three ways
 * **quark-antiquark pair** (70%). These appear as jets.  If the jets are identified as originating from b-quarks they will be b-tagged.
 
 
-* **neutrino-antineutrino pair** (20%).  Neutrinos do not interact and so are very difficult to detect.  This decay mode can be identified with missing transverse momentum.
+* **neutrino-antineutrino pair** (20%).  Neutrinos do not interact and so are very difficult to detect.  This neutrino decay mode can sometimes be identified with missing transverse momentum.
 
 
 * **lepton-antilepton pairs** (10%).  The three lepton-pair types are equally probable, [electron](https://en.wikipedia.org/wiki/Electron)-positron, [muon](https://en.wikipedia.org/wiki/Muon)-antimuon, and [tau](https://en.wikipedia.org/wiki/Tau_(particle)-antitau pairs.  
 
-In Histogram Analyser the third decay mode will be shown in the electron-electron (ee) and muon-muon (mm) channel.
+In Histogram Analyser the third decay mode will be studied in the electron-electron (ee) and muon-muon (mm) channel.
 Electrons and muons are much easier to measure than $$\tau$$-leptons.
 
 
