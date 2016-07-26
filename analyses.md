@@ -23,7 +23,7 @@ The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bo
 $$H\rightarrow W^+W^-\rightarrow l^+\nu l^-\bar\nu$$ ($$l$$=electron or muon).
 
 The major background contributions to the search in this decay mode are top-pair ($$t\bar t$$) production, $$WW$$ and $$Z$$+jets events. 
-All of these processes contain two isolated high-$$p_\text{T}$$ leptons from $$W$$ boson decays, which is also the signature of the signal.
+All of these processes contain two isolated high-$$p_\text{T}$$ leptons from $$W$$ or Z boson decays, which is also the signature of the signal.
 
 There is also the $$W$$+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics) background, where one of the jet decay products might be mistaken for an isolated high-$$p_\text{T}$$ lepton.
 Its contribution is small and is neglected here.
@@ -35,15 +35,15 @@ Each of the partons carries an unknown fraction of the protons momentum.
 When two protons collide it is actually the partons that interact.
 However, their exact momentum along the beamline is unknown.
 We only know that the overall momentum perpendicular to the beamline is zero before the collision.
-Thus, it is the only momentum variable that has a precise meaning in a proton-proton collision.
+Thus, it is the most important momentum variable in a proton-proton collision.
 
 Isolation is important because it indicates where the lepton stems from.
-For example, an isolated electron is likely to originate from $$Z$$ boson, $$W$$ boson, $$\tau$$-lepton or muon.  
+For example, an isolated electron is likely to originate from $$Z$$ boson, $$W$$ boson, $$\tau$$-lepton.  
 In contrast, a non-isolated electron is likely to originate from $$b$$-hadron or $$c$$-hadron decays.
 
 <img src="./EventDisplays/HWW2.jpg" width="300" />
 
-Event display of an event satisfying all the selection criteria for events in the Higgs + zero Jets + electron + muon channel. 
+Event display of an event satisfying all the selection criteria for events in the Higgs - zero jets + electron + muon channel. 
 The reconstructed lepton $$p_\text{T}$$ values are 33 GeV for the electron (green track) and 29 GeV for the muon (red track).
 The reconstructed missing transverse momentum (magenta arrow) is 35 GeV.
 
@@ -64,7 +64,7 @@ W bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
 * [hadronically](https://en.wikipedia.org/wiki/Hadron): into an [up-type quark](https://en.wikipedia.org/wiki/Quark) and a [down-type quark](https://en.wikipedia.org/wiki/Quark).
 
-Leptonic $$W$$ boson decays are characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino(s) escaping detection. 
+Leptonic $$W$$ boson decays are characterised by the presence of a highly energetic isolated lepton and large missing transverse momentum due to the neutrino escaping detection. 
 
 Hadronic $$W$$ boson decays lead to the presence of two jets due to the two quarks.
 
