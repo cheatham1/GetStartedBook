@@ -94,21 +94,26 @@ $$Z$$ boson decays do not have any neutrinos in the final state while the other 
 That is why requiring missing transverse momentum removes $$Z$$ boson events.
 
 
+## Opening Angle Between Leptons [phi]
+
+[](pictures/OpeningAngleLeptons.jpg)
+
+This is the opening angle, in phi (𝜙), between the two leptons.
+
+If the leptons are emitted back-to-back, this is displayed on the histogram as 180 degrees.  
+$$H\rightarrow W^+W^-$$events show a peak at low values in contrast to all other processes.
+
+
 
 ## Opening Angle Between MET and Leptons [phi]
+
+
 
 This is the opening angle, in phi (𝜙), between the missing transverse momentum and the two leptons.
 $$t\bar t$$ and $$Z$$ events show a relatively flat distribution in this variable whereas $$H\rightarrow W^+W^-$$ and $$WW$$ peak at large values.
 
 This is a useful discriminant to remove background events.
 
-
-## Opening Angle Between Leptons [phi]
-
-This is the opening angle, in phi (𝜙), between the two leptons.
-
-If the leptons go back-to-back, this is displayed on the histogram as 180 degrees.  
-$$H\rightarrow W^+W^-$$events show a peak at low values in contrast to all other processes.
 
 ## Total Lepton Transverse Momentum [GeV]
 
