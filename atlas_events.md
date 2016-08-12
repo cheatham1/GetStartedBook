@@ -30,4 +30,4 @@ The many low transverse momentum proton-proton interactions occuring are called 
 The above **event display** shows a candidate $$Z$$ boson decaying into two muons with 11 reconstructed vertices. This event was recorded on April 24th and is typical for the 2011 environment with high pile-up.
 
 The reconstruction of vertices is important for many physics studies.
-This includes searches for new particles, identifying jets containing b-quarks or taus, and reconstruction of exclusive b-quark decays.
+This includes searches for new particles, identifying jets containing $$b$$-quarks or taus, and reconstruction of exclusive $$b$$-quark decays.
