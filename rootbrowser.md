@@ -12,7 +12,7 @@ Press the "Load" button.
 ![](pictures/ROOTbrowser/Load.png)
 
 The available variables are then displayed.  Select the variable to view the distribution.
-![](pictures/ROOTbrowser/JetPT.jpg)
+![](pictures/ROOTbrowser/JetPT.png)
 
 
 One or more datasets can be loaded.  
