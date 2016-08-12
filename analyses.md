@@ -104,7 +104,7 @@ As we said before, $$W$$ bosons can decay either
 
 The two $$b$$-quarks from the top-quark decays will be seen as two jets in the final state.
 Algorithms are used to identify these jets.
-Jets thought to originate from b-quarks are called b-tagged jets.
+Jets thought to originate from $$b$$-quarks are called b-tagged jets.
 Additional jets in $$t \bar t $$ events can originate from gluon radiation.
 
 Three channels are possible depending on the decays of the $$W$$ bosons:
@@ -135,7 +135,7 @@ The production of $$Z$$ bosons at the LHC is due to:
 A $$Z$$ boson is neutral and so the sum of the charges of its decay products must be zero.
 A $$Z$$ boson decays in three ways
 
-* **quark-antiquark pair** (70%). These appear as jets.  If the jets are identified as originating from b-quarks they will be b-tagged.
+* **quark-antiquark pair** (70%). These appear as jets.  If the jets are identified as originating from $$b$$-quarks they will be b-tagged.
 
 
 * **neutrino-antineutrino pair** (20%).  Neutrinos do not interact and so are very difficult to detect.  This neutrino decay mode can sometimes be identified with missing transverse momentum.
