@@ -36,9 +36,9 @@ Two $$W$$ bosons both decaying leptonically.
 
 
 Let's look at the individual histograms:
-* The analysis considers electron and muon decays of the W bosons, so the events occur in all three channels. 
+* The analysis considers electron and muon decays of the $$W$$ bosons, so the events occur in all three channels. 
 * The reconstructed mass from the two leptons peaks at around 80 GeV.
-* The majority of WW events contain 0 or 1 jet.
+* The majority of $$WW$$ events contain 0 or 1 jet.
 * Most events have no b-tagged jets. 
 * The total lepton transverse momentum peaks around 20-40 GeV.  
 * Missing transverse momentum is due to the neutrinos in the final state. 
