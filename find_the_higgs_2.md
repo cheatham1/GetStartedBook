@@ -34,7 +34,7 @@ Select:
 
 
 The dominant background after all these cuts in the
-Higgs boson + 0 jet channel comes from $$WW$$ and $Z$+jets.
+Higgs boson + 0 jet channel comes from $$WW$$ and $$Z$$+jets.
 
 3 Higgs events are identified, yielding a significance of 0.277
 
