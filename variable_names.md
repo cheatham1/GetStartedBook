@@ -13,7 +13,7 @@ When there are two leptons present in the final state they are ordered by transv
 |leadlep\_type              | number signifying the leading lepton type (e, mu, tau) of the lepton |
 |jet\_pt                    | transverse momentum of the jet |
 |etmiss                    | Transverse energy of the missing momentum vector |
-|leadlep\_ptcone30              | scalar sum of tracks pT in a cone of R=0.3 around leading lepton, not including lepton pT itself |
+|leadlep\_ptcone30              | scalar sum of tracks pT in a cone of R=0.3 around leading lepton, not including lepton $$p_T$$ itself |
 |traillep\_E                     | energy of the trailing lepton |
 |leadlep\_eta                   | pseudorapidity of the leading lepton |
 |JetInvMass                   |  invariant mass of the jet|
@@ -35,6 +35,6 @@ When there are two leptons present in the final state they are ordered by transv
 |leadlep\_d0    | d0 of the track associated to the leading lepton at the point of closest approach (p.o.a.) |
 |traillep\_type                  | number signifying the lepton type (e, mu, tau) of the trailing lepton |
 |leadlep\_z0                    | z-coordinate of the track associated to the leading lepton wrt. the primary vertex |
-|traillep\_ptcone30             | scalar sum of tracks pT in a cone of R=0.3 around the trailing lepton, not including lepton pT itself |
+|traillep\_ptcone30             | scalar sum of tracks pT in a cone of R=0.3 around the trailing lepton, not including lepton $$p_T$$ itself |
 |traillep\_charge                | charge of the trailing lepton |
 
