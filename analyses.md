@@ -12,20 +12,20 @@ The Higgs boson interacts with all  Standard Model elementary particles having m
 Thus, it can decay through many different processes.
 One of the most likely things to happen is that the Higgs decays into a pair of [W bosons](https://home.cern/about/physics/w-boson-sunshine-and-stardust). 
 This happens about 23% of the time for a Higgs boson with a mass of 125 GeV.
-The W bosons can subsequently decay either into a quark-antiquark, a [lepton](https://en.wikipedia.org/wiki/Lepton)-[antineutrino](https://en.wikipedia.org/wiki/Neutrino), or an antilepton-neutrino pair.
+The $$W$$ bosons can subsequently decay either into a quark-antiquark, a [lepton](https://en.wikipedia.org/wiki/Lepton)-[antineutrino](https://en.wikipedia.org/wiki/Neutrino), or an antilepton-neutrino pair.
 
 From here on, we will refer to a particle and its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle) collectively by just the particle's name.
 So, When we talk about quarks we mean quarks and antiquarks.
 It is a shorthand that physicists adopt for brevity. 
 
-The signal process in Histogram Analyser is the Higgs boson decaying into 2 W bosons which subsequently decay into leptons and neutrinos:
+The signal process in Histogram Analyser is the Higgs boson decaying into 2 $$W$$ bosons which subsequently decay into leptons and neutrinos:
 
 $$H\rightarrow W^+W^-\rightarrow ℓ^+ ℓ^-\nu \bar\nu$$   (ℓ=electron or muon).
 
 
 
 The major background contributions to the search in this decay mode are top-pair ($$t\bar t$$) production, $$WW$$ and $$Z$$+jets events. 
-All of these processes contain two isolated high-$$p_\text{T}$$ leptons from $$W$$ or Z boson decays, which is also the signature of the signal.
+All of these processes contain two isolated high-$$p_\text{T}$$ leptons from $$W$$ or $$Z$$ boson decays, which is also the signature of the signal.
 
 There is also the $$W$$+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics) background, where one of the jet decay products might be mistaken for an isolated high-$$p_\text{T}$$ lepton.
 Its contribution is small and is neglected here.
