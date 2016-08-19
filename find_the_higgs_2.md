@@ -26,11 +26,11 @@ We want to select events which contain two leptons, high missing transverse mome
 
 Select: 
 
-* Number of Jets = 0 
-* Reconstructed Dilepton Mass < 75 GeV
+* Number of Jets = 0 : We have decided this analysis is specifically with zero jets
+* Reconstructed Dilepton Mass < 75 GeV : 
 * Total Lepton Transverse Momentum > 30 GeV
-* Missing Transverse Momentum > 40 GeV
-* Opening Angle between Leptons < 80
+* Missing Transverse Momentum > 40 GeV : This cut should remove alot of Z background since there tends to be little missing transverse m
+* Opening Angle between Leptons < 80 : We know that the opening angle between leptons for $$H\rightarrow WW$$ peaks tends to be small whereas for Z events the opening angle tends to be large.
 
 
 The dominant background after all these cuts in the
