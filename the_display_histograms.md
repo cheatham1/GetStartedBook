@@ -79,6 +79,7 @@ Top-quark pair production leads to $$WW$$+jets final states.
 ## Are Jets b-tagged?
 
 ![](pictures/Btag.jpg)
+![](pictures/nEventsBtagged.png)
 
 
 Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
