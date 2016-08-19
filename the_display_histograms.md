@@ -105,17 +105,26 @@ It is expected to be a signature of many predicted physics events that contain p
 
 The standard abbreviation for missing transverse momentum is MET, for historical reasons.
 
-
+![](pictures/MET100.jpg)
+![](pictures/NeventsMET100.jpg)
 
 $$Z$$ boson decays to charged leptons do not have any neutrinos in the final state while the other processes do.
 That is why requiring missing transverse momentum removes $$Z$$ boson events.
 
-## Total Lepton Transverse Momentum [GeV]
+Select missing transverse momentum and watch how the ratio of $$WW$$ and ttbar to $$Z$$ events changes.
 
+## Total Lepton Transverse Momentum [GeV]
 
 This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the observed charged leptons.
 
+![](pictures/PTZ.jpg)
+
 For $$Z$$ boson events, total lepton transverse momentum peaks at zero since the transverse momenta of both leptons cancel each other.
+
+![](pictures/PTttbar.jpg)
+
+![](pictures/PTWW.jpg)
+![](pictures/PTHWW.jpg)
 
 For the other processes this cancellation is not as pronounced.
 Their distributions peak at between 30 and 80 GeV.
