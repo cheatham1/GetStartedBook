@@ -78,11 +78,14 @@ Top-quark pair production leads to $$WW$$+jets final states.
 
 ## Are Jets b-tagged?
 
-
+![](pictures/Btag.jpg)
 
 Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
 
 B-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z$$ boson decays.
+
+Selecting 'Are Jets b-tagged' as yes, we can see the ratio of ttbar to $$Z$$ events increases from 1334/611276 = 0.002 to 1041/7227 = 0.14 and the green ttbar contribution is now noticeable in the histograms.
+
 
 ## Missing Transverse Momentum (MET) [GeV]
 
