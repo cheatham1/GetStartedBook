@@ -82,8 +82,8 @@ Jets originating from b-quarks are identified and tagged using so-called b-taggi
 
 ![](pictures/Btag.jpg)
 ![](pictures/nEventsBtagged.png)
-![](pictures/BtaggedYes.png)
-![](pictures/NeventsBtaggedYes.png)
+![](pictures/BtaggedYes.jpg)
+![](pictures/NeventsBtagged.jpg)
 
 
 
