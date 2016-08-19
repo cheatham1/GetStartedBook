@@ -26,11 +26,15 @@ We want to select events which contain two leptons, high missing transverse mome
 
 Select: 
 
-* Number of Jets = 0 : We have decided this analysis is specifically with zero jets
-* Reconstructed Dilepton Mass < 75 GeV : 
+* Number of Jets = 0 : We have decided this analysis is specifically with zero jets.
+
+* Reconstructed Dilepton Mass < 75 GeV : The $$Z$$ events are the major background in this analysis.  The $$Z$$ boson has a mass of 91 GeV, which is reconstructed from the mass of the two leptons.  Requiring Reconstructed Dilepton Mass to be less than 75 GeV removes over 90 % of the Z events.    
+ 
 * Total Lepton Transverse Momentum > 30 GeV
-* Missing Transverse Momentum > 40 GeV : This cut should remove alot of Z background since there tends to be little missing transverse m
-* Opening Angle between Leptons < 80 : We know that the opening angle between leptons for $$H\rightarrow WW$$ peaks tends to be small whereas for Z events the opening angle tends to be large.
+
+* Missing Transverse Momentum > 40 GeV : This cut should remove $$Z$$ background since there tends to be little missing transverse in $$Z$$ events.  $$Z$$ boson decays to charged leptons do not have any neutrinos in the final state while the other processes do.
+
+* Opening Angle between Leptons < 80 : We know that the opening angle between leptons for $$H\rightarrow WW$$ tends to be small whereas for Z events the opening angle tends to be large.
 
 
 The dominant background after all these cuts in the
