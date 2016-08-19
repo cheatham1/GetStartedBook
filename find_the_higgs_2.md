@@ -30,7 +30,7 @@ Select:
 
 * Reconstructed Dilepton Mass < 75 GeV : The $$Z$$ events are the major background in this analysis.  The $$Z$$ boson has a mass of 91 GeV, which is reconstructed from the mass of the two leptons.  Requiring Reconstructed Dilepton Mass to be less than 75 GeV removes over 90 % of the Z events.    
  
-* Total Lepton Transverse Momentum > 30 GeV
+* Total Lepton Transverse Momentum > 30 GeV : For $$Z$$ boson events, the total lepton transverse momentum peaks at zero since the transverse momenta of both leptons cancel each other.  For $$H\rightarrow WW$$, the opening angle between leptons tends to be small, so the total lepton transverse momentum tends to be greater than zero.
 
 * Missing Transverse Momentum > 40 GeV : This cut should remove $$Z$$ background since there tends to be little missing transverse in $$Z$$ events.  $$Z$$ boson decays to charged leptons do not have any neutrinos in the final state while the other processes do.
 
