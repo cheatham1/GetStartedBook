@@ -28,6 +28,7 @@ The major background contributions to the search in this decay mode are top-pair
 All of these processes contain two isolated high-$$p_\text{T}$$ leptons from $$W$$ or $$Z$$ boson decays, which is also the signature of the signal.
 
 There is also the $$W$$+[jets](https://en.wikipedia.org/wiki/Jet_(particle_physics) background, where one of the jet decay products might be mistaken for an isolated high-$$p_\text{T}$$ lepton.
+
 Its contribution is small and is neglected here.
 
 The term $$p_\text{T}$$ stands for transverse momentum, the component of momentum perpendicular to the beam line. 
