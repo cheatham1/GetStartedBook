@@ -43,7 +43,7 @@ The sample significance quantifies how "significant" the Higgs sample is with re
 
 ![](pictures/channel.jpg)
 
-The leptonic decay channels are shown here: di-electron (ee), di-muon (mm) and electron-muon (em).
+The leptonic decay channels are shown here: dielectron (ee), dimuon (mm) and electron-muon (em).
 Decays to taus or hadrons are not considered in Histogram Analyser.
 
 ## Reconstructed Dilepton Mass [GeV]
@@ -60,7 +60,7 @@ With no cuts, this peaks at 90 GeV, due the huge [$$Z$$ boson](http://pdg.lbl.go
 ![](pictures/NumbersMassCutLess75.png)
 We remove a large number of $$Z$$ boson events by selecting Reconstructed Dilepton Mass < 75 GeV, whilst hardly touching our Higgs signal.
 The $$H\rightarrow W^+W^-$$ sample significance has increased from 0.021 to 0.110 with this cut.
-It is thus a useful quantity to reduce the huge Z boson background.
+It is thus a useful quantity to reduce the huge $$Z$$ boson background.
 
 
 ## Number of Jets
