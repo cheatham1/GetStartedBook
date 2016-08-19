@@ -78,11 +78,14 @@ Top-quark pair production leads to $$WW$$+jets final states.
 
 ## Are Jets b-tagged?
 
+Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
+
 ![](pictures/Btag.jpg)
 ![](pictures/nEventsBtagged.png)
 ![](pictures/BtaggedYes.png)
+![](pictures/NeventsBtaggedYes.png)
 
-Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
+
 
 B-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z$$ boson decays.
 
@@ -101,6 +104,8 @@ Missing transverse momentum is used to infer the presence of non-detectable part
 It is expected to be a signature of many predicted physics events that contain particles that do not interact with the detector, for example the lightest [supersymmetric](http://home.cern/scientists/updates/2013/10/supersymmetry-searches-atlas) particle.
 
 The standard abbreviation for missing transverse momentum is MET, for historical reasons.
+
+
 
 $$Z$$ boson decays to charged leptons do not have any neutrinos in the final state while the other processes do.
 That is why requiring missing transverse momentum removes $$Z$$ boson events.
