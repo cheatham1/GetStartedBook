@@ -83,7 +83,7 @@ Jets originating from b-quarks are identified and tagged using so-called b-taggi
 ![](pictures/Btag.jpg)
 ![](pictures/nEventsBtagged.png)
 ![](pictures/BtaggedYes.jpg)
-![](pictures/NeventsBtagged.jpg)
+![](pictures/nEventsBtagged.jpg)
 
 
 
@@ -123,7 +123,7 @@ For $$Z$$ boson events, total lepton transverse momentum peaks at zero since the
 
 ![](pictures/PTttbar.jpg)
 
-![](pictures/PTWW.jpg)
+![](pictures/PTWW.png)
 ![](pictures/PTHWW.jpg)
 
 For the other processes this cancellation is not as pronounced.
