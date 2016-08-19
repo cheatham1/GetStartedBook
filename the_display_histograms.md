@@ -41,7 +41,9 @@ The sample significance quantifies how "significant" the Higgs sample is with re
 
 ## Channel
 
-The leptonic decay channels are shown here: di-electron (ee), electron-muon (em) and di-muon (mm). 
+![](pictures/channel.jpg)
+
+The leptonic decay channels are shown here: di-electron (ee), di-muon (mm) and electron-muon (em).
 Decays to taus or hadrons are not considered in Histogram Analyser.
 
 ## Reconstructed Dilepton Mass [GeV]
@@ -61,8 +63,6 @@ The $$H\rightarrow W^+W^-$$ sample significance has increased from 0.021 to 0.11
 It is thus a useful quantity to reduce the huge Z boson background.
 
 
-
-
 ## Number of Jets
 
 Number of jets found in the event.
@@ -77,6 +77,8 @@ Top-quark pair production leads to $$WW$$+jets final states.
 
 
 ## Are Jets b-tagged?
+
+
 
 Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
 
