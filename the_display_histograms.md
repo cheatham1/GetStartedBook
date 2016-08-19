@@ -80,6 +80,7 @@ Top-quark pair production leads to $$WW$$+jets final states.
 
 ![](pictures/Btag.jpg)
 
+
 Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
 
 B-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z$$ boson decays.
