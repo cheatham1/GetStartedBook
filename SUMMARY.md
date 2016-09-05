@@ -9,7 +9,7 @@
 * [ROOTbrowser datasets](rootbrowser_datasets.md)
 * [Variable Names](variable_names.md)
 * [Glossary](GLOSSARY.md)
-* [Animated ATLAS events](animated_atlas_events.md)
 * [ATLAS events](atlas_events.md)
+* [Animated ATLAS events](animated_atlas_events.md)
 * [ATLAS at CERN](atlas_at_cern.md)
 
