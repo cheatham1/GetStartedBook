@@ -1,9 +1,8 @@
 # Animated ATLAS events
 
-{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
+ATLAS animation of real event displays at 7 TeV on March 30th
 
-
-<img src="https://cds.cern.ch/record/1255875">
+https://cds.cern.ch/record/1255875
 
 
 
