@@ -11,5 +11,5 @@
 * [Glossary](GLOSSARY.md)
 * [ATLAS events](atlas_events.md)
 * [ATLAS at CERN](atlas_at_cern.md)
-* Animated ATLAS events
+* [Animated ATLAS events](animated_atlas_events.md)
 
