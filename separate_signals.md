@@ -6,7 +6,7 @@ Using the Histogram Analyser we can look at each sample separately and understan
 This will help us separate our signal from the background later.
 
 **Select the sample by clicking on the bar in the Expected Number of Events histogram.**
-The rest of your histograms now just display the characteristics of your chosen sample.
+The rest of the histograms now just display the characteristics of your chosen sample.
 
 ## $$H\rightarrow W^+W^-$$
 
@@ -73,11 +73,28 @@ Looking at the individual histograms:
 * The opening angle between the missing transverse momentum and the leptons is fairly evenly distributed over the whole $$\phi$$ range.
 * The opening angle of the leptons from top quark production is fairly evenly distributed over the whole $$\phi$$ range, tending to slightly larger values.
 
-## Conclusion
-Histogram Analyser shows us that demanding
+
+Therefore demanding
 * non b-tagged jets, 
 * only 0 or 1 jet, 
-* small angular separation of leptons and 
-* large angular separation between MET and leptons 
+* small opening angle between leptons and 
+* small opening angle between MET and leptons 
  
 will reduce the top quark contribution.
+
+## $$Z$$
+
+
+![](pictures/separateSignals/justZ.png)
+
+Looking at the individual histograms:
+
+* The events occur in the di-electron and di-muon channels. 
+* The reconstructed mass from the two leptons peaks at around 90 GeV.
+* The majority of events do not contain jets.
+* Most events do not have b-tagged jets. 
+* The total lepton transverse momentum peaks around zero.  
+* The opening angle between the missing transverse momentum and the leptons is fairly evenly distributed over the whole $$\phi$$ range, tending to slightly larger values.
+* The opening angle of the leptons tends to be large (back-to-back) 
+
+Demanding di-lepton mass <
