@@ -97,4 +97,4 @@ Looking at the individual histograms:
 * The opening angle between the missing transverse momentum and the leptons is fairly evenly distributed over the whole $$\phi$$ range, tending to slightly larger values.
 * The opening angle of the leptons tends to be large (back-to-back) 
 
-Demanding di-lepton mass < 75 GeV removes much of the $$Z$$ background.
+The $$Z$$ boson has a mass of 91 GeV, which is reconstructed from the mass of the two leptons.  Requiring Reconstructed Dilepton Mass to be less than 75 GeV removes over 90 % of the Z events. This is an important cut to remove this background from our Higgs signal.
