@@ -132,6 +132,7 @@ Their distributions peak at between 30 and 80 GeV.
 ![](pictures/OpeningAngleLeptons.jpg)
 
 This is the opening angle, in phi (𝜙), between the two leptons.  
+The azimuthal angle $$\phi$$ is measured from the $$x$$-axis, around the beam.
 
 In the event display above, two lepton tracks are displayed in red and the opening angle between the two leptons is marked in blue.
 
