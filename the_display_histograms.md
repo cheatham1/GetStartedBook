@@ -2,15 +2,15 @@
 # Histogram Analyser
 
 Physicists use cuts to select events of interest.  
-Cuts preferentially remove the unwanted processes (background) but leave most of the desired process (signal). 
+Cuts preferentially remove the unwanted processes (background) but leave as much as possible of the desired process (signal). 
 It is useful to have a good understanding of the physics processes involved when applying cuts.
 
 The 4 processes displayed in Histogram Analyser are $$H\rightarrow W^+W^-$$, $$WW$$, $$t\bar t$$ and $$Z$$.
 Each process is represented by a different colour. 
 
-Make cuts using your cursor.
-The selected ranges will be couloured, whilst non-selected ranges will be greyed out.
-When you make cuts the contributions of the four processes will change.
+## Make cuts using your cursor.
+Use the cursor to select a specific range in one of the histograms.
+The selected ranges will be coloured, whilst non-selected ranges will be greyed out.  When you make cuts on a variable the relative contributions of the four processes will change.
 
 **To clear your selection on a specific histogram click on the white background within the histogram area. **
 
@@ -27,15 +27,15 @@ Histogram Analyser is displaying Monte-Carlo simulated events.
 This histogram shows the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarn (1/fb) of data. 
 One inverse femtobarn corresponds to approximately 100 trillion proton-proton collisions.
 
-The number of events detected and reconstructed by ATLAS is different to the actual number of events produced.
-Some events will not be reconstructed due to the detector construction, detector resolution, reconstruction efficiency and other inefficiencies.
+The number of events reconstructed by ATLAS is different to the actual number of events produced.
+Some events will not be reconstructed due to the way the detector is constructed, the resolution of the sub-detectors, reconstruction efficiency and other inefficiencies.
 
 
 ![](pictures/NumbersNoSelection.jpg)
 
-With no cuts, we can see we have 17 $$H\rightarrow W^+W^-$$ events, with a total background of 612875 events.
+With no cuts, we have 17 $$H\rightarrow W^+W^-$$ events, with a total background of 613349 events.
 
-The sample significance quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by $$(\text{Number of } H\rightarrow W^+W^- \text{events}) / \sqrt{\text{Number of background events}}$$).  The larger the significance value is, the better job you have done extracting the Higgs signal.
+The significance quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by $$(\text{Number of } H\rightarrow W^+W^- \text{events}) / \sqrt{\text{Number of background events}}$$).  The larger the significance value is, the better job you have done extracting the Higgs signal.
 
 
 
@@ -49,18 +49,15 @@ Decays to taus or hadrons are not considered in Histogram Analyser.
 ## Reconstructed Dilepton Mass [GeV]
 
 This histogram displays the mass reconstructed from the two leptons in the final state.
-The variable describes the mass of an intermediate particle that has decayed to the two leptons.
 
 ![](pictures/DiLeptonMassNoCuts.png)
-
-
 With no cuts, this peaks at 90 GeV, due the huge [$$Z$$ boson](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) contribution.
 
 ![](pictures/MassCutLess75.png)
 ![](pictures/NumbersMassCutLess75.png)
-We remove a large number of $$Z$$ boson events by selecting Reconstructed Dilepton Mass < 75 GeV, whilst hardly touching our Higgs signal.
-The $$H\rightarrow W^+W^-$$ sample significance has increased from 0.021 to 0.110 with this cut.
-It is thus a useful quantity to reduce the huge $$Z$$ boson background.
+We can remove a large number of $$Z$$ boson events by selecting Reconstructed Dilepton Mass < 75 GeV, whilst hardly touching our Higgs signal.
+The $$H\rightarrow W^+W^-$$ sample significance increases from 0.021 to 0.110 with this cut.
+It is thus a useful quantity to use to reduce the huge $$Z$$ boson background.
 
 
 ## Number of Jets
@@ -72,7 +69,7 @@ Number of jets found in the event.
 
 ![](pictures/Nevents2plusJets.jpg)
 
-When selecting 2 or more jets we see the $$Z$$ boson contribution decreases and the $$t\bar{t}$$ contribution becomes more important.  
+When selecting 2 or more jets we see that the $$Z$$ boson contribution decreases and the $$t\bar{t}$$ contribution becomes more important.  
 Top-quark pair production leads to $$WW$$+jets final states.
 
 
@@ -89,7 +86,7 @@ Jets originating from b-quarks are identified and tagged using so-called b-taggi
 
 B-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z$$ boson decays.
 
-Selecting 'Are Jets b-tagged' as yes, we can see the ratio of ttbar to $$Z$$ events increases from 1334/611276 = 0.002 to 1041/7227 = 0.14 and the green ttbar contribution is now noticeable in the histograms.
+Selecting 'Are Jets b-tagged' as yes, the ratio of ttbar to $$Z$$ events increases from 1334/611276 = 0.002 to 1041/7227 = 0.14 and the green ttbar contribution is now noticeable in the histograms.
 
 
 ## Missing Transverse Momentum (MET) [GeV]
@@ -101,7 +98,7 @@ However, the initial momentum of particles travelling transverse to the beam axi
 Therefore, any net momentum in the transverse direction indicates missing transverse momentum.
 
 Missing transverse momentum is used to infer the presence of non-detectable particles such as the neutrino.
-It is expected to be a signature of many predicted physics events that contain particles that do not interact with the detector, for example the lightest [supersymmetric](http://home.cern/scientists/updates/2013/10/supersymmetry-searches-atlas) particle.
+It is also expected to be a signature of many predicted physics events beyond the Standard Model, for example the lightest [supersymmetric](http://home.cern/scientists/updates/2013/10/supersymmetry-searches-atlas) particle.
 
 The standard abbreviation for missing transverse momentum is MET, for historical reasons.
 
