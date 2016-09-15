@@ -24,27 +24,16 @@ $$H\rightarrow W^+W^-\rightarrow ℓ^+ ℓ^-\nu \bar\nu$$   (ℓ= lepton = elect
 A signature of this decay process, is an isolated high-$$p_\text{T}$$ lepton.
 The term $$p_\text{T}$$ stands for transverse momentum, the component of momentum perpendicular to the beam line.  Unfortunately, the main background processes also contain isolated high-$$p_\text{T}$$ leptons from $$W$$ or $$Z$$ boson decays.
 
-
-The term $$p_\text{T}$$ stands for transverse momentum, the component of momentum perpendicular to the beam line. 
-In proton-proton collisions the overall momentum along the beamline is not known.
-This is because protons are composite particles consisting of many so-called partons (quarks and gluons).
-Each of the partons carries an unknown fraction of the protons momentum.
-When two protons collide it is actually the partons that interact.
-However, their exact momentum along the beamline is unknown.
-We only know that the overall momentum perpendicular to the beamline is zero before the collision.
-Thus, it is the most important momentum variable in a proton-proton collision.
-
-Isolation is important because it indicates where the lepton stems from.
-For example, an isolated electron is likely to originate from $$Z$$ boson, $$W$$ boson, $$\tau$$-lepton.  
-In contrast, a non-isolated electron is likely to originate from $$b$$-hadron or $$c$$-hadron decays.
-
 <img src="./EventDisplays/HWW2.jpg" width="300" />
 
-Event display of an event satisfying all the selection criteria for events in the Higgs - zero jets + electron + muon channel. 
+Event display of an event satisfying all the selection criteria for events in the Higgs with zero jets + electron + muon channel. 
 The reconstructed lepton $$p_\text{T}$$ values are 33 GeV for the electron (green track) and 29 GeV for the muon (red track).
 The reconstructed missing transverse momentum (magenta arrow) is 35 GeV.
 
 ## $$WW$$
+
+The W boson is a fundamental particle. Together with the Z boson, it is responsible for the weak force, one of four fundamental forces that govern the behaviour of matter in our universe. 
+
 $$W$$ boson pair production occurs via
 
 * **quark–antiquark annihilation** $$q\bar q \rightarrow W^+W^-$$
@@ -54,10 +43,10 @@ $$W$$ boson pair production occurs via
 * **gluon fusion** $$gg\rightarrow W^+W^-$$
 
 
-[Vector boson](https://en.wikipedia.org/wiki/Vector_boson) pair production is an important process for checks of the [gauge structure](https://en.wikipedia.org/wiki/Gauge_theory) of the Standard Model and the search for [new physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model).
+$$W$$ boson pair production is an important process for checks of the [gauge structure](https://en.wikipedia.org/wiki/Gauge_theory) of the Standard Model and the search for [new physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model).
 It is an irreducible background for many Higgs and new physics searches. 
 
-W bosons can decay either
+$$W$$ bosons can decay either
 * [leptonically](https://en.wikipedia.org/wiki/Lepton): into an [electron](https://en.wikipedia.org/wiki/Electron) or [muon](https://en.wikipedia.org/wiki/Muon) and [neutrino](https://en.wikipedia.org/wiki/Neutrino). 
 * [hadronically](https://en.wikipedia.org/wiki/Hadron): into an [up-type quark](https://en.wikipedia.org/wiki/Quark) and a [down-type quark](https://en.wikipedia.org/wiki/Quark).
 
@@ -87,7 +76,7 @@ All other quarks are only accessible as constituents of hadrons.
 
 Top processes can be used to optimise Monte-Carlo generators,  [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) models and parton distribution functions.
 
-In addition, top pair production is an important background in various Higgs boson analyses and beyond the Standard Model searches.
+Top pair production is an important background in various Higgs boson analyses and beyond the Standard Model searches.
 It is therefore crucial to understand this process in detail. 
 
 In the Standard Model, the top-quark generally decays into a [$$W$$ boson](https://en.wikipedia.org/wiki/W_and_Z_bosons) and a 
@@ -119,24 +108,21 @@ Two of the jets are identified as having originated from $$b$$-quarks.
 
 ## $$Z$$
 
-The [$$W$$](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [$$Z$$](http://home.cern/about/physics/z-boson) bosons are together known as the weak or intermediate vector bosons. These Standard Model elementary particles mediate the weak interaction.  
-
-The production of $$Z$$ bosons at the LHC is due to:
+The [$$W$$](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [$$Z$$](http://home.cern/about/physics/z-boson) bosons are together known as the weak or intermediate vector bosons.  The production of $$Z$$ bosons at the LHC is due to:
 
 * **Drell-Yan **: $$ q \bar q \rightarrow Z/\gamma^* \rightarrow \mu^+\mu^-$$(65%). A quark of one proton and an antiquark of another proton annihilate, creating a [virtual photon](https://en.wikipedia.org/wiki/Virtual_particle) or $$Z$$ boson which then decays into a pair of oppositely-charged leptons. 
 
 * **Quark gluon scattering**: $$qg \rightarrow qZ/γ^* \rightarrow q\mu^+\mu^−$$ (35%). A quark and a [gluon](https://en.wikipedia.org/wiki/Gluon) interact and the quark radiates a virtual photon or $$Z$$ boson which then decays into a pair of oppositely-charged leptons. 
 
-A $$Z$$ boson is neutral and so the sum of the charges of its decay products must be zero.
 A $$Z$$ boson decays in three ways
 
 * **quark-antiquark pair** (70%). These appear as jets.  If the jets are identified as originating from $$b$$-quarks they will be b-tagged.
 
-
 * **neutrino-antineutrino pair** (20%).  Neutrinos do not interact and so are very difficult to detect.  This neutrino decay mode can sometimes be identified with missing transverse momentum.
 
-
 * **lepton-antilepton pairs** (10%).  The three lepton-pair types are equally probable, [electron](https://en.wikipedia.org/wiki/Electron)-positron, [muon](https://en.wikipedia.org/wiki/Muon)-antimuon, and [tau](https://en.wikipedia.org/wiki/Tau_(particle)-antitau pairs.  
+
+A $$Z$$ boson is neutral and so the sum of the charges of its decay products must be zero.
 
 In Histogram Analyser the third decay mode will be studied in the electron-electron (ee) and muon-muon (mm) channel.
 Electrons and muons are much easier to measure than $$\tau$$-leptons.
@@ -145,5 +131,5 @@ Electrons and muons are much easier to measure than $$\tau$$-leptons.
 <img src="./EventDisplays/atlas2010_ZmumuMet-candidate_run167776_evt129360643.jpg" width="400" />
 
 Event display: Candidate event with a $$Z$$ boson decaying to a muon pair, recoiling against missing transverse energy (MET). The muon candidates have transverse momenta of 50 and 126 GeV.
-The invariant mass of the two muons attributed to the Z candidate is 94 GeV; the MET is measured to be 161 GeV. 
+The invariant mass of the two muons attributed to the $$Z$$ candidate is 94 GeV; the MET is measured to be 161 GeV. 
 
