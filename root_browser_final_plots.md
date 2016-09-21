@@ -2,11 +2,11 @@
 
 ##Complex High Energy Physics (HEP) plots in action.##
 
-ROOTbrowser allows you to take a look at some prepared HEP histograms. 
+ROOTbrowser also allows you to take a look at some prepared HEP histograms. 
 
-The analysis implemented the criteria for single $$W$$ boson events with the $$W$$ boson decaying to leptons.
+An analysis has been implemented for single $$W$$ boson events where the $$W$$ boson decays to leptons.
 
-The drop-down menu (second text box) contains a number of examples of final plots.
+The drop-down menu (second text box) contains a number of examples of final plots from this $$W$$ analysis.
 
 As before, select the file you are interested in
 
@@ -21,13 +21,14 @@ Then display the histogram.  In this case, click on 'WtMass;1'
 ![](pictures/ROOTbrowser/WtmassPlot.png)
 
 Data is displayed with black filled dots.
-The various simulated samples are shown in filled colours, stacked ontop of each other.  The overall shape of the combined simulated samples is very similar to the data distribution.  There is fairly good agreement between data and simulated data.  The simulated data is affected by the omission of QCD contributions which predominantly populate the low transverse mass regions.
+The various simulated samples are shown in filled colours, stacked ontop of each other.  The overall shape of the combined simulated samples is very similar to the data distribution.  There is fairly good agreement between data and simulated data.  
+
+![](pictures/ROOTbrowser/LeptonPt.png)
 
 
 
-depicts the kinematics, jet vertex fraction, and the MV1 b-tagging weight of the selected jets.
-Here, a slightly larger normalisation offset between real and simulated data is observed. This again may be attributed to missing QCD contributions as the one jet bin would most likely be populated by dijet events, where one jet is either misidentified as the lepton or supplies a non-prompt lepton and the other counts towards the jet multiplicity.
 
+![](pictures/ROOTbrowser/JetMV1.png)
 
 Take a look at the other final plots.
 
@@ -54,4 +55,4 @@ Take a look at the other final plots.
 * pvxp_n : Number of primary vertices
 * vxp_z : Z-position of the primary vertex
 
-The $$W$$ analysis is potentially prone to QCD contributions as there is only one lepton present which may come from non-prompt sources mimicking the desired final state. Therefore, potential disagreements must always be understood as a sign that the QCD contributions are not taken into account. QCD samples are not provided as these have very low statistics after a selection while having a large file size.
+The $$W$$ analysis is potentially prone to QCD contributions as there is only one lepton present which may come from non-prompt sources mimicking the desired final state. Therefore, potential disagreements must always be understood as a sign that the QCD contributions are not taken into account. QCD samples were not included as these have very low statistics after selection while having a large file size.
