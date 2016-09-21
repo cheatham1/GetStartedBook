@@ -1,6 +1,7 @@
 # ATLAS at CERN
 
 Discover more about ATLAS and the LHC at CERN:
+
 * [ATLAS the Experiment](http://atlas.cern/discover/about)
 
 * [The Detector](http://atlas.cern/discover/detector)
@@ -9,7 +10,9 @@ Discover more about ATLAS and the LHC at CERN:
 
 * [Physics Results](https://twiki.cern.ch/twiki/bin/view/AtlasPublic)
 
-<img src="./pictures/ATLAS.jpg" width="200" />
+
+![](pictures/ATLAS.jpg)
+
 
 
 
