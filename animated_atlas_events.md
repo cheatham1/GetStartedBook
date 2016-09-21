@@ -9,8 +9,3 @@ https://cds.cern.ch/video/CERN-VIDEORUSH-2010-021
 
 
 
-{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
-
-
-
-
