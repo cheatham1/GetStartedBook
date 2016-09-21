@@ -23,22 +23,45 @@ Then display the histogram.  In this case, click on 'WtMass;1'
 Data is displayed with black filled dots.
 The various simulated samples are shown in filled colours, stacked ontop of each other.  The overall shape of the combined simulated samples is very similar to the data distribution.  There is fairly good agreement between data and simulated data.  
 
+The W analysis is potentially prone to QCD contributions as there is only one lepton present which may come from non-prompt sources mimicking the desired final state. Therefore, potential disagreements must always be understood as a sign that the QCD contributions are not taken into account. QCD samples were not included as these have very low statistics after a selection while having a large file size.
+
+![](pictures/ROOTbrowser/WMET.png)
+
+The distributions of the transverse mass as well as the missing transverse momentum are affected by the omission of QCD contributions, which predominantly populate the low missing transverse momentum and low transverse mass regions.
+
 ![](pictures/ROOTbrowser/LeptonPt.png)
 
+The magnetic field bends the charged particles thus allowing measurement of the momentum by using the curvature of the tracks.
+The histogram shows the momentum of the lepton transverse to the beam.
 
+![](pictures/ROOTbrowser/LeptonEnergy.png)
+
+Lepton energy is measured by the electromagnetic calorimeters.
+The overall description of the lepton kinematics by the simulated data is good.
+
+
+![](pictures/ROOTbrowser/Tracking.png)
+
+Less well described are the tracking and isolation variables.
+This suggests that QCD contributions are missing. In this region QCD processes would contribute by either the misidentification of a jet as a lepton or by a hadron decay to leptons inside a jet. These so-called non-prompt leptons are not well isolated resulting in higher values for the isolation variables.
 
 
 ![](pictures/ROOTbrowser/JetMV1.png)
 
-Jet MV1 represents the weight obtained from algorithm based on Multi-Variate technique.  It is used 
+Jet MV1 displays the b-tagging weight obtained from a jet tagging algorithm based on Multi-Variate techniques. High values indicate jets originating from $$b$$-quarks (b-tagged jets).
 
 
-Take a look at the other final plots.
+![](pictures/ROOTbrowser/JetKinematics.png)
+
+The jet variables are reasonably well described by the simulated data.
+The slight disagreement may be attributed to missing QCD contributions.
+
+
 
 ##Example final plots available##
 * WtMass : Transverse Mass of the $$W$$ boson candidate
 * etmiss : Missing transverse momentum
-* jet_MV1 : Weight from algorithm based on Multi-Variate technique
+* jet_MV1 : Weight from algorithm based on Multi-Variate techniques
 * jet_eta : Jet pseudorapidity
 * jet_jvf : Jet Vertex Fraction (JVF)
 * jet_m : Jet mass
@@ -57,5 +80,3 @@ Take a look at the other final plots.
 * n_jets : Number of jets
 * pvxp_n : Number of primary vertices
 * vxp_z : Z-position of the primary vertex
-
-The $$W$$ analysis is potentially prone to QCD contributions as there is only one lepton present which may come from non-prompt sources mimicking the desired final state. Therefore, potential disagreements must always be understood as a sign that the QCD contributions are not taken into account. QCD samples were not included as these have very low statistics after selection while having a large file size.
