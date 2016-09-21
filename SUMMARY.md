@@ -7,7 +7,7 @@
 * [Find the Higgs](find_the_higgs_2.md)
 * [ROOTbrowser](rootbrowser.md)
 * [ROOTbrowser datasets](rootbrowser_datasets.md)
-* ROOT browser final plots
+* [ROOT browser final plots](root_browser_final_plots.md)
 * [Variable Names](variable_names.md)
 * [Glossary](GLOSSARY.md)
 * [ATLAS events](atlas_events.md)
