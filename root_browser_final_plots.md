@@ -34,6 +34,11 @@ The distributions of the transverse mass as well as the missing transverse momen
 The magnetic field bends the charged particles thus allowing measurement of the momentum by using the curvature of the tracks.
 The histogram shows the momentum of the lepton transverse to the beam.
 
+![](pictures/ROOTbrowser/MutlipleDataInfo.png)
+
+If you hover your cursor over a data point, statistics boxes will be shown.  The bottom box shows the information for data, so in this case there are 858 leptons with $$p_T$$ between 50 and 60 GeV.  The top statistics box shows the total simulated data contribution, 961.4 entries.  
+
+
 ![](pictures/ROOTbrowser/LeptonEnergy.png)
 
 Lepton energy is measured by the electromagnetic calorimeters.
