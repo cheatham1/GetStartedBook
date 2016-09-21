@@ -27,14 +27,14 @@ Take a look at the other final plots.
 WtMass : 
 etmiss : 
 jet_MV1 : 
-jet_eta : jet pseudo-rapidity
+jet_eta : jet pseudorapidity
 jet_jvf : jet vertex fraction
 jet_m : jet mass
 jet_pt :
 lep_E : lepton energy
 lep_charge : lepton charge
 lep_d0 : 
-lep_eta : lepton pseudo-rapidity
+lep_eta : lepton pseudorapidity
 lep_etconerel20 :
 lep_n : number of leptons
 lep_phi : lepton phi
