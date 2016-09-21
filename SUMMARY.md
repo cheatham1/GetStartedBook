@@ -12,4 +12,5 @@
 * [ATLAS events](atlas_events.md)
 * [Animated ATLAS events](animated_atlas_events.md)
 * [ATLAS at CERN](atlas_at_cern.md)
+* ROOT browser final plots
 
