@@ -30,6 +30,9 @@ The various simulated samples are shown in filled colours, stacked ontop of each
 
 ![](pictures/ROOTbrowser/JetMV1.png)
 
+Jet MV1 represents the weight obtained from algorithm based on Multi-Variate technique.  It is used 
+
+
 Take a look at the other final plots.
 
 ##Example final plots available##
