@@ -44,8 +44,6 @@ Higgs boson + 0 jet channel comes from $$WW$$ and $$Z$$+jets.
 
 ![](pictures/HWW0jet.png)
 
-Adding an extra cut, the opening angle between MET and leptons > 140, reduces the signal to 3 events and increases the significance to 0.276
-
 ## Higgs boson + 1 jet
 
 Select: 
