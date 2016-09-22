@@ -43,6 +43,7 @@ The significance quantifies how "significant" the Higgs sample is with respect t
 
 ![](pictures/channel.jpg)
 
+
 The leptonic decay channels are shown here: dielectron (ee), dimuon (mm) and electron-muon (em).
 Decays to taus or hadrons are not considered in Histogram Analyser.
 
@@ -51,10 +52,12 @@ Decays to taus or hadrons are not considered in Histogram Analyser.
 This histogram displays the mass reconstructed from the two leptons in the final state.
 
 ![](pictures/DiLeptonMassNoCuts.png)
+
 With no cuts, this peaks at 90 GeV, due the huge [$$Z$$ boson](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) contribution.
 
 ![](pictures/MassCutLess75.png)
 ![](pictures/NumbersMassCutLess75.png)
+
 We can remove a large number of $$Z$$ boson events by selecting Reconstructed Dilepton Mass < 75 GeV, whilst hardly touching our Higgs signal.
 The $$H\rightarrow W^+W^-$$ sample significance increases from 0.021 to 0.110 with this cut.
 It is thus a useful quantity to use to reduce the huge $$Z$$ boson background.
@@ -69,6 +72,7 @@ Number of jets found in the event.
 
 ![](pictures/Nevents2plusJets.jpg)
 
+
 When selecting 2 or more jets we see that the $$Z$$ boson contribution decreases and the $$t\bar{t}$$ contribution becomes more important.  
 Top-quark pair production leads to $$WW$$+jets final states.
 
@@ -76,6 +80,7 @@ Top-quark pair production leads to $$WW$$+jets final states.
 ## Are Jets b-tagged?
 
 Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
+
 
 ![](pictures/Btag.jpg)
 ![](pictures/nEventsBtagged.png)
@@ -105,6 +110,7 @@ The standard abbreviation for missing transverse momentum is MET, for historical
 ![](pictures/MET100.jpg)
 ![](pictures/NeventsMET100.jpg)
 
+
 $$Z$$ boson decays to charged leptons do not have any neutrinos in the final state while the other processes do.
 That is why requiring missing transverse momentum removes $$Z$$ boson events.
 
@@ -115,6 +121,7 @@ Select missing transverse momentum and watch how the ratio of $$WW$$ and ttbar t
 This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction) of the transverse momenta of the observed charged leptons.
 
 ![](pictures/PTZ.jpg)
+
 
 For $$Z$$ boson events, total lepton transverse momentum peaks at zero since the transverse momenta of both leptons cancel each other.
 
