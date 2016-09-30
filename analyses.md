@@ -56,13 +56,7 @@ Final states with leptons and missing energy are typical for many new physics mo
 
 Understanding the Standard Model processes possessing multiple leptons and missing energy is crucial in the quest to discover or rule out these models.
 
-
-<img src="./EventDisplays/fig_08.jpg" width="400" />
-
-Event display: A $$WW$$ candidate event in the electron muon final state.
-The electron and muon candidates have transverse momenta of 21 and 68 GeV, respectively.
-The arrow indicates the missing transverse momentum, which is measured to be 69 GeV.  
-The top left insert shows the event in the x-y projection, with the muon track (red), electron track (orange) and the electron deposit in the electromagnetic calorimeter (green).
+![](EventDisplays/WWplusCaption.png)
 
 ## $$t\bar t$$
 
@@ -91,15 +85,7 @@ Three channels are possible depending on the decays of the $$W$$ bosons:
 * If both $$W$$ bosons decay hadronically, six jets are seen, two from each $$W$$ and two from the $$b$$-quarks.
 * If the decay is semi-leptonic, one $$W$$ boson decays leptonically and the other hadronically; four jets are seen, two of them are from $$b$$-quarks.
 
-
-<img src="./EventDisplays/run267638_evt193690558.jpg" width="400" />
-
-Event display: A top pair candidate event recorded by ATLAS with LHC stable beams at a collision energy of 13 TeV. 
-The red line shows the path of a muon with $$p_\text{T} \approx$$ 140 GeV. 
-The green line shows the path of an electron with  $$p_\text{T} \approx$$ 170 GeV.
-The green and yellow bars indicate energy deposits in the electromagnetic and hadronic calorimeters. 
-From these deposits 3 jets are identified with transverse momenta between 30 and 80 GeV. 
-Two of the jets are identified as having originated from $$b$$-quarks.  
+![](EventDisplays/ToppairPlusCaption.png)
 
 ## $$Z$$
 
@@ -122,9 +108,6 @@ A $$Z$$ boson is neutral and so the sum of the charges of its decay products mus
 In Histogram Analyser the third decay mode will be studied in the electron-electron (ee) and muon-muon (mm) channel.
 Electrons and muons are much easier to measure than $$\tau$$-leptons.
 
+![](EventDisplays/ZmumuPlusCaption.png)
 
-<img src="./EventDisplays/atlas2010_ZmumuMet-candidate_run167776_evt129360643.jpg" width="400" />
-
-Event display: Candidate event with a $$Z$$ boson decaying to a muon pair, recoiling against missing transverse energy (MET). The muon candidates have transverse momenta of 50 and 126 GeV.
-The invariant mass of the two muons attributed to the $$Z$$ candidate is 94 GeV; the MET is measured to be 161 GeV. 
 
