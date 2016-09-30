@@ -23,12 +23,7 @@ $$H\rightarrow W^+W^-\rightarrow ℓ^+ ℓ^-\nu \bar\nu$$   (ℓ= lepton = elect
 
 A signature of this decay process, is an isolated high-$$p_\text{T}$$ lepton.
 The term $$p_\text{T}$$ stands for transverse momentum, the component of momentum perpendicular to the beam line.  Unfortunately, the main background processes also contain isolated high-$$p_\text{T}$$ leptons from $$W$$ or $$Z$$ boson decays.
-
-<img src="./EventDisplays/HWW2.jpg" width="300" />
-
-Event display of an event satisfying all the selection criteria for events in the Higgs with zero jets + electron + muon channel. 
-The reconstructed lepton $$p_\text{T}$$ values are 33 GeV for the electron (green track) and 29 GeV for the muon (red track).
-The reconstructed missing transverse momentum (magenta arrow) is 35 GeV.
+![](EventDisplays/HWW2plusCaption.png)
 
 ## $$WW$$
 
