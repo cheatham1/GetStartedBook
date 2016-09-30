@@ -159,7 +159,7 @@ This is the opening angle, in phi (𝜙), between the missing transverse momentu
 
 In the event display above, missing transverse energy is displayed by the dotted yellow line.  The midline between the two lepton tracks (the direction of the vectorial sum of their transverse momenta) is represented by the dotted red line.  The opening angle between the MET and leptons is shown in yellow.
 
-$$t\bar t$$ and $$Z$$ events show a relatively flat distribution in this variable whereas $$H\rightarrow W^+W^-$$ and $$WW$$ peak at large values.
+Events with $$t\bar t$$ and $$Z$$ show a relatively flat distribution in this variable whereas $$H\rightarrow W^+W^-$$ and $$WW$$ peak at large values.
 
 This is a useful discriminant to remove background events.
 
