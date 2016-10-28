@@ -6,10 +6,10 @@ Here we present two methods of online data visualisation.  Both are easy to use,
 
 **A web based tool for fast, cut-based analysis of simulated data. Visualise the simulated data using online histograms.**
 
-This tool will show how physicists work to differentiate between physics processes.
-The signatures of physics processes can look very different in the detector.
-These differences are expressed via variables such as the number of leptons in an event.
-The webpage displays nine histograms of variables which will be used to isolate Higgs events.  
+This tool shows how physicists differentiate between physics processes.
+The signatures of different physics processes can look very different from one another.  This is useful, to select a physics process from a background of other physics processes.
+
+The webpage displays nine histograms of variables which can be used to isolate Higgs boson events.  
 
 Use your cursor to apply selections to a particular variable.
 The effect on the other variables will be shown immediately.  
@@ -24,8 +24,8 @@ More variables are available for display with ROOTbrowser than Histogram Analyse
 **
 
 You can inspect one or more datasets.
-They hold the distributions for many variables of interest.
-You can display the distributions and impose selections by using the cursor.
+Distributions can be displayed for various variables of interest.
+You can display the distributions and impose your own selections by using the cursor.
 
 The ROOT browser can help you understand the data, before you begin writing analysis code.
 
