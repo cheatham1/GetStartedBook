@@ -1,7 +1,7 @@
 
 # Separate Signals
 
-Let's look at the Monte Carlo simulated data.
+Let's look at the simulated data.
 Using the Histogram Analyser we can look at each sample separately and understand a little more about their characteristics. 
 This will help us separate our signal from the background later.
 
@@ -12,7 +12,7 @@ The rest of the histograms now just display the characteristics of your chosen s
 
 $$H\rightarrow W^+W^- \rightarrow ℓ^+ℓ^-\nu \bar\nu$$ ( ℓ = electron, muon)
 
-Our signal is the  Higgs boson which decays into 2 $$W$$ bosons which subsequently decay into leptons and neutrinos. 
+Our signal is the  Higgs boson which decays into two $$W$$ bosons which subsequently decay into leptons and neutrinos. 
 
 ![](pictures/separateSignals/HWW.png)
 
@@ -97,4 +97,4 @@ Looking at the individual histograms:
 * The opening angle between the missing transverse momentum and the leptons is fairly evenly distributed over the whole $$\phi$$ range, tending to slightly larger values.
 * The opening angle of the leptons tends to be large (back-to-back) 
 
-The $$Z$$ boson has a mass of 91 GeV, which is reconstructed from the mass of the two leptons.  Requiring Reconstructed Dilepton Mass to be less than 75 GeV removes over 90 % of the Z events. This is an important cut to remove this background from our Higgs signal.
+The $$Z$$ boson has a mass of 91 GeV, which is reconstructed from the mass of the two leptons.  Requiring Reconstructed Dilepton Mass to be less than 75 GeV removes over 90 % of the Z events. This is an important cut to remove this background from our Higgs boson signal.
