@@ -4,7 +4,7 @@ Follow the steps of a real ATLAS analysis using Histogram Analyser
 
 $$H\rightarrow W^+W^- \rightarrow ℓ^+ ℓ^-\nu  \bar \nu$$ ($$ℓ$$ = electron, muon)
 
-We are looking for a Higgs boson which decays into 2 $$W$$ bosons which subsequently decay into leptons and neutrinos. 
+We are looking for a Higgs boson which decays into two $$W$$ bosons which subsequently decay into leptons and neutrinos. 
 
 The major background contributions to the search in this decay mode are top (top quark pair and W+top quark), $$WW$$ and $$Z$$+jets events.
 
