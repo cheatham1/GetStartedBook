@@ -58,7 +58,7 @@ With no cuts, this peaks at 90 GeV, due the huge [$$Z$$ boson](http://pdg.lbl.go
 ![](pictures/MassCutLess75.png)
 ![](pictures/NumbersMassCutLess75.png)
 
-We can remove a large number of $$Z$$ boson events by selecting **Reconstructed Dilepton Mass**< 75 GeV, whilst hardly touching our Higgs signal.
+We can remove a large number of $$Z$$ boson events by selecting **Reconstructed Dilepton Mass**to be less than 75 GeV, whilst hardly touching our Higgs signal.
 The $$H\rightarrow W^+W^-$$ sample significance increases from 0.021 to 0.110 with this cut.
 It is thus a useful quantity to use to reduce the huge $$Z$$ boson background.
 
