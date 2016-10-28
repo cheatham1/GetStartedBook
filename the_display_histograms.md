@@ -58,7 +58,7 @@ With no cuts, this peaks at 90 GeV, due the huge [$$Z$$ boson](http://pdg.lbl.go
 ![](pictures/MassCutLess75.png)
 ![](pictures/NumbersMassCutLess75.png)
 
-We can remove a large number of $$Z$$ boson events by selecting Reconstructed Dilepton Mass < 75 GeV, whilst hardly touching our Higgs signal.
+We can remove a large number of $$Z$$ boson events by selecting **Reconstructed Dilepton Mass**< 75 GeV, whilst hardly touching our Higgs signal.
 The $$H\rightarrow W^+W^-$$ sample significance increases from 0.021 to 0.110 with this cut.
 It is thus a useful quantity to use to reduce the huge $$Z$$ boson background.
 
@@ -73,13 +73,16 @@ Number of jets found in the event.
 ![](pictures/Nevents2plusJets.jpg)
 
 
-When selecting 2 or more jets we see that the $$Z$$ boson contribution decreases and the $$t\bar{t}$$ contribution becomes more important.  
+When selecting two or more jets we see that the $$Z$$ boson contribution decreases (from 611276 to 25422) and the $$t\bar{t}$$ contribution becomes more important.  
+
+Selecting two or more jets, the ratio of ttbar to $$Z$$ events increases from 1334/611276 = 0.002 to 1038/25422 = 0.04 and the green ttbar contribution is now noticeable in the histograms.
+
 Top-quark pair production leads to $$WW$$+jets final states.
 
 
 ## Are Jets b-tagged?
 
-Jets originating from b-quarks are identified and tagged using so-called b-tagging algorithms.
+Jets originating from $$b$$-quarks are identified and labelled, or **tagged**, using so-called b-tagging algorithms.
 
 
 ![](pictures/Btag.jpg)
@@ -89,14 +92,14 @@ Jets originating from b-quarks are identified and tagged using so-called b-taggi
 
 
 
-B-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z$$ boson decays.
+$$b$$-tagged jets are expected in top quark decays, but not in leptonic $$W$$ or $$Z$$ boson decays.
 
 Selecting 'Are Jets b-tagged' as yes, the ratio of ttbar to $$Z$$ events increases from 1334/611276 = 0.002 to 1041/7227 = 0.14 and the green ttbar contribution is now noticeable in the histograms.
 
 
 ## Missing Transverse Momentum (MET) [GeV]
 
-In the LHC, the initial energy of the colliding partons (quarks or gluons) along the beam axis is not known.
+In the LHC, the initial energy of the colliding partons (quarks or gluons) along the beam axis is not known. 
 This is due to the energy of each proton being shared and constantly exchanged between its constituents.  
 
 However, the initial momentum of particles travelling transverse to the beam axis is zero.
@@ -138,7 +141,7 @@ Their distributions peak at between 30 and 80 GeV.
 
 ![](pictures/OpeningAngleLeptons.jpg)
 
-This is the opening angle, in phi (𝜙), between the two leptons.  
+This is the opening angle, measured in phi (𝜙), between the two leptons.  
 The azimuthal angle $$\phi$$ is measured from the $$x$$-axis, around the beam.
 
 In the event display above, two lepton tracks are displayed in red and the opening angle between the two leptons is marked in blue.
@@ -152,7 +155,7 @@ $$H\rightarrow W^+W^-$$events show a peak at low values in contrast to all other
 
 ## Opening Angle Between MET and Leptons [phi]
 
-This is the opening angle, in phi (𝜙), between the missing transverse momentum and the two leptons.
+This is the opening angle, measured in phi (𝜙), between the missing transverse momentum (MET) and the two leptons.
 
 ![](pictures/OpeningAngleMETleptoms.jpg)
 
