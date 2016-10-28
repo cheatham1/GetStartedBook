@@ -5,7 +5,8 @@ Physicists use **cuts** to select events of interest.
 Cuts preferentially remove the unwanted processes (background) but leave as much as possible of the desired process (signal). 
 It is useful to have a good understanding of the physics processes involved when applying cuts.
 
-The 4 processes displayed in Histogram Analyser are $$H\rightarrow W^+W^-$$, $$WW$$, $$t\bar t$$ and $$Z$$.
+Histogram Analyser displays simulated events.
+The four processes displayed in Histogram Analyser are $$H\rightarrow W^+W^-$$, $$WW$$, $$t\bar t$$ and $$Z$$.
 Each process is represented by a different colour. 
 
 ## Make cuts using your cursor.
@@ -18,24 +19,23 @@ The selected ranges will be coloured, whilst non-selected ranges will be greyed 
 
 ## The histograms explained
 
-Histogram Analyser displays 9 histograms.
+Histogram Analyser displays nine histograms.
 The description of each follows.
 
 ## Expected Number of Events for $$\mathbf{1~fb^{-1}}$$
 
-Histogram Analyser is displaying Monte-Carlo simulated events.
 This histogram shows the number of events expected to be detected, reconstructed and recorded by ATLAS for 1 inverse femtobarn (1/fb) of data. 
 One inverse femtobarn corresponds to approximately 100 trillion proton-proton collisions.
 
-The number of events reconstructed by ATLAS is different to the actual number of events produced.
+The expected number of events reconstructed and recorded by ATLAS is different to the number of events produced.
 Some events will not be reconstructed due to the way the detector is constructed, the resolution of the sub-detectors, reconstruction efficiency and other inefficiencies.
 
 
 ![](pictures/NumbersNoSelection.jpg)
 
-With no cuts, we have 17 $$H\rightarrow W^+W^-$$ events, with a total background of 613349 events.
+With no cuts, we have 17 $$H\rightarrow W^+W^-$$ events, with a total background of 613349 events.  The majority of the background is $$Z$$ boson production.
 
-The significance quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by $$(\text{Number of } H\rightarrow W^+W^- \text{events}) / \sqrt{\text{Number of background events}}$$).  The larger the significance value is, the better job you have done extracting the Higgs signal.
+The **significance** of the  $$H\rightarrow W^+W^-$$ events quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by $$(\text{Number of } H\rightarrow W^+W^- \text{events}) / \sqrt{\text{Number of background events}}$$).  The larger the significance value is, the better job you have done extracting the Higgs signal.
 
 
 
