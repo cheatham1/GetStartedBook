@@ -107,7 +107,8 @@ A $$Z$$ boson then decays into a:
 A $$Z$$ boson is neutral and so the sum of the charges of its decay products must be zero.
 
 In Histogram Analyser the lepton-antilepton pair production can be studied in the electron-electron (ee) and muon-muon (mm) channel.
-Electrons and muons are much easier to measure than $$\tau$$-leptons.
+Decays to taus are not considered in Histogram Analyser.
+Electrons and muons are much easier to measure than taus.
 
 ![](EventDisplays/ZmumuPlusCaption.png)
 
