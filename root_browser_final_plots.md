@@ -23,7 +23,7 @@ Then display the histogram.  In this case, click on 'WtMass;1'
 Data is displayed with black filled dots.
 The various simulated samples are shown in filled colours, stacked ontop of each other.  The overall shape of the combined simulated samples is very similar to the data distribution.  There is fairly good agreement between data and simulated data.  
 
-The W analysis is potentially prone to QCD contributions as there is only one lepton present which may come from non-prompt sources mimicking the desired final state. Therefore, potential disagreements must always be understood as a sign that the QCD contributions are not taken into account. QCD samples were not included as these have very low statistics after a selection while having a large file size.
+The $$W$$ analysis is potentially prone to QCD contributions as there is only one lepton present which may come from non-prompt sources mimicking the desired final state. Therefore, potential disagreements must always be understood as a sign that the QCD contributions are not taken into account. QCD samples were not included as these have very low statistics after a selection while having a large file size.
 
 ![](pictures/ROOTbrowser/WMET.png)
 
