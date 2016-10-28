@@ -13,12 +13,12 @@ One of the most likely ways a Higgs boson will decay is into a pair of [W bosons
 This happens about 23% of the time for a Higgs boson with a mass of 125 GeV.
 The $$W$$ bosons can subsequently decay either into a quark-antiquark, a [lepton](https://en.wikipedia.org/wiki/Lepton)-[antineutrino](https://en.wikipedia.org/wiki/Neutrino), or an antilepton-neutrino pair.
 
-The process we want to study is known as the 'signal process'.
+The process we want to study is known as the **signal process**.
 The signal process in Histogram Analyser is the Higgs boson decaying into two $$W$$ bosons which subsequently decay into leptons and neutrinos:
 
 $$H\rightarrow W^+W^-\rightarrow ℓ^+ ℓ^-\nu \bar\nu$$   (ℓ= lepton = electron or muon).
 
-A key feature, or 'signature' of this signal process, is an isolated high-$$p_\text{T}$$ lepton. 
+A key feature, or **signature** of this signal process, is an isolated high-$$p_\text{T}$$ lepton. 
 The term $$p_\text{T}$$ stands for transverse momentum, the component of momentum perpendicular to the beam line (colliding protons).  Unfortunately, the main background processes also contain isolated high-$$p_\text{T}$$ leptons from $$W$$ or $$Z$$ boson decays.
 
 Often physicists refer to a particle and its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle) collectively by just the particle's name.  So, when we talk about quarks we mean quarks and antiquarks.
