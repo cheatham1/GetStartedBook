@@ -1,7 +1,7 @@
 
 # Histogram Analyser
 
-Physicists use cuts to select events of interest.  
+Physicists use **cuts** to select events of interest.  
 Cuts preferentially remove the unwanted processes (background) but leave as much as possible of the desired process (signal). 
 It is useful to have a good understanding of the physics processes involved when applying cuts.
 
